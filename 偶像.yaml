@@ -1,0 +1,15 @@
+category: 偶像
+total: 2
+subcategories:
+  日本偶像:
+    count: 1
+    members:
+    - name: 小岛阳菜
+      region: 日本
+      note: AKB48
+  韩国偶像:
+    count: 1
+    members:
+    - name: 周子瑜
+      region: 韩国
+      note: TWICE成员

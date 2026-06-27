@@ -1,0 +1,13 @@
+category: 声优
+total: 3
+subcategories:
+  日本声优:
+    count: 3
+    members:
+    - name: 户松遥
+      region: 日本
+      note: 知名声优
+    - name: 上坂堇
+      region: 日本
+    - name: 田中理惠
+      region: 日本

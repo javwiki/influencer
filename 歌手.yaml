@@ -1,0 +1,31 @@
+category: 歌手
+total: 6
+subcategories:
+  国际歌手:
+    count: 1
+    members:
+    - name: Ariana Grande
+      region: 美国
+      note: 格莱美获奖歌手
+  美国歌手:
+    count: 1
+    members:
+    - name: Nicole Scherzinger
+      region: 美国
+      note: 小野猫主唱/模特
+  英国歌手:
+    count: 1
+    members:
+    - name: Alesha Dixon
+      region: 英国
+  韩国歌手:
+    count: 3
+    members:
+    - name: 蔡妍
+      region: 韩国
+    - name: 李孝利
+      region: 韩国
+      note: 韩国天后
+    - name: Narsha
+      region: 韩国
+      note: Brown Eyed Girls
