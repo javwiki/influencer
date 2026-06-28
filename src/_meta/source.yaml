@@ -1,0 +1,39 @@
+# 数据来源配置
+# Data source configuration for influencer directory
+
+sources:
+  - name: youiv
+    url: https://youiv.tv
+    mirror: https://www.toyouiv.com
+    type: forum
+    description: 少女偶像写真论坛 - Idol video/photo forum
+    categories:
+      - 偶像 写真视频 IV Idol Video
+      - 中国 写真图集 Chinese IV
+      - 这是谁 女优看图识人+介绍
+    note: 需登录查看具体内容 / Login required for content
+
+  - name: x_twitter
+    url: https://x.com
+    type: social_media
+    description: X (Twitter) 社交平台 - 获取人物动态信息
+
+  - name: instagram
+    url: https://www.instagram.com
+    type: social_media
+    description: Instagram 社交平台 - 获取人物图片信息
+
+  - name: youtube
+    url: https://www.youtube.com
+    type: video
+    description: YouTube 视频平台 - 获取相关视频
+
+  - name: wikipedia
+    url: https://en.wikipedia.org
+    type: encyclopedia
+    description: Wikipedia 百科 - 获取人物基本资料
+
+  - name: dmm
+    url: https://www.dmm.co.jp
+    type: ecommerce
+    description: DMM - 日本DVD/写真销售平台

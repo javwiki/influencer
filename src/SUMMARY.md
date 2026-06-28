@@ -26,6 +26,7 @@
 - [Daiane Novais](D/Daiane%20Novais.md)
 - [Dita Von Teese](D/Dita%20Von%20Teese.md)
 - [Ekaterina Shiryaeva](E/Ekaterina%20Shiryaeva.md)
+- [Emma Kusunoki](E/emma_kusunoki.md)
 - [Emily Bloom](E/Emily%20Bloom.md)
 - [Emily Ratajkowski](E/Emily%20Ratajkowski.md)
 - [樊玲](F/樊玲.md)
