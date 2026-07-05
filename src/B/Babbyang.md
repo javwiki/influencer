@@ -17,6 +17,11 @@ tags: [模特]
 | IG 显示名 | 바비앙 |
 | Instagram | @babbyang.g |
 | Threads | @babbyang.g（5.1万粉丝） |
+| YouTube | @babbyang.g |
+| TikTok | @babbyang.g |
+| Spotify | 바비앙 |
+| Music | Crazy Love (Genie/Melon) |
+| Linktree | linktr.ee/babbyang.g |
 | 帖子 | 112 |
 | 粉丝 | IG 26.4万 / Threads 5.1万 |
 | DJ 账号 | @dj.babbyang |
