@@ -959,6 +959,12 @@ entries:
   tags:
   - 歌手
   completeness: 83
+- name: Yeonsi
+  reading: 연시
+  path: Y/Yeonsi.md
+  tags:
+  - 网红
+  completeness: 83
 - name: 全慧彬
   reading: '전혜빈'
   path: J/全慧彬.md
