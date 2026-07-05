@@ -1001,6 +1001,12 @@ entries:
   tags:
   - 模特
   completeness: 83
+- name: Babbyang
+  reading: ''
+  path: B/Babbyang.md
+  tags:
+  - 模特
+  completeness: 83
 - name: Cara Rose
   reading: ''
   path: C/Cara_Rose.md
@@ -1138,12 +1144,6 @@ entries:
   path: P/Pichana_Yoosuk.md
   tags:
   - 演员
-  completeness: 83
-- name: Princess Ang
-  reading: ''
-  path: P/Princess_Ang.md
-  tags:
-  - 网红
   completeness: 83
 - name: Reona
   reading: ''
