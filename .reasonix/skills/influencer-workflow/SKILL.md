@@ -16,10 +16,22 @@ description: Influencer book 项目完整工作流 — 新增/修改条目、更
 3. **查阅 `src/_meta/list.yaml`**：确认条目是否已在索引中。
 4. **查阅同类条目**：找到与目标人物同分类/同标签的现有条目，参考其格式与字段。
 5. **身份验证（重要）**：用户提供的社交账号（如 `ig@xxx`、`x@xxx`），必须从**该平台本身**获取真实身份信息。
-   - Instagram 账号 → 访问 Instagram 页面获取简介/头像/粉丝数
-   - X/Twitter 账号 → 访问 X 页面获取显示名/简介
    - **严禁**：仅凭相似用户名就跨平台推定是同一人（如 `ig@babbyang.g` ≠ `x@babbyangg`）
    - 信息不足时，向用户确认人物真实姓名或更多线索
+
+### 信息获取方法（按成功率排序）
+
+| 平台 | 方法 | 成功率 |
+|------|------|--------|
+| **Instagram** | **① `https://search.brave.com/search?q={username}+instagram`** → 提取简介/粉丝 | ✅ 高 |
+| | **② Linktree：`linktr.ee/{username}`** → 汇总所有社交链接 | ✅ 高（如有） |
+| | ③ Puppeteer：访问 `instagram.com/{username}/` → 可提取公开资料 | ⚠️ 中（受登录墙影响） |
+| | ❌ 第三方查看器（imginn、dumpoir、instasave）→ 被 Cloudflare 拦截 | ❌ 低 |
+| **Threads** | `threads.net/@{username}` → 直接访问可查看公开资料 | ✅ 高 |
+| **X/Twitter** | Nitter RSS：`nitter.net/{handle}/rss` → 提取显示名/推文 | ✅ 高 |
+| **其他** | Brave Search 搜 `{username}` → 发现更多平台关联 | ✅ 中 |
+
+> **实践验证**：`ig@babbyang.g` 通过 Brave Search 找到 Linktree → 从中发现 YouTube、TikTok、Spotify、Threads、音乐作品等全部平台。Instagram 第三方查看器均因 Cloudflare 不可用。
 
 ## 第 2 阶段：创建/编辑条目文件
 
