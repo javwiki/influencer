@@ -99,7 +99,7 @@ tags: [分类]
 
 ## 第 4 阶段：构建验证
 
-`src/_tags/` 目录已列入 `.gitignore`（本地标签索引，不受版本控制），无需关注。只需确保条目文件的 `tags` frontmatter 正确即可。
+`src/_tags/` 目录是**自动生成**的（已列入 `.gitignore`），无需手动维护。只需确保条目文件的 `tags` frontmatter 正确即可。
 
 运行以下命令确保项目无误：
 
