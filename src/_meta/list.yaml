@@ -149,6 +149,12 @@ entries:
   tags:
   - 演员
   completeness: 83
+- name: 風吹ケイ
+  reading: 'ふぶき けい'
+  path: F/風吹ケイ.md
+  tags:
+  - 演员
+  completeness: 83
 - name: 星野亚希
   reading: 'ほしの あき'
   path: H/星野亚希.md
