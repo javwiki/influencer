@@ -1163,6 +1163,12 @@ entries:
   tags:
   - 演员
   completeness: 83
+- name: Pishen Eva
+  reading: ''
+  path: P/Pishen_Eva.md
+  tags:
+  - 网红
+  completeness: 83
 - name: Qiaoniu
   reading: ''
   path: Q/Qiaoniu.md
