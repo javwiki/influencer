@@ -24,12 +24,13 @@ description: Influencer book 项目完整工作流 — 新增/修改条目、更
 | 平台 | 方法 | 成功率 |
 |------|------|--------|
 | **Instagram** | **① `https://search.brave.com/search?q={username}+instagram`** → 提取简介/粉丝 | ✅ 高 |
-| | **② Linktree：`linktr.ee/{username}`** → 汇总所有社交链接 | ✅ 高（如有） |
+| | **② 聚合页：`linktr.ee/{username}` / `linkbio.co/{username}` 等** → 汇总所有社交链接，参见 [linktree.md](/linktree.md) | ✅ 高（如有） |
 | | ③ Puppeteer：访问 `instagram.com/{username}/` → 可提取公开资料 | ⚠️ 中（受登录墙影响） |
 | | ❌ 第三方查看器（imginn、dumpoir、instasave）→ 被 Cloudflare 拦截 | ❌ 低 |
 | **Threads** | `threads.net/@{username}` → 直接访问可查看公开资料 | ✅ 高 |
 | **X/Twitter** | Nitter RSS：`nitter.net/{handle}/rss` → 提取显示名/推文 | ✅ 高 |
 | **其他** | Brave Search 搜 `{username}` → 发现更多平台关联 | ✅ 中 |
+| **聚合页** | 尝试 `linktr.ee/{username}`、`linkbio.co/{username}`、`beacons.ai/{username}` 等 → 详见 [linktree.md](/linktree.md) | ✅ 高（如有）|
 
 > **实践验证**：`ig@babbyang.g` 通过 Brave Search 找到 Linktree → 从中发现 YouTube、TikTok、Spotify、Threads、音乐作品等全部平台。Instagram 第三方查看器均因 Cloudflare 不可用。
 
