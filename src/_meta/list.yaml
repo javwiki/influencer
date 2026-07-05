@@ -1163,6 +1163,12 @@ entries:
   tags:
   - 演员
   completeness: 83
+- name: Qiaoniu
+  reading: ''
+  path: Q/Qiaoniu.md
+  tags:
+  - 网红
+  completeness: 83
 - name: Reona
   reading: ''
   path: R/Reona.md
