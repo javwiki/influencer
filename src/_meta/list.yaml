@@ -1194,6 +1194,13 @@ entries:
   - 演员
   - 华语演员
   completeness: 83
+- name: 沢地優佳
+  reading: ''
+  path: Z/沢地優佳.md
+  tags:
+  - 演员
+  - 日本演员
+  completeness: 83
 - name: 斋藤飞鸟
   reading: ''
   path: Z/斋藤飞鸟.md
