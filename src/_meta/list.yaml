@@ -869,6 +869,12 @@ entries:
   tags:
   - 演员
   completeness: 83
+- name: Gyeowudi
+  reading: 겨우디
+  path: G/Gyeowudi.md
+  tags:
+  - 网红
+  completeness: 83
 - name: 高俊熙
   reading: '고준희'
   path: G/高俊熙.md
