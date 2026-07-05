@@ -33,3 +33,11 @@ tags: [模特]
 | 简介 | 𝑩𝑨𝑩𝑩𝒀𝑨𝑵𝑮 ✧2022 𝑴𝒂𝒙𝒊𝒎 𝑾𝒊𝒏𝒏𝒆𝒓✧ ✨WDF✨ 2026🎧 |
 | 简介链接 | https://www.instagram.com/dj.babbyang/ |
 
+## 参考资料
+
+- Instagram: https://instagram.com/babbyang.g
+- Threads: https://threads.net/@babbyang.g
+- YouTube: https://youtube.com/@babbyang.g
+- TikTok: https://tiktok.com/@babbyang.g
+- Linkbio: https://linkbio.co/babbyang
+- Spotify: https://open.spotify.com/artist/바비앙

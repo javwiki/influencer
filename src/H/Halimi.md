@@ -23,3 +23,9 @@ tags: [网红]
 | 学历 | 경성대학교 (호텔관광경영학과) |
 | MBTI | ISFP |
 
+## 参考资料
+
+- namu.wiki: https://namu.wiki/w/하리미
+- SOOP: https://sooplive.com/♥HLM♥
+- YouTube: https://youtube.com/@HALIMI하리미
+- Instagram: https://instagram.com/28822_sz

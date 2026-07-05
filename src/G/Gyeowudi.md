@@ -31,3 +31,11 @@ tags: [网红]
 | Twitch | 겨울_겨우디 (16.6萬) |
 | 学历 | 중어중문학과 |
 
+## 参考资料
+
+- namu.wiki: https://namu.wiki/w/겨우디
+- SOOP: https://sooplive.com/겨우디_
+- YouTube: https://youtube.com/@겨우디
+- Instagram: https://instagram.com/winter_28270
+- TikTok: https://tiktok.com/@겨우디
+- Threads: https://threads.net/@겨우디
