@@ -139,6 +139,13 @@ entries:
   - 演员
   - 华语演员
   completeness: 83
+- name: 樁山民子
+  reading: ''
+  path: C/樁山民子.md
+  tags:
+  - 模特
+  - 网红模特
+  completeness: 83
 - name: Cherry Quahst
   reading: ''
   path: C/Cherry_Quahst.md
