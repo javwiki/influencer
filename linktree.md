@@ -12,4 +12,4 @@
 | **Fanlink** | `fanlink.tv/{username}` | 面向 DJ/音乐人 |
 | **Linklist** | `linklist.bio/{username}` | 亚洲常见 |
 | **Allmylinks** | `allmylinks.com/{username}` | 欧美常见 |
-| **linkbio.co** | `linkbio.co/{username}` | 常见聚合服务 |
+| **linkbio.co** | `linkbio.co/{username}` | 常见聚合服务（如 babbyang 实际使用） |

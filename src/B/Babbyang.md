@@ -21,7 +21,12 @@ tags: [模特]
 | TikTok | @babbyang.g |
 | Spotify | 바비앙 |
 | Music | Crazy Love (Genie/Melon) |
-| Linktree | linktr.ee/babbyang.g |
+| SoundCloud | babbyang |
+| Live | 숲 (Soop) |
+| Game | 바비앙이랑게임하기 |
+| Fantrie | 팬트리 (fan platform) |
+| Contact | babbyang67@gmail.com |
+| Linkbio | https://linkbio.co/babbyang |
 | 帖子 | 112 |
 | 粉丝 | IG 26.4万 / Threads 5.1万 |
 | DJ 账号 | @dj.babbyang |
