@@ -30,9 +30,10 @@ description: Influencer book 项目完整工作流 — 新增/修改条目、更
 | **Threads** | `threads.net/@{username}` → 直接访问可查看公开资料 | ✅ 高 |
 | **X/Twitter** | Nitter RSS：`nitter.net/{handle}/rss` → 提取显示名/推文 | ✅ 高 |
 | **其他** | Brave Search 搜 `{username}` → 发现更多平台关联 | ✅ 中 |
+| **한국 (韩国)** | **`https://namu.wiki/w/{한글명}`** → 详细百科（平台/身体/经历/获奖） | ✅ 非常高 |
 | **聚合页** | 尝试 `linktr.ee/{username}`、`linkbio.co/{username}`、`beacons.ai/{username}` 等 → 详见 [linktree.md](/linktree.md) | ✅ 高（如有）|
 
-> **实践验证**：`ig@babbyang.g` 通过 Brave Search 找到 Linktree → 从中发现 YouTube、TikTok、Spotify、Threads、音乐作品等全部平台。Instagram 第三方查看器均因 Cloudflare 不可用。
+> **实践验证**：`ig@babbyang.g` 通过 Brave Search 找到 Linktree → 从中发现 YouTube、TikTok、Spotify、Threads、音乐作品等全部平台。Instagram 第三方查看器均因 Cloudflare 不可用。韩国人物优先查 namu.wiki，信息非常详尽（平台数据、身体尺寸、参赛经历、人际关系等）。
 
 ## 第 2 阶段：创建/编辑条目文件
 
