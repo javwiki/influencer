@@ -179,6 +179,12 @@ entries:
   tags:
   - 演员
   completeness: 83
+- name: 柳瀬さき
+  reading: 'やなせ さき'
+  path: Y/柳瀬さき.md
+  tags:
+  - 演员
+  completeness: 83
 - name: 吉永小百合
   reading: 'よしなが さゆり'
   path: Y/吉永小百合.md
