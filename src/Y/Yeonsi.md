@@ -21,6 +21,8 @@ tags: [网红]
 | 体型 | 38(B)-28(W)-38(H)inch · 70H |
 | YouTube | 개꿀연시 (3.58千) |
 | Instagram | @yonsicute33 (1.9萬) |
+| TikTok | @yonsicute33 / @yonsi783 / @yonsi222 / @yonsi_777 |
+| Panda TV | sexytage777 |
 | Threads | Yonsi |
 | 平台 | 라이키 (Lykee) |
 | 经历 | 前银行职员 |
@@ -29,3 +31,4 @@ tags: [网红]
 
 - namu.wiki: https://namu.wiki/w/연시(인터넷 방송인)
 - Instagram: https://instagram.com/yonsicute33
+- 福利吧: https://fuliba.net/sexytage777.html
