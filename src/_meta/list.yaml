@@ -971,6 +971,12 @@ entries:
   tags:
   - 歌手
   completeness: 83
+- name: Halimi
+  reading: 하리미
+  path: H/Halimi.md
+  tags:
+  - 网红
+  completeness: 83
 - name: Emma Kusunoki (楠エマ)
   reading: ''
   path: E/emma_kusunoki.md
