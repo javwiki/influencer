@@ -863,6 +863,12 @@ entries:
   tags:
   - 演员
   completeness: 83
+- name: 鱼神
+  reading: ''
+  path: Y/鱼神.md
+  tags:
+  - 网红
+  completeness: 83
 - name: 姜敏京
   reading: '강민경'
   path: K/姜敏京.md
