@@ -959,6 +959,12 @@ entries:
   tags:
   - 演员
   completeness: 83
+- name: 유리사
+  reading: '유리사'
+  path: Y/유리사.md
+  tags:
+  - 模特
+  completeness: 83
 - name: 李秀彬
   reading: '이수빈'
   path: L/李秀彬.md
