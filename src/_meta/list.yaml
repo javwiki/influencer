@@ -911,6 +911,12 @@ entries:
   tags:
   - 演员
   completeness: 83
+- name: 동그란
+  reading: '동그란'
+  path: D/동그란.md
+  tags:
+  - 网红
+  completeness: 83
 - name: 朴敏英
   reading: '박민영'
   path: P/朴敏英.md
