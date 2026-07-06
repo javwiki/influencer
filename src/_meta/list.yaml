@@ -995,6 +995,12 @@ entries:
   tags:
   - 演员
   completeness: 83
+- name: 쏘블리
+  reading: '쏘블리'
+  path: S/쏘블리.md
+  tags:
+  - 模特
+  completeness: 83
 - name: 유리사
   reading: '유리사'
   path: Y/유리사.md
