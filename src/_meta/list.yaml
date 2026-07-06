@@ -1193,6 +1193,12 @@ entries:
   tags:
   - 歌手
   completeness: 83
+- name: Numkhing
+  reading: ''
+  path: N/Numkhing.md
+  tags:
+  - 模特
+  completeness: 83
 - name: Pat Napapa
   reading: ''
   path: P/Pat_Napapa.md
