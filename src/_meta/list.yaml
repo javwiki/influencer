@@ -977,6 +977,12 @@ entries:
   tags:
   - 偶像
   completeness: 83
+- name: 서리나
+  reading: '서리나'
+  path: S/서리나.md
+  tags:
+  - 演员
+  completeness: 83
 - name: 宋多惠
   reading: '송다혜'
   path: S/宋多惠.md
