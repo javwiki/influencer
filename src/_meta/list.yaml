@@ -911,6 +911,12 @@ entries:
   tags:
   - 演员
   completeness: 83
+- name: 강인경
+  reading: '강인경'
+  path: K/강인경.md
+  tags:
+  - 网红
+  completeness: 83
 - name: Gyeowudi
   reading: 겨우디
   path: G/Gyeowudi.md
