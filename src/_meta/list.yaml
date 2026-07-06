@@ -179,6 +179,12 @@ entries:
   tags:
   - 演员
   completeness: 83
+- name: 宮瀬いと
+  reading: 'みやせ いと'
+  path: M/宮瀬いと.md
+  tags:
+  - 演员
+  completeness: 83
 - name: 森下悠里
   reading: 'もりした ゆうり'
   path: M/森下悠里.md
