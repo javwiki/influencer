@@ -17,6 +17,12 @@ entries:
   tags:
   - 演员
   completeness: 83
+- name: あまつまりな
+  reading: 'あまつまりな'
+  path: A/あまつまりな.md
+  tags:
+  - 演员
+  completeness: 83
 - name: 池田依来沙
   reading: 'いけだ えらいざ'
   path: I/池田依来沙.md
