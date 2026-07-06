@@ -17,22 +17,25 @@ description: Influencer book 项目完整工作流 — 新增/修改条目、更
 4. **查阅同类条目**：找到与目标人物同分类/同标签的现有条目，参考其格式与字段。
 5. **身份验证（重要）**：用户提供的社交账号（如 `ig@xxx`、`x@xxx`），必须从**该平台本身**获取真实身份信息。
    - **严禁**：仅凭相似用户名就跨平台推定是同一人（如 `ig@babbyang.g` ≠ `x@babbyangg`）
+   - **严禁**：在 A 平台发现某个用户名，就默认该用户名在 B 平台也是同一个人。必须用 A 平台简介中明确提供的 B 平台链接来验证。
+   - **验证方法**：交叉比对不同平台简介内容是否一致（共享的链接、Telegram/微信群号、其他平台 ID 等），以及账号可信度（注册时间、粉丝量级、互动痕迹）。
    - 信息不足时，向用户确认人物真实姓名或更多线索
+   - **实践教训**：王希蔓 IG `@s001s110` 的简介中明确列出了 X 链接 `x.com/dingdingxi5d`，但之前错误地推定 `x.com/s001s110` 也是她的账号。实际上后者是注册仅2个月、0关注、10粉丝的冒充号。正确的做法是**以简介中提供的链接为准**。
 
 ### 信息获取方法（按成功率排序）
 
 | 平台 | 方法 | 成功率 |
 |------|------|--------|
 | **Instagram** | **① `https://search.brave.com/search?q={username}+instagram`** → 提取简介/粉丝 | ✅ 高 |
-| | **② 聚合页：`linktr.ee/{username}` / `linkbio.co/{username}` / `beacons.ai/{username}` 等** → 详见 [linktree.md](/linktree.md) | ✅ 高（如有） |
+| | **② 聚合页：`linktr.ee/{username}` / `linkbio.co/{username}` 等** → 汇总所有社交链接，参见 [linktree.md](/linktree.md) | ✅ 高（如有） |
 | | ③ Puppeteer：访问 `instagram.com/{username}/` → 可提取公开资料 | ⚠️ 中（受登录墙影响） |
 | | ❌ 第三方查看器（imginn、dumpoir、instasave）→ 被 Cloudflare 拦截 | ❌ 低 |
-| **Threads** | `threads.net/@{username}` → 直接查看公开资料 | ✅ 高 |
+| **Threads** | `threads.net/@{username}` → 直接访问可查看公开资料 | ✅ 高 |
 | **X/Twitter** | Nitter RSS：`nitter.net/{handle}/rss` → 提取显示名/推文 | ✅ 高 |
-| **한국 (韩国)** | **`https://namu.wiki/w/{한글명}`** → 详细百科（平台/身体/经历/获奖） | ✅ 非常高 |
 | **其他** | Brave Search 搜 `{username}` → 发现更多平台关联 | ✅ 中 |
+| **聚合页** | 尝试 `linktr.ee/{username}`、`linkbio.co/{username}`、`beacons.ai/{username}` 等 → 详见 [linktree.md](/linktree.md) | ✅ 高（如有）|
 
-> **实践验证**：`ig@babbyang.g` 通过 Brave Search 找到 Linktree → 从中发现 YouTube、TikTok、Spotify、Threads、音乐作品等全部平台。Instagram 第三方查看器均因 Cloudflare 不可用。韩国人物优先查 namu.wiki，信息非常详尽（平台数据、身体尺寸、参赛经历、人际关系等）。
+> **实践验证**：`ig@babbyang.g` 通过 Brave Search 找到 Linktree → 从中发现 YouTube、TikTok、Spotify、Threads、音乐作品等全部平台。Instagram 第三方查看器均因 Cloudflare 不可用。
 
 ## 第 2 阶段：创建/编辑条目文件
 
@@ -63,19 +66,12 @@ tags: [分类]
 |------|-----|
 | 分类 |  |
 | 地区 |  |
-| Instagram | @xxx |
-
-## 参考资料
-
-- Instagram: https://instagram.com/xxx
-- 百科: https://namu.wiki/w/xxx
 ```
 
 ### 字段规范
 - **分类**：使用一级标签。可选值：`演员`、`模特`、`歌手`、`偶像`、`声优`、`Coser`、`网红`、`グラビアアイドル` 等。
 - **tags** 数组：前端 `---` 中的 tags 列表，仅包含一个分类标签。
 - **地区**：按实际地区填写（大陆、台湾、日本、韩国、美国等）。
-- **参考资料**：条目底部必须附 `## 参考资料` 章节，列出信息来源的链接（社交平台、百科、新闻、报道等），每行 `- 平台: URL` 格式。
 
 ## 第 3 阶段：更新索引 `src/_meta/list.yaml`
 
