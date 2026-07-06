@@ -947,6 +947,12 @@ entries:
   tags:
   - 演员
   completeness: 83
+- name: 보미
+  reading: '보미'
+  path: B/보미.md
+  tags:
+  - 偶像
+  completeness: 83
 - name: 宋多惠
   reading: '송다혜'
   path: S/宋多惠.md
