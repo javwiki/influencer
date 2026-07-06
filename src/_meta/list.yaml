@@ -5,6 +5,12 @@ entries:
   tags:
   - 演员
   completeness: 83
+- name: 赤井沙希
+  reading: 'あかい さき'
+  path: A/赤井沙希.md
+  tags:
+  - 演员
+  completeness: 83
 - name: 浅川梨奈
   reading: 'あさかわ りな'
   path: A/浅川梨奈.md
