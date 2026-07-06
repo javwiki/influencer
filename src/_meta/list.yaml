@@ -1007,6 +1007,12 @@ entries:
   tags:
   - 歌手
   completeness: 83
+- name: 홍리
+  reading: '홍리'
+  path: H/홍리.md
+  tags:
+  - 模特
+  completeness: 83
 - name: Yeonsi
   reading: 연시
   path: Y/Yeonsi.md
