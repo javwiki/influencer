@@ -28,10 +28,10 @@ description: Influencer book 项目完整工作流 — 新增/修改条目、更
 |------|------|--------|
 | **Instagram** | **① `https://search.brave.com/search?q={username}+instagram`** → 提取简介/粉丝 | ✅ 高 |
 | | **② 聚合页：`linktr.ee/{username}` / `linkbio.co/{username}` 等** → 汇总所有社交链接，参见 [linktree.md](/linktree.md) | ✅ 高（如有） |
-| | **③ Inflact 查看器：`https://inflact.com/instagram-profile-viewer/?profile={username}`** → 可直接显示简介/粉丝数/帖子数 | ✅ 高 |
-| | **④ Picuki：`https://www.picuki.com/profile/{username}`** → 可直接查看简介和帖子 | ✅ 高 |
+| | **③ Inflact 查看器：`https://inflact.com/instagram-profile-viewer/?profile={username}`** → 可直接显示简介/粉丝数/帖子数 | ❌ 低（易被 CF 拦截）|
+| | **④ Picuki：`https://www.picuki.com/profile/{username}`** → 可直接查看简介和帖子 | ⚠️ 中（需打开浏览器手动操作）|
 | | ⑤ Puppeteer：访问 `instagram.com/{username}/` → 可提取公开资料 | ⚠️ 中（受登录墙影响） |
-| | ❌ 第三方查看器（imginn、dumpoir、instasave）→ 被 Cloudflare 拦截 | ❌ 低 |
+| | ❌ 其他第三方查看器（imginn、dumpoir、instasave）→ 被 Cloudflare 拦截 | ❌ 低 |
 | **Threads** | `threads.net/@{username}` → 直接访问可查看公开资料 | ✅ 高 |
 | **X/Twitter** | Nitter RSS：`nitter.net/{handle}/rss` → 提取显示名/推文 | ✅ 高 |
 | **其他** | Brave Search 搜 `{username}` → 发现更多平台关联 | ✅ 中 |
