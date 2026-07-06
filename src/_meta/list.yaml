@@ -1013,6 +1013,12 @@ entries:
   tags:
   - 演员
   completeness: 83
+- name: 이연우
+  reading: '이연우'
+  path: L/이연우.md
+  tags:
+  - 模特
+  completeness: 83
 - name: 李燕花
   reading: '이연화'
   path: L/李燕花.md
