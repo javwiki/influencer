@@ -53,6 +53,12 @@ entries:
   tags:
   - 声优
   completeness: 83
+- name: 音羽美奈
+  reading: 'おとは みな'
+  path: O/音羽美奈.md
+  tags:
+  - グラビアアイドル
+  completeness: 83
 - name: 仓科加奈
   reading: 'くらしな かな'
   path: K/仓科加奈.md
