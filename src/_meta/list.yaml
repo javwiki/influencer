@@ -29,6 +29,12 @@ entries:
   tags:
   - 演员
   completeness: 83
+- name: 伊織いお
+  reading: 'いおり いお'
+  path: I/伊織いお.md
+  tags:
+  - グラビアアイドル
+  completeness: 83
 - name: 池田依来沙
   reading: 'いけだ えらいざ'
   path: I/池田依来沙.md
@@ -947,6 +953,12 @@ entries:
   tags:
   - 网红
   completeness: 83
+- name: Mihye
+  reading: '미혜'
+  path: M/Mihye.md
+  tags:
+  - 网红
+  completeness: 83
 - name: 朴敏英
   reading: '박민영'
   path: P/朴敏英.md
@@ -982,6 +994,12 @@ entries:
   path: B/보미.md
   tags:
   - 偶像
+  completeness: 83
+- name: Shasa
+  reading: '샤사'
+  path: S/Shasa.md
+  tags:
+  - 网红
   completeness: 83
 - name: 서리나
   reading: '서리나'
@@ -1072,6 +1090,12 @@ entries:
   path: J/周子瑜.md
   tags:
   - 偶像
+  completeness: 83
+- name: mllnjx
+  reading: '쩡'
+  path: M/mllnjx.md
+  tags:
+  - 网红
   completeness: 83
 - name: 蔡妍
   reading: '채연'
