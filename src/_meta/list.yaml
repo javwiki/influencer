@@ -935,6 +935,12 @@ entries:
   tags:
   - 网红
   completeness: 83
+- name: 고라니율
+  reading: '고라니율'
+  path: G/고라니율.md
+  tags:
+  - 网红
+  completeness: 83
 - name: 高俊熙
   reading: '고준희'
   path: G/高俊熙.md

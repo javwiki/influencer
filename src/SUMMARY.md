@@ -69,6 +69,7 @@
 * [G](G/README.md)
   * [Gemma Louise](G/Gemma_Louise.md)
   * [Gyeowudi](G/Gyeowudi.md)
+  * [고라니율](G/고라니율.md)
   * [桂纶镁](G/桂纶镁.md)
   * [顾欣怡](G/顾欣怡.md)
   * [高俊熙](G/高俊熙.md)
