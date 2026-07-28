@@ -298,8 +298,8 @@ entries:
   - 模特
   - 演员
   - 日本
-  - 1984年
-  completeness: 85
+  - 1985年
+  completeness: 100
 - name: 柳瀬さき
   reading: やなせ さき
   path: Y/柳瀬さき.md
@@ -605,9 +605,12 @@ entries:
   tags:
   - 演员
   - 歌手
+  - 主持人
+  - 偶像
   - 台湾
-  - 1983年
-  completeness: 85
+  - 1988年
+  - Sweety
+  completeness: 100
 - name: 曾智希
   reading: ''
   path: C/曾智希.md
