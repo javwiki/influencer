@@ -1,5 +1,5 @@
 ---
-tags: [模特]
+tags: [模特, 巴西]
 verification: partial
 ---
 

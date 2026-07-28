@@ -1,5 +1,5 @@
 ---
-tags: [模特]
+tags: [模特, 加拿大]
 verification: partial
 ---
 

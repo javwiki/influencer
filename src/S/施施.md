@@ -1,5 +1,5 @@
 ---
-tags: [网红]
+tags: [网红, 待核验]
 verification: pending
 ---
 

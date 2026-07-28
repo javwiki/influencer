@@ -1,5 +1,5 @@
 ---
-tags: [模特]
+tags: [模特, 日本, 1999年]
 verification: verified
 ---
 

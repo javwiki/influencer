@@ -1,5 +1,5 @@
 ---
-tags: [演员]
+tags: [演员, 泰国]
 verification: pending
 ---
 

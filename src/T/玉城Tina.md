@@ -1,5 +1,5 @@
 ---
-tags: [演员]
+tags: [演员, 模特, 日本, 1997年]
 verification: partial
 ---
 

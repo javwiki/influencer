@@ -1,5 +1,5 @@
 ---
-tags: [模特]
+tags: [模特, 英国, 1983年]
 verification: partial
 ---
 

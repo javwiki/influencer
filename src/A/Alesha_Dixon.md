@@ -1,5 +1,5 @@
 ---
-tags: [歌手]
+tags: [歌手, 主持人, 舞者, 英国, 1978年]
 verification: verified
 ---
 

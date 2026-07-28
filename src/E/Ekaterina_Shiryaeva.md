@@ -1,5 +1,5 @@
 ---
-tags: [模特]
+tags: [模特, 俄罗斯]
 verification: partial
 ---
 

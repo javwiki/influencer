@@ -1,5 +1,5 @@
 ---
-tags: [网红]
+tags: [网红, 模特, 歌手, 舞者, 韩国]
 verification: verified
 ---
 

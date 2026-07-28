@@ -36,7 +36,8 @@ entries.each do |entry|
   errors << "#{relative_path} 不是有效 UTF-8" unless content.valid_encoding?
   errors << "#{relative_path} 包含 CR/CRLF 换行" if content.include?("\r")
 
-  tag = content[/^tags:\s*\[([^\]]+)\]/, 1]
+  tags = content[/^tags:\s*\[([^\]]+)\]/, 1]&.split(",")&.map(&:strip)
+  category = content[/^\| 分类 \| ([^|]+) \|$/, 1]
   verification = content[/^verification:\s*(pending|partial|verified)$/, 1]
   region = content[/^\| 地区 \| ([^|]+) \|$/, 1]
   status = content[/^\| 资料状态 \| ([^|]+) \|$/, 1]
@@ -46,8 +47,10 @@ entries.each do |entry|
     "verified" => "已核验"
   }[verification]
 
-  errors << "#{relative_path} 缺少或错误的 tags" unless tag
-  errors << "#{relative_path} 的标签与索引不一致" unless entry["tags"] == [tag]
+  errors << "#{relative_path} 缺少或错误的 tags" unless tags&.any?
+  errors << "#{relative_path} 包含重复标签" if tags && tags.uniq != tags
+  errors << "#{relative_path} 的标签与索引不一致" unless entry["tags"] == tags
+  errors << "#{relative_path} 的主标签与资料表分类不一致" unless category == tags&.first
   errors << "#{relative_path} 缺少 verification" unless verification
   errors << "#{relative_path} 缺少地区字段" unless region
   errors << "#{relative_path} 缺少资料状态" unless status

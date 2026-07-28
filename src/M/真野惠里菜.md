@@ -1,5 +1,5 @@
 ---
-tags: [演员]
+tags: [演员, 日本]
 verification: pending
 ---
 

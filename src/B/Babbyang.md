@@ -1,5 +1,5 @@
 ---
-tags: [模特]
+tags: [模特, DJ, 韩国]
 verification: verified
 ---
 

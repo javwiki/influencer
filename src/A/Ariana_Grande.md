@@ -1,5 +1,5 @@
 ---
-tags: [歌手]
+tags: [歌手, 演员, 美国, 1993年]
 verification: verified
 ---
 

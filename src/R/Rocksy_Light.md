@@ -1,5 +1,5 @@
 ---
-tags: [演员]
+tags: [模特, 国际]
 verification: partial
 ---
 
@@ -14,8 +14,7 @@ verification: partial
 
 | 属性 | 值 |
 |------|-----|
-| 分类 | 演员 |
+| 分类 | 模特 |
 | 地区 | 国际 |
 | 资料状态 | 部分核验 |
 | 备注 | Instagram模特 |
-

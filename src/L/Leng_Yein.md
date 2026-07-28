@@ -1,5 +1,5 @@
 ---
-tags: [演员]
+tags: [演员, 模特, 柬埔寨]
 verification: partial
 ---
 

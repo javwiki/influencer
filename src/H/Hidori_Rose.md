@@ -1,5 +1,5 @@
 ---
-tags: [Coser]
+tags: [Coser, 日本]
 verification: partial
 ---
 

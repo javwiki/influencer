@@ -1,5 +1,5 @@
 ---
-tags: [模特]
+tags: [模特, 德国, 1971年]
 verification: partial
 ---
 
