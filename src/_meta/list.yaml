@@ -183,7 +183,9 @@ entries:
   tags:
   - 声优
   - 日本
-  completeness: 75
+  - 歌手
+  - 1979年
+  completeness: 100
 - name: 玉城Tina
   reading: たまき てぃな
   path: T/玉城Tina.md
@@ -634,7 +636,7 @@ entries:
   - 演员
   - 中国
   - 1990年
-  completeness: 85
+  completeness: 100
 - name: 李丽莎
   reading: ''
   path: L/李丽莎.md
