@@ -1,6 +1,6 @@
 ---
 tags: [网红]
-verification: partial
+verification: verified
 ---
 
 # Halimi
@@ -15,7 +15,7 @@ verification: partial
 |------|-----|
 | 分类 | 网红 |
 | 地区 | 韩国 |
-| 资料状态 | 部分核验 |
+| 资料状态 | 已核验 |
 | 本名 | 이하림 (Lee Halim, 李河林) |
 | 出生 | 1991-08-26 |
 | 出身 | 부산광역시 |

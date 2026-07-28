@@ -1,6 +1,6 @@
 ---
 tags: [网红]
-verification: partial
+verification: verified
 ---
 
 # Gyeowudi
@@ -15,7 +15,7 @@ verification: partial
 |------|-----|
 | 分类 | 网红 |
 | 地区 | 韩国 |
-| 资料状态 | 部分核验 |
+| 资料状态 | 已核验 |
 | 韩文名 | 겨우디 |
 | 英文名 | WinterD |
 | 出生 | 4月22日 |

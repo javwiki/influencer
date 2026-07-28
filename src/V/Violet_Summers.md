@@ -1,6 +1,6 @@
 ---
 tags: [模特]
-verification: pending
+verification: partial
 ---
 
 # Violet Summers
@@ -14,8 +14,7 @@ verification: pending
 | 属性 | 值 |
 |------|-----|
 | 分类 | 模特 |
-
 | 地区 | 美国 |
-| 资料状态 | 待核验 |
+| 资料状态 | 部分核验 |
 | 备注 | 网红/模特 |
 

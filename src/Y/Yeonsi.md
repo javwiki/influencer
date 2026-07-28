@@ -1,6 +1,6 @@
 ---
 tags: [网红]
-verification: partial
+verification: verified
 ---
 
 # Yeonsi
@@ -15,7 +15,7 @@ verification: partial
 |------|-----|
 | 分类 | 网红 |
 | 地区 | 韩国 |
-| 资料状态 | 部分核验 |
+| 资料状态 | 已核验 |
 | 韩文名 | 연시 |
 | 英文名 | Yonsi |
 | 出生 |  |

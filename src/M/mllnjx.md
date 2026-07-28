@@ -1,6 +1,6 @@
 ---
 tags: [网红]
-verification: partial
+verification: verified
 ---
 
 # mllnjx
@@ -15,7 +15,7 @@ verification: partial
 |------|-----|
 | 分类 | 网红 |
 | 地区 | 韩国 |
-| 资料状态 | 部分核验 |
+| 资料状态 | 已核验 |
 | 韩文名 | 쩡 |
 | 汉字名 | 金敏姃 |
 | TikTok | @mllnjx (18.2万) |

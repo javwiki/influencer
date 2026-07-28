@@ -1,13 +1,13 @@
 ---
 tags: [网红]
-verification: partial
+verification: verified
 ---
 
 # Shasa
 
 ## 简介
 
-韩国歌手、舞者、模特、AfreecaTV 直播主播。FA Entertainment 旗下女团 Fly With Me (FWM) 的队长、主唱、主舞，同时也是小分队 E.I.M. 成员。
+韩国歌手、舞者、模特、AfreecaTV 直播主播，曾在 FA Entertainment 旗下女团 Fly With Me (FWM) 担任队长、主唱、主舞，并以小分队 E.I.M. 成员身份活动。
 
 ## 基本信息
 
@@ -15,7 +15,7 @@ verification: partial
 |------|-----|
 | 分类 | 网红 |
 | 地区 | 韩国 |
-| 资料状态 | 部分核验 |
+| 资料状态 | 已核验 |
 | 艺名 | Shasa (샤사) |
 | 本名 | 전시내 (Jeon Si Nae) |
 | 出生 | 1993-09-07 |

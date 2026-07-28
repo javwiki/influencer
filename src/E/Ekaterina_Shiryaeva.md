@@ -1,6 +1,6 @@
 ---
 tags: [模特]
-verification: pending
+verification: partial
 ---
 
 # Ekaterina Shiryaeva
@@ -15,7 +15,6 @@ verification: pending
 | 属性 | 值 |
 |------|-----|
 | 分类 | 模特 |
-
 | 地区 | 俄罗斯 |
-| 资料状态 | 待核验 |
+| 资料状态 | 部分核验 |
 

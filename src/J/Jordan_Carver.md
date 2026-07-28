@@ -1,6 +1,6 @@
 ---
 tags: [模特]
-verification: pending
+verification: partial
 ---
 
 # Jordan Carver
@@ -14,7 +14,6 @@ verification: pending
 | 属性 | 值 |
 |------|-----|
 | 分类 | 模特 |
-
 | 地区 | 德国 |
-| 资料状态 | 待核验 |
+| 资料状态 | 部分核验 |
 

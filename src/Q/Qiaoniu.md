@@ -1,6 +1,6 @@
 ---
 tags: [网红]
-verification: partial
+verification: verified
 ---
 
 # Qiaoniu
@@ -15,7 +15,7 @@ verification: partial
 |------|-----|
 | 分类 | 网红 |
 | 地区 | 大陆 |
-| 资料状态 | 部分核验 |
+| 资料状态 | 已核验 |
 | 中文名 | 俏妞 |
 | Instagram | @qiaoniutt |
 | Patreon | @qiaoniutt |

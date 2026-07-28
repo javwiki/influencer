@@ -1,13 +1,13 @@
 ---
 tags: [模特]
-verification: partial
+verification: verified
 ---
 
 # Babbyang
 
 ## 简介
 
-韩国 DJ、模特。2022 Maxim Winner（맥심 승자）。Instagram 粉丝 26.4万。
+韩国 DJ、模特，2022 Maxim Winner（맥심 승자）。
 
 ## 基本信息
 
@@ -15,10 +15,10 @@ verification: partial
 |------|-----|
 | 分类 | 模特 |
 | 地区 | 韩国 |
-| 资料状态 | 部分核验 |
+| 资料状态 | 已核验 |
 | IG 显示名 | 바비앙 |
 | Instagram | @babbyang.g |
-| Threads | @babbyang.g（5.1万粉丝） |
+| Threads | @babbyang.g |
 | YouTube | @babbyang.g |
 | TikTok | @babbyang.g |
 | Spotify | 바비앙 |
@@ -30,7 +30,6 @@ verification: partial
 | Contact | babbyang67@gmail.com |
 | Linkbio | https://linkbio.co/babbyang |
 | 帖子 | 112 |
-| 粉丝 | IG 26.4万 / Threads 5.1万 |
 | DJ 账号 | @dj.babbyang |
 | 简介 | 𝑩𝑨𝑩𝑩𝒀𝑨𝑵𝑮 ✧2022 𝑴𝒂𝒙𝒊𝒎 𝑾𝒊𝒏𝒏𝒆𝒓✧ ✨WDF✨ 2026🎧 |
 | 简介链接 | https://www.instagram.com/dj.babbyang/ |

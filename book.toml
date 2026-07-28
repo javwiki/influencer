@@ -2,3 +2,6 @@
 title = "influencer"
 authors = ["Mark Chen"]
 language = "zh-CN"
+
+[build]
+create-missing = false

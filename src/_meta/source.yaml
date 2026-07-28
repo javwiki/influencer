@@ -40,8 +40,8 @@ sources:
     url: https://en.wikipedia.org
     type: encyclopedia
     description: Wikipedia 百科 - 获取人物基本资料
-    reliability: secondary
-    usage: 用作检索线索，并回查其引用的原始或可靠出版来源
+    reliability: high
+    usage: 可用于核验人物身份、职业经历和稳定基础资料；动态或争议性陈述应结合近期页面或其他来源
 
   - name: dmm
     url: https://www.dmm.co.jp

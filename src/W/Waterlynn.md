@@ -1,6 +1,6 @@
 ---
 tags: [网红]
-verification: partial
+verification: verified
 ---
 
 # Waterlynn
@@ -15,7 +15,7 @@ verification: partial
 |------|-----|
 | 分类 | 网红 |
 | 地区 | 美国（华裔） |
-| 资料状态 | 部分核验 |
+| 资料状态 | 已核验 |
 | Twitch | waterlynn |
 | Instagram | @waterlynn (22.9萬) |
 | Twitter | @WaterLynnn (8.2萬) |

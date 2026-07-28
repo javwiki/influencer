@@ -1,6 +1,6 @@
 ---
 tags: [歌手]
-verification: pending
+verification: partial
 ---
 
 # Nicole Scherzinger
@@ -14,8 +14,7 @@ verification: pending
 | 属性 | 值 |
 |------|-----|
 | 分类 | 歌手 |
-
 | 地区 | 美国 |
-| 资料状态 | 待核验 |
+| 资料状态 | 部分核验 |
 | 备注 | 小野猫主唱/模特 |
 

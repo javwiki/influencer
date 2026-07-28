@@ -1,6 +1,6 @@
 ---
 tags: [演员]
-verification: pending
+verification: partial
 ---
 
 # Leng Yein
@@ -14,7 +14,6 @@ verification: pending
 | 属性 | 值 |
 |------|-----|
 | 分类 | 演员 |
-
 | 地区 | 柬埔寨 |
-| 资料状态 | 待核验 |
+| 资料状态 | 部分核验 |
 
