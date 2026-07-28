@@ -27,3 +27,6 @@ _tags/
 src/SUMMARY.md
 src/[A-Z]/README.md
 src/_meta/README.md
+
+# Local Reasonix configuration
+reasonix.toml

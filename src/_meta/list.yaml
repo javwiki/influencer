@@ -47,13 +47,13 @@ entries:
   path: I/今田美樱.md
   tags:
   - 演员
-  completeness: 85
+  completeness: 100
 - name: 上坂堇
   reading: うえさか すみれ
   path: U/上坂堇.md
   tags:
   - 声优
-  completeness: 85
+  completeness: 100
 - name: 音羽美奈
   reading: おとは みな
   path: O/音羽美奈.md
@@ -167,7 +167,7 @@ entries:
   path: H/桥本环奈.md
   tags:
   - 演员
-  completeness: 85
+  completeness: 100
 - name: 風吹ケイ
   reading: ふぶき けい
   path: F/風吹ケイ.md
@@ -863,13 +863,13 @@ entries:
   path: C/陈小纭.md
   tags:
   - 演员
-  completeness: 85
+  completeness: 100
 - name: 陈瑶
   reading: ''
   path: C/陈瑶.md
   tags:
   - 演员
-  completeness: 85
+  completeness: 100
 - name: 陈雅婷
   reading: ''
   path: C/陈雅婷.md
@@ -917,7 +917,7 @@ entries:
   path: K/姜敏京.md
   tags:
   - 演员
-  completeness: 85
+  completeness: 100
 - name: 강인경
   reading: 강인경
   path: K/강인경.md
@@ -1109,7 +1109,7 @@ entries:
   path: C/蔡妍.md
   tags:
   - 歌手
-  completeness: 85
+  completeness: 100
 - name: Halimi
   reading: 하리미
   path: H/Halimi.md
@@ -1127,13 +1127,13 @@ entries:
   path: A/Alesha_Dixon.md
   tags:
   - 歌手
-  completeness: 85
+  completeness: 100
 - name: Ariana Grande
   reading: ''
   path: A/Ariana_Grande.md
   tags:
   - 歌手
-  completeness: 85
+  completeness: 100
 - name: Ashe Maree
   reading: ''
   path: A/Ashe_Maree.md
@@ -1175,7 +1175,7 @@ entries:
   path: D/Dita_Von_Teese.md
   tags:
   - 模特
-  completeness: 85
+  completeness: 100
 - name: Ekaterina Shiryaeva
   reading: ''
   path: E/Ekaterina_Shiryaeva.md
@@ -1193,7 +1193,7 @@ entries:
   path: E/Emily_Ratajkowski.md
   tags:
   - 模特
-  completeness: 85
+  completeness: 100
 - name: Gemma Louise
   reading: ''
   path: G/Gemma_Louise.md
@@ -1223,7 +1223,7 @@ entries:
   path: K/Kate_Upton.md
   tags:
   - 模特
-  completeness: 85
+  completeness: 100
 - name: Laci Kay Somers
   reading: ''
   path: L/Laci_Kay_Somers.md
