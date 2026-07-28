@@ -1,5 +1,6 @@
 ---
 tags: [Coser]
+verification: pending
 ---
 
 # Hidori Rose
@@ -14,4 +15,5 @@ tags: [Coser]
 |------|-----|
 | 分类 | Coser |
 | 地区 | 日本 |
+| 资料状态 | 待核验 |
 | 备注 | 知名Cosplayer |

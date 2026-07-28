@@ -1,5 +1,6 @@
 ---
 tags: [模特]
+verification: pending
 ---
 
 # Celine Farachchole
@@ -13,7 +14,9 @@ tags: [模特]
 
 | 属性 | 值 |
 |------|-----|
-| 分类 | 模特 |
+| 分类 | 模特 |
+
 | 地区 | 法国 |
+| 资料状态 | 待核验 |
 | 备注 | Instagram模特 |
 

@@ -1,5 +1,6 @@
 ---
 tags: [模特]
+verification: partial
 ---
 
 # Babbyang
@@ -14,6 +15,7 @@ tags: [模特]
 |------|-----|
 | 分类 | 模特 |
 | 地区 | 韩国 |
+| 资料状态 | 部分核验 |
 | IG 显示名 | 바비앙 |
 | Instagram | @babbyang.g |
 | Threads | @babbyang.g（5.1万粉丝） |

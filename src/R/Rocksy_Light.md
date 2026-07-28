@@ -1,5 +1,6 @@
 ---
 tags: [演员]
+verification: pending
 ---
 
 # Rocksy Light
@@ -13,7 +14,9 @@ tags: [演员]
 
 | 属性 | 值 |
 |------|-----|
-| 分类 | 演员 |
+| 分类 | 演员 |
+
 | 地区 | 国际 |
+| 资料状态 | 待核验 |
 | 备注 | Instagram模特 |
 

@@ -1,5 +1,6 @@
 ---
 tags: [网红]
+verification: partial
 ---
 
 # Mihye
@@ -14,6 +15,7 @@ tags: [网红]
 |------|-----|
 | 分类 | 网红 |
 | 地区 | 韩国 |
+| 资料状态 | 部分核验 |
 | 韩文名 | 미혜 |
 | TikTok | @mihye02 (110万) |
 | Instagram | @pmihye02 (36万) |

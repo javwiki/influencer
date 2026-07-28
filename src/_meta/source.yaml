@@ -12,28 +12,40 @@ sources:
       - 中国 写真图集 Chinese IV
       - 这是谁 女优看图识人+介绍
     note: 需登录查看具体内容 / Login required for content
+    reliability: lead_only
+    usage: 仅作为人物与作品线索，不可单独用于证明身份、经历或争议性陈述
 
   - name: x_twitter
     url: https://x.com
     type: social_media
     description: X (Twitter) 社交平台 - 获取人物动态信息
+    reliability: primary_for_account
+    usage: 仅在账号归属已经确认时，用于账号及本人公开陈述
 
   - name: instagram
     url: https://www.instagram.com
     type: social_media
     description: Instagram 社交平台 - 获取人物图片信息
+    reliability: primary_for_account
+    usage: 仅在账号归属已经确认时，用于账号及本人公开陈述
 
   - name: youtube
     url: https://www.youtube.com
     type: video
     description: YouTube 视频平台 - 获取相关视频
+    reliability: primary_for_account
+    usage: 优先使用经确认的官方频道
 
   - name: wikipedia
     url: https://en.wikipedia.org
     type: encyclopedia
     description: Wikipedia 百科 - 获取人物基本资料
+    reliability: secondary
+    usage: 用作检索线索，并回查其引用的原始或可靠出版来源
 
   - name: dmm
     url: https://www.dmm.co.jp
     type: ecommerce
     description: DMM - 日本DVD/写真销售平台
+    reliability: primary_for_catalog
+    usage: 仅用于核实该平台销售的作品目录与发行信息
