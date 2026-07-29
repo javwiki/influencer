@@ -1,12 +1,13 @@
 ---
-tags: [グラビアアイドル]
+tags: [模特, 日本, 1999年]
+verification: verified
 ---
 
 # Emma Kusunoki (楠エマ)
 
 ## 简介
 
-Emma Kusunoki（楠エマ，1999年7月4日—），日本グラビアアイドル（写真偶像/泳装模特），出身于千叶县。以金发造型和J杯身材著称，被称为"最強金髪グラドル"（最强金发写真偶像）。2024年9月以1st DVD《Miss Dynamite》出道，现所属事务所为 NY Production。
+Emma Kusunoki（楠エマ，1999年7月4日—），日本グラビアアイドル（写真偶像/泳装模特），出身于千叶县。以金发造型和J杯身材著称，被称为"最強金髪グラドル"（最强金发写真偶像）。2024年9月以1st DVD《Miss Dynamite》出道，曾由 NY Production 管理相关事务。
 
 ## 基本信息
 
@@ -19,7 +20,9 @@ Emma Kusunoki（楠エマ，1999年7月4日—），日本グラビアアイド�
 | 血型 | O型 |
 | 出身 | 日本·千叶县 |
 | 事务所 | NY Production |
-| 分类 | グラビアアイドル |
+| 分类 | 模特 |
+| 地区 | 日本 |
+| 资料状态 | 已核验 |
 | 爱称 | 最強金髪グラドル |
 
 ## 社交账号
@@ -74,3 +77,9 @@ Emma Kusunoki（楠エマ，1999年7月4日—），日本グラビアアイド�
 
 - 撮影会等での写真掲載NG（未经许可禁止转载摄影会照片）
 - DM由事务所管理
+
+## 参考资料
+
+- X（核验日期：2026-07-28）：https://x.com/emma_kusunoki
+- Instagram（核验日期：2026-07-28）：https://www.instagram.com/emma_kusunoki_74/
+- NY Production 联系域名（核验日期：2026-07-28）：https://nyproduction.jp/

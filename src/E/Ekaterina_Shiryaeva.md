@@ -1,5 +1,6 @@
 ---
-tags: [模特]
+tags: [模特, 俄罗斯]
+verification: partial
 ---
 
 # Ekaterina Shiryaeva
@@ -13,6 +14,7 @@ tags: [模特]
 
 | 属性 | 值 |
 |------|-----|
-| 分类 | 模特 |
+| 分类 | 模特 |
 | 地区 | 俄罗斯 |
+| 资料状态 | 部分核验 |
 

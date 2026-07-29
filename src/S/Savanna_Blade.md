@@ -1,5 +1,6 @@
 ---
-tags: [模特]
+tags: [模特, 加拿大]
+verification: partial
 ---
 
 # Savanna Blade
@@ -13,7 +14,8 @@ tags: [模特]
 
 | 属性 | 值 |
 |------|-----|
-| 分类 | 模特 |
+| 分类 | 模特 |
 | 地区 | 加拿大 |
+| 资料状态 | 部分核验 |
 | 备注 | Instagram模特 |
 

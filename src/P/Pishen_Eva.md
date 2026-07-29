@@ -1,5 +1,6 @@
 ---
-tags: [网红]
+tags: [网红, 中国]
+verification: verified
 ---
 
 # Pishen Eva
@@ -14,6 +15,7 @@ tags: [网红]
 |------|-----|
 | 分类 | 网红 |
 | 地区 | 大陆 |
+| 资料状态 | 已核验 |
 | 中文名 | 皮神eva |
 | 微博 | 6149433355 |
 | Instagram | @pishen_eva |

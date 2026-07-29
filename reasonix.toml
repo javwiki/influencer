@@ -1,2 +1,0 @@
-[permissions]
-allow = ["mcp__puppeteer__puppeteer_navigate", "Bash(mdbook build:*)"]

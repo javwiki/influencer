@@ -1,4 +1,7 @@
 [book]
 title = "influencer"
 authors = ["Mark Chen"]
-language = "en"
+language = "zh-CN"
+
+[build]
+create-missing = false

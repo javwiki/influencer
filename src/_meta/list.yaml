@@ -1,9 +1,1737 @@
+---
 entries:
+- name: sibyl是女巫
+  reading: ''
+  path: S/sibyl是女巫.md
+  tags:
+  - 演员
+  - 中国
+  completeness: 60
+- name: 赤井沙希
+  reading: あかい さき
+  path: A/赤井沙希.md
+  tags:
+  - 模特
+  - 演员
+  - 运动员
+  - 日本
+  - 1987年
+  completeness: 100
+- name: 浅川梨奈
+  reading: あさかわ りな
+  path: A/浅川梨奈.md
+  tags:
+  - 演员
+  - 偶像
+  - 日本
+  - 1999年
+  completeness: 85
+- name: 天木纯
+  reading: あまき じゅん
+  path: A/天木纯.md
+  tags:
+  - 模特
+  - 演员
+  - 日本
+  - 1995年
+  completeness: 100
+- name: あまつまりな
+  reading: あまつまりな
+  path: A/あまつまりな.md
+  tags:
+  - Coser
+  - 模特
+  - 歌手
+  - 日本
+  - 2017年
+  completeness: 100
+- name: 伊織いお
+  reading: いおり いお
+  path: I/伊織いお.md
+  tags:
+  - 模特
+  - Coser
+  - 日本
+  - 1998年
+  completeness: 100
+- name: 池田依来沙
+  reading: いけだ えらいざ
+  path: I/池田依来沙.md
+  tags:
+  - 演员
+  - 日本
+  completeness: 60
+- name: 今田美樱
+  reading: いまだ みお
+  path: I/今田美樱.md
+  tags:
+  - 演员
+  - 模特
+  - 日本
+  - 1997年
+  completeness: 100
+- name: 上坂堇
+  reading: うえさか すみれ
+  path: U/上坂堇.md
+  tags:
+  - 声优
+  - 歌手
+  - 日本
+  - 1991年
+  completeness: 100
+- name: 音羽美奈
+  reading: おとは みな
+  path: O/音羽美奈.md
+  tags:
+  - 模特
+  - Coser
+  - 日本
+  - 1998年
+  completeness: 100
+- name: 仓科加奈
+  reading: くらしな かな
+  path: K/仓科加奈.md
+  tags:
+  - 演员
+  - 日本
+  - 1987年
+  completeness: 100
+- name: 栗田惠美
+  reading: くりた えみ
+  path: K/栗田惠美.md
+  tags:
+  - 演员
+  - 日本
+  completeness: 60
+- name: 黑木明纱
+  reading: くろき めいさ
+  path: K/黑木明纱.md
+  tags:
+  - 演员
+  - 模特
+  - 歌手
+  - 日本
+  - 1988年
+  completeness: 100
+- name: 黑木丽奈
+  reading: くろき れいな
+  path: K/黑木丽奈.md
+  tags:
+  - 演员
+  - 日本
+  completeness: 60
+- name: 国分佐智子
+  reading: こくぶ さちこ
+  path: K/国分佐智子.md
+  tags:
+  - 演员
+  - 日本
+  completeness: 60
+- name: 小岛阳菜
+  reading: こじま はるな
+  path: K/小岛阳菜.md
+  tags:
+  - 偶像
+  - 模特
+  - 日本
+  - 1988年
+  completeness: 100
+- name: 斋藤飞鸟
+  reading: さいとう あすか
+  path: S/斋藤飞鸟.md
+  tags:
+  - 演员
+  - 模特
+  - 日本
+  - 1998年
+  completeness: 100
+- name: 沢地優佳
+  reading: さわち ゆうか
+  path: S/沢地優佳.md
+  tags:
+  - 模特
+  - 演员
+  - 日本
+  completeness: 90
+- name: 杉原杏璃
+  reading: すぎはら あんり
+  path: S/杉原杏璃.md
+  tags:
+  - 模特
+  - 作家
+  - 日本
+  - 1982年
+  completeness: 100
+- name: 泷川雅美
+  reading: たきがわ まさみ
+  path: T/泷川雅美.md
+  tags:
+  - 演员
+  - 主持人
+  - 日本
+  completeness: 60
+- name: 辰巳希娜
+  reading: たつみ きな
+  path: T/辰巳希娜.md
+  tags:
+  - 演员
+  - 日本
+  completeness: 60
+- name: 田中理惠
+  reading: たなか りえ
+  path: T/田中理惠.md
+  tags:
+  - 声优
+  - 日本
+  - 歌手
+  - 1979年
+  completeness: 100
+- name: 玉城Tina
+  reading: たまき てぃな
+  path: T/玉城Tina.md
+  tags:
+  - 演员
+  - 模特
+  - 日本
+  - 1997年
+  completeness: 85
+- name: 户松遥
+  reading: とまつ はるか
+  path: T/户松遥.md
+  tags:
+  - 声优
+  - 歌手
+  - 日本
+  - 1990年
+  completeness: 85
+- name: 仲村星虹
+  reading: なかむら せいこう
+  path: N/仲村星虹.md
+  tags:
+  - 演员
+  - 日本
+  completeness: 60
+- name: 长泽茉里奈
+  reading: ながさわ まりな
+  path: N/长泽茉里奈.md
+  tags:
+  - 模特
+  - 演员
+  - 偶像
+  - 运动员
+  - 日本
+  - 1995年
+  completeness: 100
+- name: 菜菜绪
+  reading: ななお
+  path: N/菜菜绪.md
+  tags:
+  - 演员
+  - 模特
+  - 日本
+  - 1988年
+  completeness: 85
+- name: 桥本环奈
+  reading: はしもと かんな
+  path: H/桥本环奈.md
+  tags:
+  - 演员
+  - 偶像
+  - 日本
+  - 1999年
+  completeness: 100
+- name: 風吹ケイ
+  reading: ふぶき けい
+  path: F/風吹ケイ.md
+  tags:
+  - 模特
+  - 演员
+  - 偶像
+  - 日本
+  - 1999年
+  completeness: 100
+- name: 星野亚希
+  reading: ほしの あき
+  path: H/星野亚希.md
+  tags:
+  - 演员
+  - 日本
+  completeness: 60
+- name: 松本若菜
+  reading: まつもと わかな
+  path: M/松本若菜.md
+  tags:
+  - 演员
+  - 日本
+  - 1984年
+  completeness: 100
+- name: 真野惠里菜
+  reading: まの えりな
+  path: M/真野惠里菜.md
+  tags:
+  - 演员
+  - 日本
+  completeness: 60
+- name: 水原希子
+  reading: みずはら きこ
+  path: M/水原希子.md
+  tags:
+  - 演员
+  - 模特
+  - 日本
+  - 1990年
+  completeness: 85
+- name: 宮瀬いと
+  reading: みやせ いと
+  path: M/宮瀬いと.md
+  tags:
+  - 模特
+  - 演员
+  - 网红
+  - 日本
+  - 1999年
+  completeness: 100
+- name: 森下悠里
+  reading: もりした ゆうり
+  path: M/森下悠里.md
+  tags:
+  - 模特
+  - 演员
+  - 日本
+  - 1985年
+  completeness: 100
+- name: 柳瀬さき
+  reading: やなせ さき
+  path: Y/柳瀬さき.md
+  tags:
+  - 模特
+  - 日本
+  - 1988年
+  completeness: 100
+- name: 吉永小百合
+  reading: よしなが さゆり
+  path: Y/吉永小百合.md
+  tags:
+  - 演员
+  - 日本
+  - 1945年
+  completeness: 85
+- name: 丽莉Lily
+  reading: ''
+  path: L/丽莉Lily.md
+  tags:
+  - 演员
+  - 中国
+  completeness: 60
+- name: 亚辰
+  reading: ''
+  path: Y/亚辰.md
+  tags:
+  - 网红
+  - 待核验
+  completeness: 60
+- name: 侯佩岑
+  reading: ''
+  path: H/侯佩岑.md
+  tags:
+  - 演员
+  - 主持人
+  - 台湾
+  - 1978年
+  completeness: 85
+- name: 俞夏
+  reading: ''
+  path: Y/俞夏.md
+  tags:
+  - 演员
+  - 中国
+  completeness: 60
+- name: 冰漪
+  reading: ''
+  path: B/冰漪.md
+  tags:
+  - 模特
+  - 中国
+  completeness: 60
+- name: 刘丹萌
+  reading: ''
+  path: L/刘丹萌.md
+  tags:
+  - 演员
+  - 中国
+  completeness: 60
+- name: 刘安娜
+  reading: ''
+  path: L/刘安娜.md
+  tags:
+  - 演员
+  - 中国
+  completeness: 60
+- name: 刘庭羽
+  reading: ''
+  path: L/刘庭羽.md
+  tags:
+  - 演员
+  - 中国
+  - 1982年
+  completeness: 85
+- name: 叶梓萱
+  reading: ''
+  path: Y/叶梓萱.md
+  tags:
+  - 演员
+  - 中国
+  completeness: 60
+- name: 司灵
+  reading: ''
+  path: S/司灵.md
+  tags:
+  - 演员
+  - 中国
+  completeness: 60
+- name: 吴婷
+  reading: ''
+  path: W/吴婷.md
+  tags:
+  - 演员
+  - 中国
+  completeness: 60
+- name: 周于希
+  reading: ''
+  path: Z/周于希.md
+  tags:
+  - 演员
+  - 中国
+  completeness: 60
+- name: 周大萌
+  reading: ''
+  path: Z/周大萌.md
+  tags:
+  - 模特
+  - 中国
+  completeness: 60
+- name: 周妍希
+  reading: ''
+  path: Z/周妍希.md
+  tags:
+  - 演员
+  - 中国
+  completeness: 60
+- name: 周娇
+  reading: ''
+  path: Z/周娇.md
+  tags:
+  - 演员
+  - 中国
+  completeness: 60
+- name: 周宜诺
+  reading: ''
+  path: Z/周宜诺.md
+  tags:
+  - 演员
+  - 中国
+  completeness: 60
+- name: 周晓涵
+  reading: ''
+  path: Z/周晓涵.md
+  tags:
+  - 演员
+  - 台湾
+  completeness: 60
+- name: 周韦彤
+  reading: ''
+  path: Z/周韦彤.md
+  tags:
+  - 演员
+  - 模特
+  - 中国
+  - 1982年
+  completeness: 85
+- name: 夏夏
+  reading: ''
+  path: X/夏夏.md
+  tags:
+  - 网红
+  - 待核验
+  completeness: 60
+- name: 娜露
+  reading: ''
+  path: N/娜露.md
+  tags:
+  - 模特
+  - 中国
+  completeness: 75
+- name: 孙梦瑶
+  reading: ''
+  path: S/孙梦瑶.md
+  tags:
+  - 演员
+  - 中国
+  completeness: 60
+- name: 孟十朵
+  reading: ''
+  path: M/孟十朵.md
+  tags:
+  - 演员
+  - 中国
+  completeness: 60
+- name: 孟衍竹
+  reading: ''
+  path: M/孟衍竹.md
+  tags:
+  - 演员
+  - 中国
+  completeness: 60
+- name: 宋熙媛
+  reading: ''
+  path: S/宋熙媛.md
+  tags:
+  - 网红
+  - 中国
+  completeness: 75
+- name: 宋轶
+  reading: ''
+  path: S/宋轶.md
+  tags:
+  - 演员
+  - 中国
+  - 1989年
+  completeness: 85
+- name: 小Annie
+  reading: ''
+  path: X/小Annie.md
+  tags:
+  - 网红
+  - 待核验
+  completeness: 60
+- name: 常梦涵
+  reading: ''
+  path: C/常梦涵.md
+  tags:
+  - 演员
+  - 中国
+  completeness: 60
+- name: 张优
+  reading: ''
+  path: Z/张优.md
+  tags:
+  - 演员
+  - 中国
+  completeness: 60
+- name: 张嘉倪
+  reading: ''
+  path: Z/张嘉倪.md
+  tags:
+  - 演员
+  - 中国
+  - 1987年
+  completeness: 85
+- name: 张婉馨
+  reading: ''
+  path: Z/张婉馨.md
+  tags:
+  - 演员
+  - 中国
+  completeness: 60
+- name: 张宇婷
+  reading: ''
+  path: Z/张宇婷.md
+  tags:
+  - 演员
+  - 中国
+  completeness: 60
+- name: 张已桂
+  reading: ''
+  path: Z/张已桂.md
+  tags:
+  - 演员
+  - 中国
+  completeness: 60
+- name: 张籽沐
+  reading: ''
+  path: Z/张籽沐.md
+  tags:
+  - 演员
+  - 中国
+  completeness: 60
+- name: 张维娜
+  reading: ''
+  path: Z/张维娜.md
+  tags:
+  - 演员
+  - 中国
+  completeness: 60
+- name: 张语昕
+  reading: ''
+  path: Z/张语昕.md
+  tags:
+  - 演员
+  - 中国
+  completeness: 60
+- name: 文咏珊
+  reading: ''
+  path: W/文咏珊.md
+  tags:
+  - 演员
+  - 模特
+  - 香港
+  - 1988年
+  completeness: 85
+- name: 施施
+  reading: ''
+  path: S/施施.md
+  tags:
+  - 网红
+  - 待核验
+  completeness: 60
+- name: 春夏
+  reading: ''
+  path: C/春夏.md
+  tags:
+  - 演员
+  - 中国
+  - 1992年
+  completeness: 85
+- name: 景丽
+  reading: ''
+  path: J/景丽.md
+  tags:
+  - 演员
+  - 中国
+  completeness: 60
+- name: 曾之乔
+  reading: ''
+  path: C/曾之乔.md
+  tags:
+  - 演员
+  - 歌手
+  - 主持人
+  - 偶像
+  - 台湾
+  - 1988年
+  - Sweety
+  completeness: 100
+- name: 曾智希
+  reading: ''
+  path: C/曾智希.md
+  tags:
+  - 演员
+  - 台湾
+  completeness: 60
+- name: 木口亚矢
+  reading: ''
+  path: M/木口亚矢.md
+  tags:
+  - 演员
+  - 中国
+  completeness: 60
+- name: 朱可儿
+  reading: ''
+  path: Z/朱可儿.md
+  tags:
+  - 演员
+  - 中国
+  completeness: 60
+- name: 李一桐
+  reading: ''
+  path: L/李一桐.md
+  tags:
+  - 演员
+  - 中国
+  - 1990年
+  completeness: 100
+- name: 李丽莎
+  reading: ''
+  path: L/李丽莎.md
+  tags:
+  - 演员
+  - 中国
+  completeness: 60
+- name: 李凯莉
+  reading: ''
+  path: L/李凯莉.md
+  tags:
+  - 演员
+  - 中国
+  completeness: 60
+- name: 李凯诗
+  reading: ''
+  path: L/李凯诗.md
+  tags:
+  - 演员
+  - 中国
+  completeness: 60
+- name: 李天宜
+  reading: ''
+  path: L/李天宜.md
+  tags:
+  - 演员
+  - 中国
+  completeness: 60
+- name: 李月仙
+  reading: ''
+  path: L/李月仙.md
+  tags:
+  - 演员
+  - 中国
+  completeness: 60
+- name: 李毓芬
+  reading: ''
+  path: L/李毓芬.md
+  tags:
+  - 演员
+  - 歌手
+  - 台湾
+  - 1985年
+  completeness: 85
+- name: 李秋媛
+  reading: ''
+  path: L/李秋媛.md
+  tags:
+  - 演员
+  - 中国
+  completeness: 60
+- name: 李莉莉
+  reading: ''
+  path: L/李莉莉.md
+  tags:
+  - 演员
+  - 中国
+  completeness: 60
+- name: 李雅
+  reading: ''
+  path: L/李雅.md
+  tags:
+  - 演员
+  - 中国
+  completeness: 60
+- name: 杨上萱
+  reading: ''
+  path: Y/杨上萱.md
+  tags:
+  - 演员
+  - 中国
+  completeness: 60
+- name: 林书亭Una
+  reading: ''
+  path: L/林书亭Una.md
+  tags:
+  - 演员
+  - 台湾
+  completeness: 60
+- name: 林志玲
+  reading: ''
+  path: L/林志玲.md
+  tags:
+  - 模特
+  - 演员
+  - 台湾
+  - 1974年
+  completeness: 85
+- name: 柳侑绮
+  reading: ''
+  path: L/柳侑绮.md
+  tags:
+  - 演员
+  - 中国
+  completeness: 60
+- name: 柳岩
+  reading: ''
+  path: L/柳岩.md
+  tags:
+  - 演员
+  - 主持人
+  - 中国
+  - 1980年
+  completeness: 85
+- name: 桂纶镁
+  reading: ''
+  path: G/桂纶镁.md
+  tags:
+  - 演员
+  - 台湾
+  - 1983年
+  completeness: 100
+- name: 梦楠
+  reading: ''
+  path: M/梦楠.md
+  tags:
+  - 演员
+  - 中国
+  completeness: 60
+- name: 樁山民子
+  reading: ''
+  path: C/樁山民子.md
+  tags:
+  - 网红
+  - 中国
+  completeness: 90
+- name: 樊玲
+  reading: ''
+  path: F/樊玲.md
+  tags:
+  - 演员
+  - 中国
+  - 1991年
+  completeness: 85
+- name: 毛林林
+  reading: ''
+  path: M/毛林林.md
+  tags:
+  - 演员
+  - 中国
+  - 1986年
+  completeness: 85
+- name: 江小帆帆
+  reading: ''
+  path: J/江小帆帆.md
+  tags:
+  - 网红
+  - 待核验
+  completeness: 60
+- name: 沈可乐
+  reading: ''
+  path: S/沈可乐.md
+  tags:
+  - 演员
+  - 中国
+  completeness: 60
+- name: 沈蜜桃
+  reading: ''
+  path: S/沈蜜桃.md
+  tags:
+  - 演员
+  - 中国
+  completeness: 60
+- name: 浅浅
+  reading: ''
+  path: Q/浅浅.md
+  tags:
+  - 网红
+  - 待核验
+  completeness: 60
+- name: 涂黎曼
+  reading: ''
+  path: T/涂黎曼.md
+  tags:
+  - 演员
+  - 中国
+  completeness: 60
+- name: 温峥嵘
+  reading: ''
+  path: W/温峥嵘.md
+  tags:
+  - 演员
+  - 中国
+  - 1978年
+  completeness: 100
+- name: 温心怡
+  reading: ''
+  path: W/温心怡.md
+  tags:
+  - 演员
+  - 中国
+  completeness: 60
+- name: 游娜
+  reading: ''
+  path: Y/游娜.md
+  tags:
+  - 演员
+  - 中国
+  completeness: 60
+- name: 潘娇娇
+  reading: ''
+  path: P/潘娇娇.md
+  tags:
+  - 演员
+  - 中国
+  completeness: 60
+- name: 潘春春
+  reading: ''
+  path: P/潘春春.md
+  tags:
+  - 演员
+  - 中国
+  completeness: 60
+- name: 火爆李老师
+  reading: ''
+  path: H/火爆李老师.md
+  tags:
+  - 网红
+  - 待核验
+  completeness: 60
+- name: 炼乳
+  reading: ''
+  path: L/炼乳.md
+  tags:
+  - 演员
+  - 中国
+  completeness: 60
+- name: 猫九酱Sakura
+  reading: ''
+  path: M/猫九酱Sakura.md
+  tags:
+  - 演员
+  - 中国
+  completeness: 60
+- name: 王一霏
+  reading: ''
+  path: W/王一霏.md
+  tags:
+  - 演员
+  - 中国
+  completeness: 60
+- name: 王俪丁
+  reading: ''
+  path: W/王俪丁.md
+  tags:
+  - 演员
+  - 中国
+  completeness: 60
+- name: 王慕清
+  reading: ''
+  path: W/王慕清.md
+  tags:
+  - 演员
+  - 中国
+  completeness: 60
+- name: 王明明
+  reading: ''
+  path: W/王明明.md
+  tags:
+  - 演员
+  - 中国
+  completeness: 60
+- name: 王洁曦
+  reading: ''
+  path: W/王洁曦.md
+  tags:
+  - 演员
+  - 中国
+  completeness: 60
+- name: 王瑞儿
+  reading: ''
+  path: W/王瑞儿.md
+  tags:
+  - 模特
+  - 中国
+  completeness: 75
+- name: 王蕙心
+  reading: ''
+  path: W/王蕙心.md
+  tags:
+  - 演员
+  - 中国
+  completeness: 60
+- name: 王希蔓
+  reading: ''
+  path: W/王希蔓.md
+  tags:
+  - 网红
+  - 模特
+  - 台湾
+  completeness: 90
+- name: 瑞莎Trista
+  reading: ''
+  path: R/瑞莎Trista.md
+  tags:
+  - 模特
+  - 演员
+  - 台湾
+  completeness: 75
+- name: 简言
+  reading: ''
+  path: J/简言.md
+  tags:
+  - 演员
+  - 中国
+  completeness: 60
+- name: 糯美子
+  reading: ''
+  path: N/糯美子.md
+  tags:
+  - 模特
+  - 中国
+  completeness: 60
+- name: 缇娜美
+  reading: ''
+  path: T/缇娜美.md
+  tags:
+  - 模特
+  - 中国
+  - 1999年
+  completeness: 100
+- name: 艾小青
+  reading: ''
+  path: A/艾小青.md
+  tags:
+  - 模特
+  - 中国
+  completeness: 60
+- name: 菅韧姿
+  reading: ''
+  path: J/菅韧姿.md
+  tags:
+  - 演员
+  - 中国
+  - 1991年
+  completeness: 85
+- name: 萌琪琪
+  reading: ''
+  path: M/萌琪琪.md
+  tags:
+  - 演员
+  - 中国
+  completeness: 60
+- name: 蓝燕
+  reading: ''
+  path: L/蓝燕.md
+  tags:
+  - 演员
+  - 中国
+  - 1986年
+  completeness: 85
+- name: 蔡寅
+  reading: ''
+  path: C/蔡寅.md
+  tags:
+  - 演员
+  - 中国
+  completeness: 60
+- name: 袁冰妍
+  reading: ''
+  path: Y/袁冰妍.md
+  tags:
+  - 演员
+  - 中国
+  - 1992年
+  completeness: 85
+- name: 袁洁莹
+  reading: ''
+  path: Y/袁洁莹.md
+  tags:
+  - 演员
+  - 歌手
+  - 香港
+  - 1969年
+  completeness: 100
+- name: 许路儿
+  reading: ''
+  path: X/许路儿.md
+  tags:
+  - 演员
+  - 台湾
+  completeness: 60
+- name: 谢薇安
+  reading: ''
+  path: X/谢薇安.md
+  tags:
+  - 网红
+  - 模特
+  - 加拿大（华裔）
+  completeness: 90
+- name: 谭靓
+  reading: ''
+  path: T/谭靓.md
+  tags:
+  - 演员
+  - 中国
+  completeness: 60
+- name: 赵奕欢
+  reading: ''
+  path: Z/赵奕欢.md
+  tags:
+  - 演员
+  - 中国
+  - 1987年
+  completeness: 85
+- name: 赵妍欢
+  reading: ''
+  path: Z/赵妍欢.md
+  tags:
+  - 演员
+  - 中国
+  completeness: 60
+- name: 赵惟依
+  reading: ''
+  path: Z/赵惟依.md
+  tags:
+  - 演员
+  - 中国
+  completeness: 60
+- name: 赵舒淇
+  reading: ''
+  path: Z/赵舒淇.md
+  tags:
+  - 网红
+  - 待核验
+  completeness: 60
+- name: 路晨
+  reading: ''
+  path: L/路晨.md
+  tags:
+  - 演员
+  - 中国
+  completeness: 60
+- name: 车模Glna
+  reading: ''
+  path: C/车模Glna.md
+  tags:
+  - 模特
+  - 中国
+  completeness: 75
+- name: 邱淑贞
+  reading: ''
+  path: Q/邱淑贞.md
+  tags:
+  - 演员
+  - 香港
+  - 1968年
+  completeness: 85
+- name: 陆瓷
+  reading: ''
+  path: L/陆瓷.md
+  tags:
+  - 演员
+  - 中国
+  completeness: 60
+- name: 陈小纭
+  reading: ''
+  path: C/陈小纭.md
+  tags:
+  - 演员
+  - 中国
+  - 1989年
+  completeness: 100
+- name: 陈瑶
+  reading: ''
+  path: C/陈瑶.md
+  tags:
+  - 演员
+  - 中国
+  - 2015年
+  completeness: 100
+- name: 陈雅婷
+  reading: ''
+  path: C/陈雅婷.md
+  tags:
+  - 演员
+  - 中国
+  completeness: 60
+- name: 顾欣怡
+  reading: ''
+  path: G/顾欣怡.md
+  tags:
+  - 模特
+  - 中国
+  completeness: 75
+- name: 颜丹晨
+  reading: ''
+  path: Y/颜丹晨.md
+  tags:
+  - 演员
+  - 中国
+  - 1978年
+  completeness: 85
+- name: 马露儿
+  reading: ''
+  path: M/马露儿.md
+  tags:
+  - 演员
+  - 中国
+  completeness: 60
+- name: 黄乔韵
+  reading: ''
+  path: H/黄乔韵.md
+  tags:
+  - 演员
+  - 中国
+  completeness: 60
+- name: 黎梦恬
+  reading: ''
+  path: L/黎梦恬.md
+  tags:
+  - 演员
+  - 中国
+  completeness: 60
+- name: 鱼神
+  reading: ''
+  path: Y/鱼神.md
+  tags:
+  - 网红
+  - 中国
+  completeness: 90
+- name: 姜敏京
+  reading: 강민경
+  path: K/姜敏京.md
+  tags:
+  - 歌手
+  - 演员
+  - 韩国
+  - 1990年
+  completeness: 100
+- name: 강인경
+  reading: 강인경
+  path: K/강인경.md
+  tags:
+  - 网红
+  - 模特
+  - 韩国
+  - 1997年
+  completeness: 100
+- name: Gyeowudi
+  reading: 겨우디
+  path: G/Gyeowudi.md
+  tags:
+  - 网红
+  - 韩国
+  completeness: 90
+- name: 고라니율
+  reading: 고라니율
+  path: G/고라니율.md
+  tags:
+  - 网红
+  - 韩国
+  completeness: 100
+- name: 高俊熙
+  reading: 고준희
+  path: G/高俊熙.md
+  tags:
+  - 演员
+  - 韩国
+  - 1985年
+  completeness: 85
+- name: 金宝拉
+  reading: 김보라
+  path: K/金宝拉.md
+  tags:
+  - 演员
+  - 韩国
+  completeness: 75
+- name: 金海燕
+  reading: 김해연
+  path: K/金海燕.md
+  tags:
+  - 演员
+  - 韩国
+  completeness: 60
+- name: 동그란
+  reading: 동그란
+  path: D/동그란.md
+  tags:
+  - 网红
+  - 模特
+  - 韩国
+  - 1995年
+  completeness: 100
+- name: Mihye
+  reading: 미혜
+  path: M/Mihye.md
+  tags:
+  - 网红
+  - 韩国
+  completeness: 90
+- name: 朴敏英
+  reading: 박민영
+  path: P/朴敏英.md
+  tags:
+  - 演员
+  - 韩国
+  - 1986年
+  completeness: 85
+- name: 朴素恩
+  reading: 박소은
+  path: P/朴素恩.md
+  tags:
+  - 演员
+  - 韩国
+  completeness: 60
+- name: 朴秀妍
+  reading: 박수연
+  path: P/朴秀妍.md
+  tags:
+  - 演员
+  - 韩国
+  completeness: 60
+- name: 朴恩率
+  reading: 박은솔
+  path: P/朴恩率.md
+  tags:
+  - 歌手
+  - 网红
+  - 韩国
+  - 1988年
+  completeness: 100
+- name: 朴草娥
+  reading: 박초아
+  path: P/朴草娥.md
+  tags:
+  - 演员
+  - 韩国
+  completeness: 60
+- name: 보미
+  reading: 보미
+  path: B/보미.md
+  tags:
+  - 偶像
+  - 歌手
+  - 韩国
+  completeness: 90
+- name: Shasa
+  reading: 샤사
+  path: S/Shasa.md
+  tags:
+  - 网红
+  - 模特
+  - 歌手
+  - 舞者
+  - 韩国
+  completeness: 90
+- name: 서리나
+  reading: 서리나
+  path: S/서리나.md
+  tags:
+  - 演员
+  - 模特
+  - 韩国
+  - 1988年
+  completeness: 100
+- name: 宋多惠
+  reading: 송다혜
+  path: S/宋多惠.md
+  tags:
+  - 演员
+  - 韩国
+  completeness: 60
+- name: 쏘블리
+  reading: 쏘블리
+  path: S/쏘블리.md
+  tags:
+  - 模特
+  - 网红
+  - 韩国
+  - 1995年
+  completeness: 100
+- name: 유리사
+  reading: 유리사
+  path: Y/유리사.md
+  tags:
+  - 模特
+  - 歌手
+  - 网红
+  - Coser
+  - 韩国
+  - 1992年
+  completeness: 100
+- name: 李秀彬
+  reading: 이수빈
+  path: L/李秀彬.md
+  tags:
+  - 演员
+  - 韩国
+  completeness: 60
+- name: 이연우
+  reading: 이연우
+  path: L/이연우.md
+  tags:
+  - 模特
+  - 韩国
+  completeness: 90
+- name: 李燕花
+  reading: 이연화
+  path: L/李燕花.md
+  tags:
+  - 演员
+  - 韩国
+  completeness: 60
+- name: 李英恩
+  reading: 이영은
+  path: L/李英恩.md
+  tags:
+  - 演员
+  - 韩国
+  completeness: 60
+- name: 李孝利
+  reading: 이효리
+  path: L/李孝利.md
+  tags:
+  - 歌手
+  - 韩国
+  - 1979年
+  completeness: 100
+- name: 홍리
+  reading: 홍리
+  path: H/홍리.md
+  tags:
+  - 模特
+  - 网红
+  - 韩国
+  completeness: 90
+- name: Yeonsi
+  reading: 연시
+  path: Y/Yeonsi.md
+  tags:
+  - 网红
+  - 韩国
+  completeness: 90
+- name: 장지민
+  reading: 장지민
+  path: J/장지민.md
+  tags:
+  - 模特
+  - 网红
+  - 韩国
+  - 1996年
+  completeness: 100
+- name: 全慧彬
+  reading: 전혜빈
+  path: J/全慧彬.md
+  tags:
+  - 演员
+  - 模特
+  - 歌手
+  - 韩国
+  - 1983年
+  completeness: 100
+- name: 全孝盛
+  reading: 전효성
+  path: J/全孝盛.md
+  tags:
+  - 歌手
+  - 演员
+  - 韩国
+  - 1989年
+  completeness: 100
+- name: 周子瑜
+  reading: 주자위
+  path: J/周子瑜.md
+  tags:
+  - 偶像
+  - 歌手
+  - 台湾
+  - 1999年
+  completeness: 100
+- name: mllnjx
+  reading: 쩡
+  path: M/mllnjx.md
+  tags:
+  - 网红
+  - 韩国
+  completeness: 90
+- name: 蔡妍
+  reading: 채연
+  path: C/蔡妍.md
+  tags:
+  - 歌手
+  - 韩国
+  - 1978年
+  completeness: 100
+- name: Halimi
+  reading: 하리미
+  path: H/Halimi.md
+  tags:
+  - 网红
+  - 韩国
+  completeness: 90
+- name: Emma Kusunoki (楠エマ)
+  reading: ''
+  path: E/emma_kusunoki.md
+  tags:
+  - 模特
+  - 日本
+  - 1999年
+  completeness: 100
 - name: Alesha Dixon
+  reading: ''
   path: A/Alesha_Dixon.md
   tags:
   - 歌手
-  completeness: 83
+  - 主持人
+  - 舞者
+  - 英国
+  - 1978年
+  completeness: 100
+- name: Ariana Grande
+  reading: ''
+  path: A/Ariana_Grande.md
+  tags:
+  - 歌手
+  - 演员
+  - 美国
+  - 1993年
+  completeness: 100
+- name: Ashe Maree
+  reading: ''
+  path: A/Ashe_Maree.md
+  tags:
+  - 模特
+  - 澳大利亚
+  completeness: 75
+- name: Babbyang
+  reading: ''
+  path: B/Babbyang.md
+  tags:
+  - 模特
+  - DJ
+  - 韩国
+  completeness: 90
+- name: Cara Rose
+  reading: ''
+  path: C/Cara_Rose.md
+  tags:
+  - 模特
+  - 英国
+  completeness: 75
+- name: Celine Farachchole
+  reading: ''
+  path: C/Celine_Farachchole.md
+  tags:
+  - 模特
+  - 法国
+  completeness: 75
+- name: Cherry Quahst
+  reading: ''
+  path: C/Cherry_Quahst.md
+  tags:
+  - 模特
+  - 国际
+  completeness: 75
+- name: Daiane Novais
+  reading: ''
+  path: D/Daiane_Novais.md
+  tags:
+  - 模特
+  - 巴西
+  completeness: 75
+- name: Dita Von Teese
+  reading: ''
+  path: D/Dita_Von_Teese.md
+  tags:
+  - 模特
+  - 作家
+  - 美国
+  - 1972年
+  completeness: 100
+- name: Ekaterina Shiryaeva
+  reading: ''
+  path: E/Ekaterina_Shiryaeva.md
+  tags:
+  - 模特
+  - 俄罗斯
+  completeness: 75
+- name: Emily Bloom
+  reading: ''
+  path: E/Emily_Bloom.md
+  tags:
+  - 模特
+  - 乌克兰
+  completeness: 75
+- name: Emily Ratajkowski
+  reading: ''
+  path: E/Emily_Ratajkowski.md
+  tags:
+  - 模特
+  - 演员
+  - 作家
+  - 美国
+  - 1991年
+  completeness: 100
+- name: Gemma Louise
+  reading: ''
+  path: G/Gemma_Louise.md
+  tags:
+  - 模特
+  - 英国
+  completeness: 75
+- name: Hidori Rose
+  reading: ''
+  path: H/Hidori_Rose.md
+  tags:
+  - Coser
+  - 日本
+  completeness: 75
+- name: Jessica Barton
+  reading: ''
+  path: J/Jessica_Barton.md
+  tags:
+  - 模特
+  - 美国
+  completeness: 75
+- name: Jordan Carver
+  reading: ''
+  path: J/Jordan_Carver.md
+  tags:
+  - 模特
+  - 演员
+  - 德国
+  - 1986年
+  completeness: 100
+- name: Kate Upton
+  reading: ''
+  path: K/Kate_Upton.md
+  tags:
+  - 模特
+  - 演员
+  - 美国
+  - 1992年
+  completeness: 100
+- name: Laci Kay Somers
+  reading: ''
+  path: L/Laci_Kay_Somers.md
+  tags:
+  - 模特
+  - 网红
+  - 美国
+  completeness: 75
+- name: Leanna Decker
+  reading: ''
+  path: L/Leanna_Decker.md
+  tags:
+  - 模特
+  - 美国
+  completeness: 75
+- name: Leng Yein
+  reading: ''
+  path: L/Leng_Yein.md
+  tags:
+  - 演员
+  - 模特
+  - 柬埔寨
+  completeness: 75
+- name: Leona Mia
+  reading: ''
+  path: L/Leona_Mia.md
+  tags:
+  - 模特
+  - 国际
+  completeness: 75
+- name: Nadja Auermann
+  reading: ''
+  path: N/Nadja_Auermann.md
+  tags:
+  - 模特
+  - 德国
+  - 1971年
+  completeness: 85
+- name: Narsha
+  reading: ''
+  path: N/Narsha.md
+  tags:
+  - 歌手
+  - 演员
+  - 主持人
+  - 韩国
+  - 1981年
+  completeness: 100
+- name: Nicole Scherzinger
+  reading: ''
+  path: N/Nicole_Scherzinger.md
+  tags:
+  - 歌手
+  - 演员
+  - 美国
+  - 1978年
+  completeness: 85
+- name: Pat Napapa
+  reading: ''
+  path: P/Pat_Napapa.md
+  tags:
+  - 演员
+  - 泰国
+  completeness: 60
+- name: Phasinee Boonrod
+  reading: ''
+  path: P/Phasinee_Boonrod.md
+  tags:
+  - 演员
+  - 泰国
+  completeness: 60
+- name: Pichana Yoosuk
+  reading: ''
+  path: P/Pichana_Yoosuk.md
+  tags:
+  - 演员
+  - 泰国
+  completeness: 60
+- name: Pishen Eva
+  reading: ''
+  path: P/Pishen_Eva.md
+  tags:
+  - 网红
+  - 中国
+  completeness: 90
+- name: Qiaoniu
+  reading: ''
+  path: Q/Qiaoniu.md
+  tags:
+  - 网红
+  - 中国
+  completeness: 90
+- name: Reona
+  reading: ''
+  path: R/Reona.md
+  tags:
+  - 演员
+  - 日本
+  completeness: 60
+- name: Rky Thitiworada
+  reading: ''
+  path: R/Rky_Thitiworada.md
+  tags:
+  - 演员
+  - 泰国
+  completeness: 60
+- name: Rocksy Light
+  reading: ''
+  path: R/Rocksy_Light.md
+  tags:
+  - 模特
+  - 国际
+  completeness: 75
+- name: Savanna Blade
+  reading: ''
+  path: S/Savanna_Blade.md
+  tags:
+  - 模特
+  - 加拿大
+  completeness: 75
+- name: Sophie Howard
+  reading: ''
+  path: S/Sophie_Howard.md
+  tags:
+  - 模特
+  - 英国
+  - 1983年
+  completeness: 85
+- name: Stella
+  reading: ''
+  path: S/Stella.md
+  tags:
+  - 模特
+  - 国际
+  completeness: 75
+- name: Thanyarat Charoenpornkittada
+  reading: ''
+  path: T/Thanyarat_Charoenpornkittada.md
+  tags:
+  - 演员
+  - 泰国
+  completeness: 60
+- name: Violet Summers
+  reading: ''
+  path: V/Violet_Summers.md
+  tags:
+  - 模特
+  - 网红
+  - 美国
+  completeness: 75
+- name: Waterlynn
+  reading: ''
+  path: W/Waterlynn.md
+  tags:
+  - 网红
+  - 美国（华裔）
+  completeness: 90
 - name: Allecakes
   path: A/Allecakes.md
   tags:
@@ -12,16 +1740,6 @@ entries:
 - name: Aomamp Narak
   path: A/AomampNarak.md
   completeness: 80
-- name: Ariana Grande
-  path: A/Ariana_Grande.md
-  tags:
-  - 歌手
-  completeness: 83
-- name: Ashe Maree
-  path: A/Ashe_Maree.md
-  tags:
-  - 模特
-  completeness: 83
 - name: Ashley Tervort
   path: A/Ashley_Tervort.md
   tags:
@@ -30,335 +1748,97 @@ entries:
 - name: Aump
   path: A/Aump.md
   completeness: 80
-- name: Babbyang
-  path: B/Babbyang.md
-  tags:
-  - 模特
-  completeness: 83
-- name: Cara Rose
-  path: C/Cara_Rose.md
-  tags:
-  - 模特
-  completeness: 83
-- name: Celine Farachchole
-  path: C/Celine_Farachchole.md
-  tags:
-  - 模特
-  completeness: 83
-- name: Cherry Quahst
-  path: C/Cherry_Quahst.md
-  tags:
-  - 模特
-  completeness: 83
-- name: Daiane Novais
-  path: D/Daiane_Novais.md
-  tags:
-  - 模特
-  completeness: 83
-- name: Dita Von Teese
-  path: D/Dita_Von_Teese.md
-  tags:
-  - 模特
-  completeness: 83
-- name: Ekaterina Shiryaeva
-  path: E/Ekaterina_Shiryaeva.md
-  tags:
-  - 模特
-  completeness: 83
-- name: Emily Bloom
-  path: E/Emily_Bloom.md
-  tags:
-  - 模特
-  completeness: 83
-- name: Emily Ratajkowski
-  path: E/Emily_Ratajkowski.md
-  tags:
-  - 模特
-  completeness: 83
-- name: Emma Kusunoki (楠エマ)
-  path: E/emma_kusunoki.md
-  tags:
-  - グラビアアイドル
-  completeness: 83
 - name: Faii Orapun
   path: F/FaiiOrapunPitta.md
   completeness: 80
 - name: Fhm Aomam
   path: F/FhmAomam.md
   completeness: 80
-- name: Gemma Louise
-  path: G/Gemma_Louise.md
-  tags:
-  - 模特
-  completeness: 83
-- name: Gyeowudi
-  reading: '겨우디'
-  path: G/Gyeowudi.md
-  tags:
-  - 网红
-  completeness: 83
 - name: Ha Neul
   path: H/HaNeul.md
   completeness: 80
-- name: Halimi
-  reading: '하리미'
-  path: H/Halimi.md
-  tags:
-  - 网红
-  completeness: 83
-- name: Hidori Rose
-  path: H/Hidori_Rose.md
-  tags:
-  - Coser
-  completeness: 83
-- name: Jessica Barton
-  path: J/Jessica_Barton.md
-  tags:
-  - 模特
-  completeness: 83
 - name: Jessie Verd
   path: J/JessieVerd.md
   completeness: 80
-- name: Jordan Carver
-  path: J/Jordan_Carver.md
-  tags:
-  - 模特
-  completeness: 83
-- name: Kate Upton
-  path: K/Kate_Upton.md
-  tags:
-  - 模特
-  completeness: 83
 - name: LENivaya Aya
   path: L/LENivayaAya.md
   completeness: 80
-- name: Laci Kay Somers
-  path: L/Laci_Kay_Somers.md
-  tags:
-  - 模特
-  completeness: 83
 - name: Lavinia肉肉
   path: L/Lavinia.md
   completeness: 80
-- name: Leanna Decker
-  path: L/Leanna_Decker.md
-  tags:
-  - 模特
-  completeness: 83
-- name: Leng Yein
-  path: L/Leng_Yein.md
-  tags:
-  - 演员
-  completeness: 83
-- name: Leona Mia
-  path: L/Leona_Mia.md
-  tags:
-  - 模特
-  completeness: 83
 - name: MEGUMI
-  reading: 'めぐみ'
+  reading: めぐみ
   path: M/MEGUMI.md
   tags:
   - グラビアアイドル
-  completeness: 83
-- name: Mihye
-  reading: '미혜'
-  path: M/Mihye.md
-  tags:
-  - 网红
-  completeness: 83
-- name: Nadja Auermann
-  path: N/Nadja_Auermann.md
-  tags:
-  - 模特
-  completeness: 83
-- name: Narsha
-  path: N/Narsha.md
-  tags:
-  - 歌手
-  completeness: 83
-- name: Nicole Scherzinger
-  path: N/Nicole_Scherzinger.md
-  tags:
-  - 歌手
   completeness: 83
 - name: Numkhing
   path: N/Numkhing.md
   tags:
   - 模特
   completeness: 83
-- name: Pat Napapa
-  path: P/Pat_Napapa.md
-  tags:
-  - 演员
-  completeness: 83
-- name: Phasinee Boonrod
-  path: P/Phasinee_Boonrod.md
-  tags:
-  - 演员
-  completeness: 83
-- name: Pichana Yoosuk
-  path: P/Pichana_Yoosuk.md
-  tags:
-  - 演员
-  completeness: 83
-- name: Pishen Eva
-  path: P/Pishen_Eva.md
-  tags:
-  - 网红
-  completeness: 83
-- name: Qiaoniu
-  path: Q/Qiaoniu.md
-  tags:
-  - 网红
-  completeness: 83
 - name: RaMu
-  reading: 'らむ'
+  reading: らむ
   path: R/RaMu.md
   tags:
   - グラビアアイドル
   completeness: 83
-- name: Reona
-  path: R/Reona.md
-  tags:
-  - 演员
-  completeness: 83
-- name: Rky Thitiworada
-  path: R/Rky_Thitiworada.md
-  tags:
-  - 演员
-  completeness: 83
-- name: Rocksy Light
-  path: R/Rocksy_Light.md
-  tags:
-  - 演员
-  completeness: 83
-- name: Savanna Blade
-  path: S/Savanna_Blade.md
-  tags:
-  - 模特
-  completeness: 83
 - name: Sayafox
   path: S/Sayafox.md
   completeness: 80
-- name: Shasa
-  reading: '샤사'
-  path: S/Shasa.md
-  tags:
-  - 网红
-  completeness: 83
-- name: Sophie Howard
-  path: S/Sophie_Howard.md
-  tags:
-  - 模特
-  completeness: 83
-- name: Stella
-  path: S/Stella.md
-  tags:
-  - 模特
-  completeness: 83
-- name: Thanyarat Charoenpornkittada
-  path: T/Thanyarat_Charoenpornkittada.md
-  tags:
-  - 演员
-  completeness: 83
 - name: Tuangrat Chatsathavorn
   path: T/TuangratChatsathavorn.md
   completeness: 80
-- name: Violet Summers
-  path: V/Violet_Summers.md
-  tags:
-  - 模特
-  completeness: 83
-- name: Waterlynn
-  path: W/Waterlynn.md
-  tags:
-  - 网红
-  completeness: 83
-- name: Yeonsi
-  reading: '연시'
-  path: Y/Yeonsi.md
-  tags:
-  - 网红
-  completeness: 83
-- name: mllnjx
-  reading: '쩡'
-  path: M/mllnjx.md
-  tags:
-  - 网红
-  completeness: 83
-- name: sibyl是女巫
-  path: S/sibyl是女巫.md
-  tags:
-  - 演员
-  completeness: 83
-- name: あまつまりな
-  reading: 'あまつまりな'
-  path: A/あまつまりな.md
-  tags:
-  - 演员
-  completeness: 83
 - name: えなこ
-  reading: 'えなこ'
+  reading: えなこ
   path: E/えなこ.md
   tags:
   - グラビアアイドル
   completeness: 83
-- name: 上坂堇
-  reading: 'うえさか すみれ'
-  path: U/上坂堇.md
-  tags:
-  - 声优
-  completeness: 83
 - name: 与田祐希
-  reading: 'よだ ゆうき'
+  reading: よだ ゆうき
   path: Y/与田祐希.md
   tags:
   - グラビアアイドル
   completeness: 83
 - name: 东云海
-  reading: 'しののめ うみ'
+  reading: しののめ うみ
   path: S/东云海.md
   tags:
   - グラビアアイドル
   completeness: 83
 - name: 中川翔子
-  reading: 'なかがわ しょうこ'
+  reading: なかがわ しょうこ
   path: N/中川翔子.md
   tags:
   - グラビアアイドル
   completeness: 83
 - name: 中村静香
-  reading: 'なかむら しずか'
+  reading: なかむら しずか
   path: N/中村静香.md
   tags:
   - グラビアアイドル
   completeness: 83
 - name: 丰田留妃
-  reading: 'とよとめ るい'
+  reading: とよとめ るい
   path: T/丰田留妃.md
   tags:
   - グラビアアイドル
   completeness: 83
 - name: 丸高爱实
-  reading: 'まるだか みか'
+  reading: まるだか みか
   path: M/丸高爱实.md
   tags:
   - グラビアアイドル
   completeness: 83
 - name: 丹生明里
-  reading: 'にう あかり'
+  reading: にう あかり
   path: N/丹生明里.md
   tags:
   - グラビアアイドル
   completeness: 83
-- name: 丽莉Lily
-  path: L/丽莉Lily.md
-  tags:
-  - 演员
-  completeness: 83
 - name: 久松郁实
-  reading: 'ひさまつ いくみ'
+  reading: ひさまつ いくみ
   path: H/久松郁实.md
   tags:
   - グラビアアイドル
@@ -367,85 +1847,55 @@ entries:
   path: Y/Yuji.md
   completeness: 80
 - name: 井上和香
-  reading: 'いのうえ わか'
+  reading: いのうえ わか
   path: I/井上和香.md
   tags:
   - グラビアアイドル
   completeness: 83
-- name: 亚辰
-  path: Y/亚辰.md
-  tags:
-  - 网红
-  completeness: 83
 - name: 京佳 Kyoka
   path: K/Kyoka.md
   completeness: 80
-- name: 今田美樱
-  reading: 'いまだ みお'
-  path: I/今田美樱.md
-  tags:
-  - 演员
-  - グラビアアイドル
-  completeness: 83
 - name: 仓持由香
-  reading: 'くらもち ゆか'
+  reading: くらもち ゆか
   path: K/仓持由香.md
   tags:
   - グラビアアイドル
   completeness: 83
-- name: 仓科加奈
-  reading: 'くらしな かな'
-  path: K/仓科加奈.md
-  tags:
-  - 演员
-  completeness: 83
-- name: 仲村星虹
-  reading: 'なかむら せいこう'
-  path: N/仲村星虹.md
-  tags:
-  - 演员
-  completeness: 83
 - name: 伊东纱治子
   path: Y/Yidongshazhizi.md
   completeness: 80
-- name: 伊織いお
-  reading: 'いおり いお'
-  path: I/伊織いお.md
-  tags:
-  - グラビアアイドル
-  completeness: 83
 - name: 伊织萌
-  reading: 'いおり もえ'
+  reading: いおり もえ
   path: I/伊织萌.md
   tags:
   - グラビアアイドル
   completeness: 83
 - name: 伊藤惠美
-  reading: 'いとう えみ'
+  reading: いとう えみ
   path: I/伊藤惠美.md
   tags:
   - グラビアアイドル
   completeness: 83
 - name: 优香
-  reading: 'ゆうか'
+  reading: ゆうか
   path: Y/优香.md
   tags:
   - グラビアアイドル
   completeness: 83
 - name: 似鸟沙也加
-  reading: 'にとり さやか'
+  reading: にとり さやか
   path: N/似鸟沙也加.md
   tags:
   - グラビアアイドル
   completeness: 83
 - name: 佐藤江梨子
-  reading: 'さとう えりこ'
+  reading: さとう えりこ
   path: S/佐藤江梨子.md
   tags:
   - グラビアアイドル
   completeness: 83
 - name: 佐野夏芽
-  reading: 'さの なつめ'
+  reading: さの なつめ
   path: S/佐野夏芽.md
   tags:
   - グラビアアイドル
@@ -453,74 +1903,32 @@ entries:
 - name: 何七七
   path: H/Heqiqi.md
   completeness: 80
-- name: 侯佩岑
-  path: H/侯佩岑.md
-  tags:
-  - 演员
-  completeness: 83
-- name: 俞夏
-  path: Y/俞夏.md
-  tags:
-  - 演员
-  completeness: 83
-- name: 全孝盛
-  reading: '전효성'
-  path: J/全孝盛.md
-  tags:
-  - 演员
-  completeness: 83
-- name: 全慧彬
-  reading: '전혜빈'
-  path: J/全慧彬.md
-  tags:
-  - 演员
-  completeness: 83
 - name: 冯溪
   path: F/Fengxi.md
   completeness: 80
-- name: 冰漪
-  path: B/冰漪.md
-  tags:
-  - 模特
-  completeness: 83
 - name: 刘世菲
   path: L/Liushifei.md
   completeness: 80
-- name: 刘丹萌
-  path: L/刘丹萌.md
-  tags:
-  - 演员
-  completeness: 83
-- name: 刘安娜
-  path: L/刘安娜.md
-  tags:
-  - 演员
-  completeness: 83
-- name: 刘庭羽
-  path: L/刘庭羽.md
-  tags:
-  - 演员
-  completeness: 83
 - name: 加藤玲菜
-  reading: 'かとう れな'
+  reading: かとう れな
   path: K/加藤玲菜.md
   tags:
   - グラビアアイドル
   completeness: 83
 - name: 北乃纪伊
-  reading: 'きたの きい'
+  reading: きたの きい
   path: K/北乃纪伊.md
   tags:
   - グラビアアイドル
   completeness: 83
 - name: 十味
-  reading: 'とうみ'
+  reading: とうみ
   path: T/十味.md
   tags:
   - グラビアアイドル
   completeness: 83
 - name: 原干惠
-  reading: 'はら かえ'
+  reading: はら かえ
   path: H/原干惠.md
   tags:
   - グラビアアイドル
@@ -531,108 +1939,35 @@ entries:
 - name: 叶彤
   path: Y/Yetong.md
   completeness: 80
-- name: 叶梓萱
-  path: Y/叶梓萱.md
-  tags:
-  - 演员
-  completeness: 83
 - name: 叶美香
-  reading: 'かな みか'
+  reading: かな みか
   path: K/叶美香.md
   tags:
   - グラビアアイドル
   completeness: 83
-- name: 司灵
-  path: S/司灵.md
-  tags:
-  - 演员
-  completeness: 83
 - name: 吉木梨纱
-  reading: 'よしき りさ'
+  reading: よしき りさ
   path: Y/吉木梨纱.md
   tags:
   - グラビアアイドル
   completeness: 83
-- name: 吉永小百合
-  reading: 'よしなが さゆり'
-  path: Y/吉永小百合.md
-  tags:
-  - 演员
-  completeness: 83
-- name: 吴婷
-  path: W/吴婷.md
-  tags:
-  - 演员
-  completeness: 83
-- name: 周于希
-  path: Z/周于希.md
-  tags:
-  - 演员
-  completeness: 83
-- name: 周大萌
-  path: Z/周大萌.md
-  tags:
-  - 模特
-  completeness: 83
-- name: 周妍希
-  path: Z/周妍希.md
-  tags:
-  - 演员
-  completeness: 83
-- name: 周娇
-  path: Z/周娇.md
-  tags:
-  - 演员
-  completeness: 83
-- name: 周子瑜
-  reading: '주자위'
-  path: J/周子瑜.md
-  tags:
-  - 偶像
-  completeness: 83
-- name: 周宜诺
-  path: Z/周宜诺.md
-  tags:
-  - 演员
-  completeness: 83
-- name: 周晓涵
-  path: Z/周晓涵.md
-  tags:
-  - 演员
-  completeness: 83
-- name: 周韦彤
-  path: Z/周韦彤.md
-  tags:
-  - 演员
-  completeness: 83
 - name: 和地司
-  reading: 'わじ つかさ'
+  reading: わじ つかさ
   path: W/和地司.md
   tags:
   - グラビアアイドル
-  completeness: 83
-- name: 国分佐智子
-  reading: 'こくぶ さちこ'
-  path: K/国分佐智子.md
-  tags:
-  - 演员
   completeness: 83
 - name: 圣女天团
   path: S/Shengnvtiantuan.md
   completeness: 80
 - name: 坛蜜
-  reading: 'だん みつ'
+  reading: だん みつ
   path: だ/坛蜜.md
   tags:
   - グラビアアイドル
   completeness: 83
-- name: 夏夏
-  path: X/夏夏.md
-  tags:
-  - 网红
-  completeness: 83
 - name: 夏川纯
-  reading: 'なつかわ じゅん'
+  reading: なつかわ じゅん
   path: N/夏川纯.md
   tags:
   - グラビアアイドル
@@ -647,26 +1982,19 @@ entries:
   path: G/GIGI.md
   completeness: 80
 - name: 大原优乃
-  reading: 'おおはら ゆうの'
+  reading: おおはら ゆうの
   path: O/大原优乃.md
   tags:
   - グラビアアイドル
   completeness: 83
-- name: 天木纯
-  reading: 'あまき じゅん'
-  path: A/天木纯.md
-  tags:
-  - 演员
-  - グラビアアイドル
-  completeness: 83
 - name: 天羽希纯
-  reading: 'あまば きすみ'
+  reading: あまば きすみ
   path: A/天羽希纯.md
   tags:
   - グラビアアイドル
   completeness: 83
 - name: 天野Kiki
-  reading: 'あまの きき'
+  reading: あまの きき
   path: A/天野Kiki.md
   tags:
   - グラビアアイドル
@@ -677,60 +2005,23 @@ entries:
 - name: 姜仁卿
   path: J/Jiangrenqing.md
   completeness: 80
-- name: 姜敏京
-  reading: '강민경'
-  path: K/姜敏京.md
-  tags:
-  - 演员
-  completeness: 83
 - name: 姜星同
   path: J/Jiangxingtong.md
   completeness: 80
 - name: 姜泰莉
   path: J/Jiangtaili.md
   completeness: 80
-- name: 娜露
-  path: N/娜露.md
-  tags:
-  - 模特
-  completeness: 83
-- name: 孙梦瑶
-  path: S/孙梦瑶.md
-  tags:
-  - 演员
-  completeness: 83
-- name: 孟十朵
-  path: M/孟十朵.md
-  tags:
-  - 演员
-  completeness: 83
-- name: 孟衍竹
-  path: M/孟衍竹.md
-  tags:
-  - 演员
-  completeness: 83
 - name: 安斋星来
-  reading: 'あんざい せいき'
+  reading: あんざい せいき
   path: A/安斋星来.md
   tags:
   - グラビアアイドル
   completeness: 83
 - name: 安田美沙子
-  reading: 'やすだ みさこ'
+  reading: やすだ みさこ
   path: Y/安田美沙子.md
   tags:
   - グラビアアイドル
-  completeness: 83
-- name: 宋多惠
-  reading: '송다혜'
-  path: S/宋多惠.md
-  tags:
-  - 演员
-  completeness: 83
-- name: 宋熙媛
-  path: S/宋熙媛.md
-  tags:
-  - 网红
   completeness: 83
 - name: 宋珠儿
   path: S/SongJooA.md
@@ -738,39 +2029,23 @@ entries:
 - name: 宋芸桦
   path: S/Songyunhua.md
   completeness: 80
-- name: 宋轶
-  path: S/宋轶.md
-  tags:
-  - 演员
-  completeness: 83
-- name: 宮瀬いと
-  reading: 'みやせ いと'
-  path: M/宮瀬いと.md
-  tags:
-  - 演员
-  completeness: 83
 - name: 富樫梓
-  reading: 'とがし あずさ'
+  reading: とがし あずさ
   path: T/富樫梓.md
   tags:
   - グラビアアイドル
-  completeness: 83
-- name: 小Annie
-  path: X/小Annie.md
-  tags:
-  - 网红
   completeness: 83
 - name: 小Z妹
   path: X/XiaoZmei.md
   completeness: 80
 - name: 小仓优子
-  reading: 'おぐら ゆうこ'
+  reading: おぐら ゆうこ
   path: O/小仓优子.md
   tags:
   - グラビアアイドル
   completeness: 83
 - name: 小向美奈子
-  reading: 'こむかい みなこ'
+  reading: こむかい みなこ
   path: K/小向美奈子.md
   tags:
   - グラビアアイドル
@@ -778,38 +2053,32 @@ entries:
 - name: 小岛藤子
   path: X/Xiaodaotengzi.md
   completeness: 80
-- name: 小岛阳菜
-  reading: 'こじま はるな'
-  path: K/小岛阳菜.md
-  tags:
-  - 偶像
-  completeness: 83
 - name: 小嶋阳菜
-  reading: 'こじま はるな'
+  reading: こじま はるな
   path: K/小嶋阳菜.md
   tags:
   - グラビアアイドル
   completeness: 83
 - name: 小日向美优
-  reading: 'おびなた みゆ'
+  reading: おびなた みゆ
   path: O/小日向美优.md
   tags:
   - グラビアアイドル
   completeness: 83
 - name: 小林惠美
-  reading: 'こばやし えみ'
+  reading: こばやし えみ
   path: K/小林惠美.md
   tags:
   - グラビアアイドル
   completeness: 83
 - name: 小池荣子
-  reading: 'こいけ えいこ'
+  reading: こいけ えいこ
   path: K/小池荣子.md
   tags:
   - グラビアアイドル
   completeness: 83
 - name: 小池里奈
-  reading: 'こいけ りな'
+  reading: こいけ りな
   path: K/小池里奈.md
   tags:
   - グラビアアイドル
@@ -818,101 +2087,56 @@ entries:
   path: X/Xiaozezhenzhu.md
   completeness: 80
 - name: 小野寺梓
-  reading: 'おのでら あずさ'
+  reading: おのでら あずさ
   path: O/小野寺梓.md
   tags:
   - グラビアアイドル
   completeness: 83
 - name: 小野真弓
-  reading: 'おの まゆみ'
+  reading: おの まゆみ
   path: O/小野真弓.md
   tags:
   - グラビアアイドル
   completeness: 83
 - name: 山本彩
-  reading: 'やまもと さやか'
+  reading: やまもと さやか
   path: Y/山本彩.md
   tags:
   - グラビアアイドル
   completeness: 83
 - name: 山本梓
-  reading: 'やまもと あずさ'
+  reading: やまもと あずさ
   path: Y/山本梓.md
   tags:
   - グラビアアイドル
   completeness: 83
 - name: 岩佐真悠子
-  reading: 'いわさ まゆこ'
+  reading: いわさ まゆこ
   path: I/岩佐真悠子.md
   tags:
   - グラビアアイドル
   completeness: 83
 - name: 岸明日香
-  reading: 'きし あすか'
+  reading: きし あすか
   path: K/岸明日香.md
   tags:
   - グラビアアイドル
   completeness: 83
 - name: 川村雪绘
-  reading: 'かわむら ゆきえ'
+  reading: かわむら ゆきえ
   path: K/川村雪绘.md
   tags:
   - グラビアアイドル
   completeness: 83
 - name: 川津明日香
-  reading: 'かわづ あすか'
+  reading: かわづ あすか
   path: K/川津明日香.md
   tags:
   - グラビアアイドル
   completeness: 83
-- name: 常梦涵
-  path: C/常梦涵.md
-  tags:
-  - 演员
-  completeness: 83
-- name: 张优
-  path: Z/张优.md
-  tags:
-  - 演员
-  completeness: 83
-- name: 张嘉倪
-  path: Z/张嘉倪.md
-  tags:
-  - 演员
-  completeness: 83
-- name: 张婉馨
-  path: Z/张婉馨.md
-  tags:
-  - 演员
-  completeness: 83
-- name: 张宇婷
-  path: Z/张宇婷.md
-  tags:
-  - 演员
-  completeness: 83
-- name: 张已桂
-  path: Z/张已桂.md
-  tags:
-  - 演员
-  completeness: 83
 - name: 张慧敏
   path: L/LolitaCheng.md
   completeness: 80
-- name: 张籽沐
-  path: Z/张籽沐.md
-  tags:
-  - 演员
-  completeness: 83
-- name: 张维娜
-  path: Z/张维娜.md
-  tags:
-  - 演员
-  completeness: 83
-- name: 张语昕
-  path: Z/张语昕.md
-  tags:
-  - 演员
-  completeness: 83
 - name: 徐瑞娜
   path: S/SeoRina.md
   completeness: 80
@@ -920,54 +2144,31 @@ entries:
   path: X/Xuya2.md
   completeness: 80
 - name: 忍野さら
-  reading: 'しのの さら'
+  reading: しのの さら
   path: S/忍野さら.md
   tags:
   - グラビアアイドル
   completeness: 83
 - name: 志田音音
-  reading: 'しだ ねおん'
+  reading: しだ ねおん
   path: S/志田音音.md
   tags:
   - グラビアアイドル
   completeness: 83
-- name: 户松遥
-  reading: 'とまつ はるか'
-  path: T/户松遥.md
-  tags:
-  - 声优
-  completeness: 83
 - name: 手岛优
-  reading: 'てじま ゆう'
+  reading: てじま ゆう
   path: T/手岛优.md
   tags:
   - グラビアアイドル
   completeness: 83
 - name: 才木玲佳
-  reading: 'さいき れか'
+  reading: さいき れか
   path: S/才木玲佳.md
   tags:
   - グラビアアイドル
   completeness: 83
-- name: 文咏珊
-  path: W/文咏珊.md
-  tags:
-  - 演员
-  completeness: 83
-- name: 斋藤飞鸟
-  reading: 'さいとう あすか'
-  path: S/斋藤飞鸟.md
-  tags:
-  - 演员
-  - グラビアアイドル
-  completeness: 83
-- name: 施施
-  path: S/施施.md
-  tags:
-  - 网红
-  completeness: 83
 - name: 日野麻衣
-  reading: 'ひの まい'
+  reading: ひの まい
   path: H/日野麻衣.md
   tags:
   - グラビアアイドル
@@ -975,48 +2176,11 @@ entries:
 - name: 易阳
   path: Y/Yiyang.md
   completeness: 80
-- name: 星野亚希
-  reading: 'ほしの あき'
-  path: H/星野亚希.md
-  tags:
-  - 演员
-  - グラビアアイドル
-  completeness: 83
-- name: 春夏
-  path: C/春夏.md
-  tags:
-  - 演员
-  completeness: 83
-- name: 景丽
-  path: J/景丽.md
-  tags:
-  - 演员
-  completeness: 83
-- name: 曾之乔
-  path: C/曾之乔.md
-  tags:
-  - 演员
-  completeness: 83
-- name: 曾智希
-  path: C/曾智希.md
-  tags:
-  - 演员
-  completeness: 83
-- name: 木口亚矢
-  path: M/木口亚矢.md
-  tags:
-  - 演员
-  completeness: 83
 - name: 本乡柚巴
-  reading: 'ほんごう ゆずは'
+  reading: ほんごう ゆずは
   path: H/本乡柚巴.md
   tags:
   - グラビアアイドル
-  completeness: 83
-- name: 朱可儿
-  path: Z/朱可儿.md
-  tags:
-  - 演员
   completeness: 83
 - name: 朴妮唛
   path: P/Punima3.md
@@ -1024,136 +2188,20 @@ entries:
 - name: 朴姬兰
   path: P/Pujilan.md
   completeness: 80
-- name: 朴恩率
-  reading: '박은솔'
-  path: P/朴恩率.md
-  tags:
-  - 演员
-  completeness: 83
-- name: 朴敏英
-  reading: '박민영'
-  path: P/朴敏英.md
-  tags:
-  - 演员
-  completeness: 83
-- name: 朴秀妍
-  reading: '박수연'
-  path: P/朴秀妍.md
-  tags:
-  - 演员
-  completeness: 83
-- name: 朴素恩
-  reading: '박소은'
-  path: P/朴素恩.md
-  tags:
-  - 演员
-  completeness: 83
-- name: 朴草娥
-  reading: '박초아'
-  path: P/朴草娥.md
-  tags:
-  - 演员
-  completeness: 83
-- name: 杉原杏璃
-  reading: 'すぎはら あんり'
-  path: S/杉原杏璃.md
-  tags:
-  - 演员
-  - グラビアアイドル
-  completeness: 83
 - name: 杉本有美
-  reading: 'すぎもと ゆみ'
+  reading: すぎもと ゆみ
   path: S/杉本有美.md
   tags:
   - グラビアアイドル
   completeness: 83
-- name: 李一桐
-  path: L/李一桐.md
-  tags:
-  - 演员
-  completeness: 83
-- name: 李丽莎
-  path: L/李丽莎.md
-  tags:
-  - 演员
-  completeness: 83
-- name: 李凯莉
-  path: L/李凯莉.md
-  tags:
-  - 演员
-  completeness: 83
-- name: 李凯诗
-  path: L/李凯诗.md
-  tags:
-  - 演员
-  completeness: 83
 - name: 李可可
   path: L/Likeke.md
   completeness: 80
-- name: 李天宜
-  path: L/李天宜.md
-  tags:
-  - 演员
-  completeness: 83
-- name: 李孝利
-  reading: '이효리'
-  path: L/李孝利.md
-  tags:
-  - 歌手
-  completeness: 83
-- name: 李月仙
-  path: L/李月仙.md
-  tags:
-  - 演员
-  completeness: 83
-- name: 李毓芬
-  path: L/李毓芬.md
-  tags:
-  - 演员
-  completeness: 83
-- name: 李燕花
-  reading: '이연화'
-  path: L/李燕花.md
-  tags:
-  - 演员
-  completeness: 83
-- name: 李秀彬
-  reading: '이수빈'
-  path: L/李秀彬.md
-  tags:
-  - 演员
-  completeness: 83
-- name: 李秋媛
-  path: L/李秋媛.md
-  tags:
-  - 演员
-  completeness: 83
-- name: 李英恩
-  reading: '이영은'
-  path: L/李英恩.md
-  tags:
-  - 演员
-  completeness: 83
-- name: 李莉莉
-  path: L/李莉莉.md
-  tags:
-  - 演员
-  completeness: 83
-- name: 李雅
-  path: L/李雅.md
-  tags:
-  - 演员
-  completeness: 83
 - name: 村岛未悠
-  reading: 'むらしま みゆ'
+  reading: むらしま みゆ
   path: M/村岛未悠.md
   tags:
   - グラビアアイドル
-  completeness: 83
-- name: 杨上萱
-  path: Y/杨上萱.md
-  tags:
-  - 演员
   completeness: 83
 - name: 杨晨晨
   path: Y/Yangchenchen.md
@@ -1161,222 +2209,89 @@ entries:
 - name: 杨采妮
   path: Y/Yangcaini.md
   completeness: 80
-- name: 松本若菜
-  reading: 'まつもと わかな'
-  path: M/松本若菜.md
-  tags:
-  - 演员
-  completeness: 83
 - name: 松果儿
   path: S/Songguoer.md
   completeness: 80
-- name: 林书亭Una
-  path: L/林书亭Una.md
-  tags:
-  - 演员
-  completeness: 83
-- name: 林志玲
-  path: L/林志玲.md
-  tags:
-  - 演员
-  completeness: 83
 - name: 林性美
   path: L/Linxingmei.md
   completeness: 80
 - name: 林美惠子
-  reading: 'はやし みえこ'
+  reading: はやし みえこ
   path: H/林美惠子.md
   tags:
   - 演员
   completeness: 83
 - name: 柏木由纪
-  reading: 'かしわぎ ゆき'
+  reading: かしわぎ ゆき
   path: K/柏木由纪.md
   tags:
   - グラビアアイドル
   completeness: 83
-- name: 柳侑绮
-  path: L/柳侑绮.md
-  tags:
-  - 演员
-  completeness: 83
-- name: 柳岩
-  path: L/柳岩.md
-  tags:
-  - 演员
-  completeness: 83
 - name: 柳濑早纪
-  reading: 'やなせ さき'
+  reading: やなせ さき
   path: Y/柳濑早纪.md
   tags:
   - グラビアアイドル
   completeness: 83
-- name: 柳瀬さき
-  reading: 'やなせ さき'
-  path: Y/柳瀬さき.md
-  tags:
-  - 演员
-  completeness: 83
-- name: 栗田惠美
-  reading: 'くりた えみ'
-  path: K/栗田惠美.md
-  tags:
-  - 演员
-  completeness: 83
 - name: 根本晴美
-  reading: 'ねもと はるみ'
+  reading: ねもと はるみ
   path: N/根本晴美.md
   tags:
   - グラビアアイドル
-  completeness: 83
-- name: 桂纶镁
-  path: G/桂纶镁.md
-  tags:
-  - 演员
   completeness: 83
 - name: 桓淼淼
   path: H/Huanmiaomiao.md
   completeness: 80
 - name: 桜井真紀
-  reading: 'さくらい まき'
+  reading: さくらい まき
   path: S/桜井真紀.md
   tags:
   - グラビアアイドル
   completeness: 83
 - name: 桥本爱实
-  reading: 'はしもと あみ'
+  reading: はしもと あみ
   path: H/桥本爱实.md
   tags:
   - グラビアアイドル
   completeness: 83
-- name: 桥本环奈
-  reading: 'はしもと かんな'
-  path: H/桥本环奈.md
-  tags:
-  - 演员
-  - グラビアアイドル
-  completeness: 83
-- name: 梦楠
-  path: M/梦楠.md
-  tags:
-  - 演员
-  completeness: 83
 - name: 棒棒妹
   path: A/ArisaraKarbdecho.md
   completeness: 80
-- name: 森下悠里
-  reading: 'もりした ゆうり'
-  path: M/森下悠里.md
-  tags:
-  - 演员
-  - グラビアアイドル
-  completeness: 83
 - name: 森咲智美
-  reading: 'もりさき さとみ'
+  reading: もりさき さとみ
   path: M/森咲智美.md
   tags:
   - グラビアアイドル
   completeness: 83
 - name: 楠エマ
-  reading: 'くすのき えま'
+  reading: くすのき えま
   path: K/楠エマ.md
   tags:
   - グラビアアイドル
-  completeness: 83
-- name: 樁山民子
-  path: C/樁山民子.md
-  tags:
-  - 模特
-  completeness: 83
-- name: 樊玲
-  path: F/樊玲.md
-  tags:
-  - 演员
   completeness: 83
 - name: 欣杨
   path: X/Xinyang.md
   completeness: 80
 - name: 武田玲奈
-  reading: 'たけだ れな'
+  reading: たけだ れな
   path: T/武田玲奈.md
   tags:
   - グラビアアイドル
   completeness: 83
-- name: 毛林林
-  path: M/毛林林.md
-  tags:
-  - 演员
-  completeness: 83
-- name: 水原希子
-  reading: 'みずはら きこ'
-  path: M/水原希子.md
-  tags:
-  - 演员
-  completeness: 83
-- name: 江小帆帆
-  path: J/江小帆帆.md
-  tags:
-  - 网红
-  completeness: 83
-- name: 池田依来沙
-  reading: 'いけだ えらいざ'
-  path: I/池田依来沙.md
-  tags:
-  - 演员
-  completeness: 83
-- name: 沈可乐
-  path: S/沈可乐.md
-  tags:
-  - 演员
-  completeness: 83
-- name: 沈蜜桃
-  path: S/沈蜜桃.md
-  tags:
-  - 演员
-  completeness: 83
-- name: 沢地優佳
-  reading: 'さわち ゆうか'
-  path: S/沢地優佳.md
-  tags:
-  - 演员
-  completeness: 83
 - name: 泉里香
-  reading: 'いずみ りか'
+  reading: いずみ りか
   path: I/泉里香.md
   tags:
   - グラビアアイドル
   completeness: 83
-- name: 泷川雅美
-  reading: 'たきがわ まさみ'
-  path: T/泷川雅美.md
-  tags:
-  - 演员
-  completeness: 83
 - name: 泽口爱华
-  reading: 'さわぐち えか'
+  reading: さわぐち えか
   path: S/泽口爱华.md
   tags:
   - グラビアアイドル
   completeness: 83
-- name: 浅川梨奈
-  reading: 'あさかわ りな'
-  path: A/浅川梨奈.md
-  tags:
-  - 演员
-  - グラビアアイドル
-  completeness: 83
-- name: 浅浅
-  path: Q/浅浅.md
-  tags:
-  - 网红
-  completeness: 83
-- name: 涂黎曼
-  path: T/涂黎曼.md
-  tags:
-  - 演员
-  completeness: 83
 - name: 深田恭子
-  reading: 'ふかだ きょうこ'
+  reading: ふかだ きょうこ
   path: H/深田恭子.md
   tags:
   - グラビアアイドル
@@ -1385,152 +2300,55 @@ entries:
   path: Q/Qingshuiaili.md
   completeness: 80
 - name: 清水蓝里
-  reading: 'しみず あいり'
+  reading: しみず あいり
   path: S/清水蓝里.md
   tags:
   - グラビアアイドル
   completeness: 83
 - name: 渡边美优纪
-  reading: 'わたなべ みゆき'
+  reading: わたなべ みゆき
   path: W/渡边美优纪.md
   tags:
   - グラビアアイドル
-  completeness: 83
-- name: 温峥嵘
-  path: W/温峥嵘.md
-  tags:
-  - 演员
-  completeness: 83
-- name: 温心怡
-  path: W/温心怡.md
-  tags:
-  - 演员
-  completeness: 83
-- name: 游娜
-  path: Y/游娜.md
-  tags:
-  - 演员
-  completeness: 83
-- name: 潘娇娇
-  path: P/潘娇娇.md
-  tags:
-  - 演员
-  completeness: 83
-- name: 潘春春
-  path: P/潘春春.md
-  tags:
-  - 演员
-  completeness: 83
-- name: 火爆李老师
-  path: H/火爆李老师.md
-  tags:
-  - 网红
-  completeness: 83
-- name: 炼乳
-  path: L/炼乳.md
-  tags:
-  - 演员
   completeness: 83
 - name: 熊川纪信
   path: X/Xiongchuanjixin.md
   completeness: 80
 - name: 熊田曜子
-  reading: 'くまだ ようこ'
+  reading: くまだ ようこ
   path: K/熊田曜子.md
   tags:
   - グラビアアイドル
   completeness: 83
 - name: 爱川柚季
-  reading: 'あいかわ ゆき'
+  reading: あいかわ ゆき
   path: A/爱川柚季.md
   tags:
   - グラビアアイドル
   completeness: 83
 - name: 片冈沙耶
-  reading: 'かたおか さや'
+  reading: かたおか さや
   path: K/片冈沙耶.md
   tags:
   - グラビアアイドル
   completeness: 83
-- name: 猫九酱Sakura
-  path: M/猫九酱Sakura.md
-  tags:
-  - 演员
-  completeness: 83
 - name: 玄子
   path: X/Xuanzi.md
   completeness: 80
-- name: 玉城Tina
-  reading: 'たまき てぃな'
-  path: T/玉城Tina.md
-  tags:
-  - 演员
-  completeness: 83
-- name: 王一霏
-  path: W/王一霏.md
-  tags:
-  - 演员
-  completeness: 83
-- name: 王俪丁
-  path: W/王俪丁.md
-  tags:
-  - 演员
-  completeness: 83
-- name: 王希蔓
-  path: W/王希蔓.md
-  tags:
-  - 网红
-  completeness: 83
-- name: 王慕清
-  path: W/王慕清.md
-  tags:
-  - 演员
-  completeness: 83
-- name: 王明明
-  path: W/王明明.md
-  tags:
-  - 演员
-  completeness: 83
-- name: 王洁曦
-  path: W/王洁曦.md
-  tags:
-  - 演员
-  completeness: 83
-- name: 王瑞儿
-  path: W/王瑞儿.md
-  tags:
-  - 模特
-  completeness: 83
-- name: 王蕙心
-  path: W/王蕙心.md
-  tags:
-  - 演员
-  completeness: 83
-- name: 瑞莎Trista
-  path: R/瑞莎Trista.md
-  tags:
-  - 演员
-  completeness: 83
 - name: 生田绘梨花
-  reading: 'いくた えりか'
+  reading: いくた えりか
   path: I/生田绘梨花.md
   tags:
   - グラビアアイドル
   completeness: 83
-- name: 田中理惠
-  reading: 'たなか りえ'
-  path: T/田中理惠.md
-  tags:
-  - 声优
-  completeness: 83
 - name: 田中美久
-  reading: 'たなか みく'
+  reading: たなか みく
   path: T/田中美久.md
   tags:
   - グラビアアイドル
   completeness: 83
 - name: 田中美奈实
-  reading: 'たなか みなみ'
+  reading: たなか みなみ
   path: T/田中美奈实.md
   tags:
   - グラビアアイドル
@@ -1539,45 +2357,34 @@ entries:
   path: T/Tianbingbing.md
   completeness: 80
 - name: 白石麻衣
-  reading: 'しらいし まい'
+  reading: しらいし まい
   path: S/白石麻衣.md
   tags:
   - グラビアアイドル
   completeness: 83
-- name: 真野惠里菜
-  reading: 'まの えりな'
-  path: M/真野惠里菜.md
-  tags:
-  - 演员
-  completeness: 83
 - name: 神乐坂惠
-  reading: 'かぐらざか めぐみ'
+  reading: かぐらざか めぐみ
   path: K/神乐坂惠.md
   tags:
   - グラビアアイドル
   completeness: 83
 - name: 神谷惠里奈
-  reading: 'かみや えりな'
+  reading: かみや えりな
   path: K/神谷惠里奈.md
   tags:
   - グラビアアイドル
   completeness: 83
 - name: 秋山莉奈
-  reading: 'あきやま りな'
+  reading: あきやま りな
   path: A/秋山莉奈.md
   tags:
   - グラビアアイドル
   completeness: 83
 - name: 筱崎爱
-  reading: 'ささき あい'
+  reading: ささき あい
   path: S/筱崎爱.md
   tags:
   - グラビアアイドル
-  completeness: 83
-- name: 简言
-  path: J/简言.md
-  tags:
-  - 演员
   completeness: 83
 - name: 米娜
   path: M/Minana.md
@@ -1585,24 +2392,14 @@ entries:
 - name: 米希儿
   path: M/michiel.md
   completeness: 80
-- name: 糯美子
-  path: N/糯美子.md
-  tags:
-  - 模特
-  completeness: 83
 - name: 糯美子Mini
   path: M/Mini.md
   completeness: 80
 - name: 细川典江
-  reading: 'ほそかわ のりえ'
+  reading: ほそかわ のりえ
   path: H/细川典江.md
   tags:
   - グラビアアイドル
-  completeness: 83
-- name: 缇娜美
-  path: T/缇娜美.md
-  tags:
-  - 模特
   completeness: 83
 - name: 羽住
   path: Y/Yuzhu.md
@@ -1613,41 +2410,20 @@ entries:
 - name: 艺正花
   path: Y/Yizhenghua.md
   completeness: 80
-- name: 艾小青
-  path: A/艾小青.md
-  tags:
-  - 模特
-  completeness: 83
 - name: 芹泽润
   path: Q/Qinzerun.md
   completeness: 80
-- name: 菅韧姿
-  path: J/菅韧姿.md
-  tags:
-  - 演员
-  completeness: 83
 - name: 菊地姬奈
-  reading: 'ききち きな'
+  reading: ききち きな
   path: K/菊地姬奈.md
   tags:
   - グラビアアイドル
   completeness: 83
 - name: 菜乃花
-  reading: 'なのはな'
+  reading: なのはな
   path: N/菜乃花.md
   tags:
   - グラビアアイドル
-  completeness: 83
-- name: 菜菜绪
-  reading: 'ななお'
-  path: N/菜菜绪.md
-  tags:
-  - 演员
-  completeness: 83
-- name: 萌琪琪
-  path: M/萌琪琪.md
-  tags:
-  - 演员
   completeness: 83
 - name: 萧佩儿
   path: M/Mspuiyi.md
@@ -1655,115 +2431,27 @@ entries:
 - name: 落落Raku
   path: R/Raku.md
   completeness: 80
-- name: 蓝燕
-  path: L/蓝燕.md
-  tags:
-  - 演员
-  completeness: 83
 - name: 蔡卓宜
   path: J/JoeyChua.md
   completeness: 80
-- name: 蔡妍
-  reading: '채연'
-  path: C/蔡妍.md
-  tags:
-  - 歌手
-  completeness: 83
-- name: 蔡寅
-  path: C/蔡寅.md
-  tags:
-  - 演员
-  completeness: 83
-- name: 袁冰妍
-  path: Y/袁冰妍.md
-  tags:
-  - 演员
-  completeness: 83
 - name: 袁小珊
   path: Y/Yuanxiaoshan.md
   completeness: 80
-- name: 袁洁莹
-  path: Y/袁洁莹.md
-  tags:
-  - 演员
-  completeness: 83
-- name: 许路儿
-  path: X/许路儿.md
-  tags:
-  - 演员
-  completeness: 83
-- name: 谢薇安
-  path: X/谢薇安.md
-  tags:
-  - 网红
-  completeness: 83
-- name: 谭靓
-  path: T/谭靓.md
-  tags:
-  - 演员
-  completeness: 83
 - name: 贝贝
   path: C/Chole.md
   completeness: 80
 - name: 贤儿sherry
   path: S/sherry.md
   completeness: 80
-- name: 赤井沙希
-  reading: 'あかい さき'
-  path: A/赤井沙希.md
-  tags:
-  - 演员
-  completeness: 83
-- name: 赵奕欢
-  path: Z/赵奕欢.md
-  tags:
-  - 演员
-  completeness: 83
-- name: 赵妍欢
-  path: Z/赵妍欢.md
-  tags:
-  - 演员
-  completeness: 83
 - name: 赵宁宁
   path: Z/Zhaoningning.md
   completeness: 80
-- name: 赵惟依
-  path: Z/赵惟依.md
-  tags:
-  - 演员
-  completeness: 83
-- name: 赵舒淇
-  path: Z/赵舒淇.md
-  tags:
-  - 网红
-  completeness: 83
-- name: 路晨
-  path: L/路晨.md
-  tags:
-  - 演员
-  completeness: 83
 - name: 軟妹搖搖樂
   path: R/Ruanmeiyaoyaole2.md
   completeness: 80
-- name: 车模Glna
-  path: C/车模Glna.md
-  tags:
-  - 模特
-  completeness: 83
 - name: 辛尤里
   path: X/Xinyouli.md
   completeness: 80
-- name: 辰巳希娜
-  reading: 'たつみ きな'
-  path: T/辰巳希娜.md
-  tags:
-  - 演员
-  completeness: 83
-- name: 邱淑贞
-  path: Q/邱淑贞.md
-  tags:
-  - 演员
-  completeness: 83
 - name: 郑伊庭
   path: P/PorimaCheng.md
   completeness: 80
@@ -1774,65 +2462,37 @@ entries:
   path: G/Guoyixin.md
   completeness: 80
 - name: 都丸纱也华
-  reading: 'とまる さやか'
+  reading: とまる さやか
   path: T/都丸纱也华.md
   tags:
   - グラビアアイドル
   completeness: 83
 - name: 释由美子
-  reading: 'しゃく ゆみこ'
+  reading: しゃく ゆみこ
   path: S/释由美子.md
   tags:
   - グラビアアイドル
   completeness: 83
-- name: 金宝拉
-  reading: '김보라'
-  path: K/金宝拉.md
-  tags:
-  - 演员
-  completeness: 83
-- name: 金海燕
-  reading: '김해연'
-  path: K/金海燕.md
-  tags:
-  - 演员
-  completeness: 83
 - name: 铃原铃
-  reading: 'すずはら りん'
+  reading: すずはら りん
   path: S/铃原铃.md
   tags:
   - グラビアアイドル
   completeness: 83
 - name: 铃木圣
-  reading: 'すずき せい'
+  reading: すずき せい
   path: S/铃木圣.md
   tags:
   - グラビアアイドル
-  completeness: 83
-- name: 长泽茉里奈
-  reading: 'ながさわ まりな'
-  path: N/长泽茉里奈.md
-  tags:
-  - 演员
   completeness: 83
 - name: 闵雨晴
   path: M/Minyuqing.md
   completeness: 80
 - name: 阶户瑠李
-  reading: 'しなと るり'
+  reading: しなと るり
   path: S/阶户瑠李.md
   tags:
   - グラビアアイドル
-  completeness: 83
-- name: 陆瓷
-  path: L/陆瓷.md
-  tags:
-  - 演员
-  completeness: 83
-- name: 陈小纭
-  path: C/陈小纭.md
-  tags:
-  - 演员
   completeness: 83
 - name: 陈怡伶
   path: C/Chenyiling.md
@@ -1843,21 +2503,11 @@ entries:
 - name: 陈潇
   path: C/Chenxiao.md
   completeness: 80
-- name: 陈瑶
-  path: C/陈瑶.md
-  tags:
-  - 演员
-  completeness: 83
-- name: 陈雅婷
-  path: C/陈雅婷.md
-  tags:
-  - 演员
-  completeness: 83
 - name: 陈静
   path: C/Chenjing.md
   completeness: 80
 - name: 雏形明子
-  reading: 'ひながた あきこ'
+  reading: ひながた あきこ
   path: H/雏形明子.md
   tags:
   - グラビアアイドル
@@ -1871,7 +2521,7 @@ entries:
   path: Y/yoyo.md
   completeness: 80
 - name: 雪平莉左
-  reading: 'ゆきひら りさ'
+  reading: ゆきひら りさ
   path: Y/雪平莉左.md
   tags:
   - グラビアアイドル
@@ -1880,41 +2530,19 @@ entries:
   path: X/Xuebi.md
   completeness: 80
 - name: 青山光
-  reading: 'あおやま ひかる'
+  reading: あおやま ひかる
   path: A/青山光.md
   tags:
   - グラビアアイドル
   completeness: 83
-- name: 音羽美奈
-  reading: 'おとは みな'
-  path: O/音羽美奈.md
-  tags:
-  - グラビアアイドル
-  completeness: 83
-- name: 顾欣怡
-  path: G/顾欣怡.md
-  tags:
-  - 模特
-  completeness: 83
 - name: 顿知气咲菜
-  reading: 'とんちき さな'
+  reading: とんちき さな
   path: T/顿知气咲菜.md
   tags:
   - グラビアアイドル
   completeness: 83
-- name: 颜丹晨
-  path: Y/颜丹晨.md
-  tags:
-  - 演员
-  completeness: 83
-- name: 風吹ケイ
-  reading: 'ふぶき けい'
-  path: F/風吹ケイ.md
-  tags:
-  - 演员
-  completeness: 83
 - name: 马场富美加
-  reading: 'ばば ふみか'
+  reading: ばば ふみか
   path: ば/马场富美加.md
   tags:
   - グラビアアイドル
@@ -1922,22 +2550,11 @@ entries:
 - name: 马学萱
   path: M/Maxuexuan.md
   completeness: 80
-- name: 马露儿
-  path: M/马露儿.md
-  tags:
-  - 演员
-  completeness: 83
-- name: 高俊熙
-  reading: '고준희'
-  path: G/高俊熙.md
-  tags:
-  - 演员
-  completeness: 83
 - name: 高孝周
   path: G/Gaoxiaozhou.md
   completeness: 80
 - name: 高桥凛
-  reading: 'たかはし りん'
+  reading: たかはし りん
   path: T/高桥凛.md
   tags:
   - グラビアアイドル
@@ -1946,104 +2563,23 @@ entries:
   path: G/Gaohaining.md
   completeness: 80
 - name: 高田里穗
-  reading: 'たかだ ほみ'
+  reading: たかだ ほみ
   path: T/高田里穗.md
   tags:
   - グラビアアイドル
   completeness: 83
-- name: 鱼神
-  path: Y/鱼神.md
-  tags:
-  - 网红
-  completeness: 83
 - name: 黃婷萱
   path: H/Huangtingxuan.md
   completeness: 80
-- name: 黄乔韵
-  path: H/黄乔韵.md
-  tags:
-  - 演员
-  completeness: 83
 - name: 黄可
   path: H/Huangke2.md
   completeness: 80
 - name: 黄歆宛
   path: H/Huangxinwan.md
   completeness: 80
-- name: 黎梦恬
-  path: L/黎梦恬.md
-  tags:
-  - 演员
-  completeness: 83
-- name: 黑木丽奈
-  reading: 'くろき れいな'
-  path: K/黑木丽奈.md
-  tags:
-  - 演员
-  completeness: 83
-- name: 黑木明纱
-  reading: 'くろき めいさ'
-  path: K/黑木明纱.md
-  tags:
-  - 演员
-  completeness: 83
 - name: 黒沢美怜
   path: H/Heizemeilian.md
   completeness: 80
-- name: 강인경
-  reading: '강인경'
-  path: K/강인경.md
-  tags:
-  - 网红
-  completeness: 83
-- name: 고라니율
-  reading: '고라니율'
-  path: G/고라니율.md
-  tags:
-  - 网红
-  completeness: 83
-- name: 동그란
-  reading: '동그란'
-  path: D/동그란.md
-  tags:
-  - 网红
-  completeness: 83
-- name: 보미
-  reading: '보미'
-  path: B/보미.md
-  tags:
-  - 偶像
-  completeness: 83
-- name: 쏘블리
-  reading: '쏘블리'
-  path: S/쏘블리.md
-  tags:
-  - 模特
-  completeness: 83
-- name: 유리사
-  reading: '유리사'
-  path: Y/유리사.md
-  tags:
-  - 模特
-  completeness: 83
-- name: 이연우
-  reading: '이연우'
-  path: L/이연우.md
-  tags:
-  - 模特
-  completeness: 83
-- name: 장지민
-  reading: '장지민'
-  path: J/장지민.md
-  tags:
-  - 模特
-  completeness: 83
 - name: 표은지
   path: P/Pyoeunji.md
   completeness: 80
-- name: 홍리
-  reading: '홍리'
-  path: H/홍리.md
-  tags:
-  - 模特
-  completeness: 83
