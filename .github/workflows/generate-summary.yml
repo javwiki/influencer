@@ -19,12 +19,25 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
+      - name: Set weekly cache key
+        run: echo "CARGO_CACHE_WEEK=$(date -u +%G-%V)" >> "$GITHUB_ENV"
+      - name: Cache Cargo downloads and installed tools
+        uses: actions/cache@v4
+        with:
+          path: |
+            ~/.cargo/bin
+            ~/.cargo/git/db
+            ~/.cargo/registry/cache
+            ~/.cargo/registry/index
+          # Rotate the cache weekly so unpinned tools can keep receiving updates.
+          key: cargo-tools-${{ runner.os }}-${{ env.CARGO_CACHE_WEEK }}
+          restore-keys: |
+            cargo-tools-${{ runner.os }}-
       - name: Install mdBook and mdbook-summarizer
         run: |
-          curl --proto '=https' --tlsv1.2 https://sh.rustup.rs -sSf -y | sh
-          rustup update
-          cargo install mdbook
-          cargo install mdbook-summarizer
+          rustup update stable
+          cargo install --locked mdbook
+          cargo install --locked mdbook-summarizer
       - name: Generate SUMMARY.md with mdbook-summarizer
         run: |
           mdbook-summarizer --src src --auto-readme
