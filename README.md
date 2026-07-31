@@ -34,4 +34,4 @@ ruby scripts/audit-content.rb
 mdbook build
 ```
 
-内容审查脚本会检查资料文件与索引是否一致、核验字段是否齐全、完整度是否正确，以及是否存在异常换行或断裂表格。目录页、标签页和 `SUMMARY.md` 在部署时由 GitHub Action 自动生成。
+内容审查脚本会检查资料文件与索引是否一致、核验字段是否齐全、完整度是否正确，以及是否存在异常换行或断裂表格。目录页（各分目录 `README.md`）和 `SUMMARY.md` 在部署时由 GitHub Action 自动生成；标签页（`src/_tags/`）为手动维护的简单标题页。

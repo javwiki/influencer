@@ -23,8 +23,12 @@ identity_rules = [
 
 metadata.fetch("entries").each do |entry|
   path = File.join(ROOT, "src", entry.fetch("path"))
+  unless File.file?(path)
+    warn "跳过缺失资料文件：#{entry.fetch('path')}"
+    next
+  end
   content = File.read(path)
-  current = content[/^tags:\s*\[([^\]]+)\]/, 1].split(",").map(&:strip)
+  current = content[/^tags:\s*\[([^\]]+)\]/, 1].to_s.split(",").map(&:strip).reject(&:empty?)
   description = content[/## 简介\n\n(.+?)(?=\n\n## |\z)/m, 1].to_s
   region = content[/^\| 地区 \| ([^|]+) \|$/, 1]&.strip
   region = "中国" if region == "大陆"
@@ -37,7 +41,9 @@ metadata.fetch("entries").each do |entry|
   tags << "#{birth_year}年" if birth_year
   tags = tags.uniq
 
-  content.sub!(/^tags:\s*\[[^\]]+\]$/, "tags: [#{tags.join(', ')}]")
+  next if tags == current && !content[%r{^tags:\s*\[}]
+
+  content = content.sub(/^tags:\s*\[[^\]]*\]$/, "tags: [#{tags.join(', ')}]")
   File.write(path, content)
   entry["tags"] = tags
 end

@@ -84,8 +84,8 @@ entries.each do |entry|
 end
 
 indexed_paths = seen_paths.keys.sort
-profile_paths = Dir.glob(File.join(ROOT, "src/[A-Z]/*.md"))
-                   .reject { |path| File.basename(path) == "README.md" }
+profile_paths = Dir.glob(File.join(ROOT, "src/*/*.md"))
+                   .reject { |path| path.include?("/_meta/") || path.include?("/_tags/") || File.basename(path) == "README.md" }
                    .map { |path| path.delete_prefix(File.join(ROOT, "src/")) }
                    .sort
 
