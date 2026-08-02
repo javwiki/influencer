@@ -316,6 +316,12 @@ entries:
   - 日本
   - 1945年
   completeness: 85
+- name: 令子
+  reading: れいこ
+  path: R/令子.md
+  tags:
+  - グラビアアイドル
+  completeness: 100
 - name: 丽莉Lily
   reading: ''
   path: L/丽莉Lily.md
