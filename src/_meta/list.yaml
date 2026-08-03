@@ -309,6 +309,13 @@ entries:
   - 日本
   - 1999年
   completeness: 100
+- name: 森咲智美
+  reading: もりさき ともみ
+  path: M/森咲智美.md
+  tags:
+  - グラビアアイドル
+  - 日本
+  completeness: 100
 - name: 森下悠里
   reading: もりした ゆうり
   path: M/森下悠里.md
