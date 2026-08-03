@@ -100,6 +100,13 @@ entries:
   tags:
   - グラビアアイドル
   completeness: 100
+- name: 菊地姫奈
+  reading: きくち ひな
+  path: K/菊地姫奈.md
+  tags:
+  - グラビアアイドル
+  - 日本
+  completeness: 100
 - name: 仓科加奈
   reading: くらしな かな
   path: K/仓科加奈.md
@@ -132,6 +139,13 @@ entries:
   - 演员
   - 日本
   completeness: 60
+- name: 熊田曜子
+  reading: くまだ ようこ
+  path: K/熊田曜子.md
+  tags:
+  - グラビアアイドル
+  - 日本
+  completeness: 100
 - name: 国分佐智子
   reading: こくぶ さちこ
   path: K/国分佐智子.md
@@ -156,6 +170,13 @@ entries:
   - 模特
   - 日本
   - 1998年
+  completeness: 100
+- name: 斎藤恭代
+  reading: さいとう やすよ
+  path: S/斎藤恭代.md
+  tags:
+  - グラビアアイドル
+  - 日本
   completeness: 100
 - name: 佐々野愛美
   reading: ささの あみ
@@ -1569,6 +1590,13 @@ entries:
   - 模特
   - 国际
   completeness: 75
+- name: 千歳吉野
+  reading: ちとせ よしの
+  path: C/千歳吉野.md
+  tags:
+  - グラビアアイドル
+  - 日本
+  completeness: 100
 - name: Daiane Novais
   reading: ''
   path: D/Daiane_Novais.md
