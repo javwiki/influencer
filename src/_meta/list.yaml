@@ -1728,6 +1728,13 @@ entries:
   - 演员
   - 泰国
   completeness: 60
+- name: P酱
+  reading: ピーちゃん
+  path: P/P酱.md
+  tags:
+  - グラビアアイドル
+  - 日本
+  completeness: 100
 - name: Phasinee Boonrod
   reading: ''
   path: P/Phasinee_Boonrod.md
