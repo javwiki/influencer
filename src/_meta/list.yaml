@@ -1475,6 +1475,13 @@ entries:
   - 英国
   - 1978年
   completeness: 100
+- name: Aline Bernardes
+  reading: ''
+  path: A/Aline_Bernardes.md
+  tags:
+  - 模特
+  - 巴西
+  completeness: 100
 - name: Ariana Grande
   reading: ''
   path: A/Ariana_Grande.md
@@ -1629,6 +1636,22 @@ entries:
   - 模特
   - 国际
   completeness: 75
+- name: Lucciana Beatriz Beynon
+  reading: ''
+  path: L/Lucciana_Beatriz_Beynon.md
+  tags:
+  - 模特
+  - 演员
+  - 澳大利亚
+  completeness: 100
+- name: Lynn
+  reading: ''
+  path: L/Lynn.md
+  tags:
+  - 模特
+  - 网红
+  - 国际
+  completeness: 90
 - name: Nadja Auermann
   reading: ''
   path: N/Nadja_Auermann.md
