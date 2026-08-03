@@ -157,6 +157,13 @@ entries:
   - 日本
   - 1998年
   completeness: 100
+- name: 佐々野愛美
+  reading: ささの あみ
+  path: S/佐々野愛美.md
+  tags:
+  - グラビアアイドル
+  - 日本
+  completeness: 100
 - name: 沢地優佳
   reading: さわち ゆうか
   path: S/沢地優佳.md
@@ -165,6 +172,13 @@ entries:
   - 演员
   - 日本
   completeness: 90
+- name: 瀬戸真凜
+  reading: せと まりん
+  path: S/瀬戸真凜.md
+  tags:
+  - グラビアアイドル
+  - 日本
+  completeness: 100
 - name: 东云海
   reading: しののめ うみ
   path: S/东云海.md
@@ -249,6 +263,27 @@ entries:
   - 日本
   - 1988年
   completeness: 85
+- name: 夏来唯
+  reading: なつき ゆい
+  path: N/夏来唯.md
+  tags:
+  - グラビアアイドル
+  - 日本
+  completeness: 100
+- name: 拍羽想
+  reading: はくは こころ
+  path: H/拍羽想.md
+  tags:
+  - グラビアアイドル
+  - 日本
+  completeness: 100
+- name: 原つむぎ
+  reading: はら つむぎ
+  path: H/原つむぎ.md
+  tags:
+  - グラビアアイドル
+  - 日本
+  completeness: 100
 - name: 桥本环奈
   reading: はしもと かんな
   path: H/桥本环奈.md
@@ -870,13 +905,6 @@ entries:
   - 演员
   - 中国
   completeness: 60
-- name: 拍羽想
-  reading: はくは こころ
-  path: H/拍羽想.md
-  tags:
-  - グラビアアイドル
-  - 日本
-  completeness: 100
 - name: 潘娇娇
   reading: ''
   path: P/潘娇娇.md
