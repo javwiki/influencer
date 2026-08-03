@@ -870,6 +870,13 @@ entries:
   - 演员
   - 中国
   completeness: 60
+- name: 拍羽想
+  reading: はくは こころ
+  path: H/拍羽想.md
+  tags:
+  - グラビアアイドル
+  - 日本
+  completeness: 100
 - name: 潘娇娇
   reading: ''
   path: P/潘娇娇.md
