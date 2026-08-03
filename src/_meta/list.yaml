@@ -153,6 +153,12 @@ entries:
   - 演员
   - 日本
   completeness: 90
+- name: 东云海
+  reading: しののめ うみ
+  path: S/东云海.md
+  tags:
+  - グラビアアイドル
+  completeness: 100
 - name: 杉原杏璃
   reading: すぎはら あんり
   path: S/杉原杏璃.md
