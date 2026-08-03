@@ -45,6 +45,12 @@ entries:
   - 日本
   - 2017年
   completeness: 100
+- name: 天野ちよ
+  reading: あまの ちよ
+  path: A/天野ちよ.md
+  tags:
+  - グラビアアイドル
+  completeness: 100
 - name: 伊織いお
   reading: いおり いお
   path: I/伊織いお.md
@@ -87,6 +93,12 @@ entries:
   - Coser
   - 日本
   - 1998年
+  completeness: 100
+- name: 加藤玲菜
+  reading: かとう れな
+  path: K/加藤玲菜.md
+  tags:
+  - グラビアアイドル
   completeness: 100
 - name: 仓科加奈
   reading: くらしな かな
