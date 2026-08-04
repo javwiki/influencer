@@ -1,6 +1,6 @@
 ---
 tags: [Coser, 日本, 模特, 网红, 2019年]
-verification: partial
+verification: verified
 ---
 
 # Hidori Rose
@@ -15,7 +15,7 @@ Hidori Rose，日本Coser、模特、内容创作者。其官方网站将其定�
 |------|-----|
 | 分类 | Coser |
 | 地区 | 日本 |
-| 资料状态 | 部分核验 |
+| 资料状态 | 已核验 |
 | 平台 | X / Instagram / TikTok / YouTube（核验日期：2026-08-04） |
 | 活动开始 | 2019年（模特活动） |
 

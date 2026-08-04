@@ -1,13 +1,13 @@
 ---
 tags: [模特, 国际]
-verification: partial
+verification: pending
 ---
 
 # Stella
 
 ## 简介
 
-国际模特，主要在社交媒体发布内容；公开资料有限，身份信息待进一步核实。
+「Stella」为常见英文名，存在多位同名候选（如超模 Stella Maxwell、模特 Stella Sedona、Stella Andrews 等），原条目除「Instagram 模特、国际」外无更多可辨识信息，无法确认具体所指人物与账号归属，暂停补充资料，待提供更多线索（如 Instagram 账号）后继续核验。
 
 ## 基本信息
 
@@ -15,6 +15,5 @@ verification: partial
 |------|-----|
 | 分类 | 模特 |
 | 地区 | 国际 |
-| 资料状态 | 部分核验 |
-| 备注 | Instagram模特 |
-
+| 资料状态 | 待核验 |
+| 备注 | 同名歧义：Stella Maxwell / Stella Sedona / Stella Andrews 等 |

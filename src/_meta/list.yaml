@@ -627,7 +627,9 @@ entries:
   tags:
   - 模特
   - 中国
-  completeness: 75
+  - 1997年
+  - 舞者
+  completeness: 100
 - name: 孙梦瑶
   reading: ''
   path: S/孙梦瑶.md
@@ -656,7 +658,7 @@ entries:
   tags:
   - 网红
   - 中国
-  completeness: 75
+  completeness: 90
 - name: 宋轶
   reading: ''
   path: S/宋轶.md
@@ -851,6 +853,7 @@ entries:
   tags:
   - 演员
   - 香港
+  - 1970年
   completeness: 100
 - name: 李毓芬
   reading: ''
@@ -1156,7 +1159,8 @@ entries:
   tags:
   - 模特
   - 中国
-  completeness: 90
+  - 1999年
+  completeness: 100
 - name: 艾小青
   reading: ''
   path: A/艾小青.md
@@ -1328,7 +1332,8 @@ entries:
   tags:
   - 模特
   - 中国
-  completeness: 75
+  - 1992年
+  completeness: 100
 - name: 颜丹晨
   reading: ''
   path: Y/颜丹晨.md
@@ -1685,8 +1690,10 @@ entries:
   path: A/Ashe_Maree.md
   tags:
   - 模特
-  - 澳大利亚
-  completeness: 75
+  - 美国
+  - 1993年
+  - 网红
+  completeness: 100
 - name: Babbyang
   reading: ''
   path: B/Babbyang.md
@@ -1701,21 +1708,22 @@ entries:
   tags:
   - 模特
   - 英国
-  completeness: 75
-- name: Celine Farachchole
+  completeness: 90
+- name: Celine Farach
   reading: ''
-  path: C/Celine_Farachchole.md
+  path: C/Celine_Farach.md
   tags:
   - 模特
-  - 法国
-  completeness: 75
+  - 美国
+  - 1997年
+  completeness: 100
 - name: Cherry Quahst
   reading: ''
   path: C/Cherry_Quahst.md
   tags:
-  - 模特
-  - 国际
-  completeness: 75
+  - 网红
+  - 马来西亚
+  completeness: 90
 - name: 千歳吉野
   reading: ちとせ よしの
   path: C/千歳吉野.md
@@ -1733,7 +1741,8 @@ entries:
   tags:
   - 模特
   - 巴西
-  completeness: 75
+  - 网红
+  completeness: 90
 - name: Dita Von Teese
   reading: ''
   path: D/Dita_Von_Teese.md
@@ -1749,14 +1758,16 @@ entries:
   tags:
   - 模特
   - 俄罗斯
-  completeness: 75
+  - 网红
+  completeness: 90
 - name: Emily Bloom
   reading: ''
   path: E/Emily_Bloom.md
   tags:
   - 模特
   - 乌克兰
-  completeness: 75
+  - 1993年
+  completeness: 100
 - name: Emily Ratajkowski
   reading: ''
   path: E/Emily_Ratajkowski.md
@@ -1793,7 +1804,8 @@ entries:
   tags:
   - 模特
   - 美国
-  completeness: 75
+  - 1984年
+  completeness: 100
 - name: Jordan Carver
   reading: ''
   path: J/Jordan_Carver.md
@@ -1819,29 +1831,37 @@ entries:
   - 模特
   - 网红
   - 美国
-  completeness: 75
+  - 1991年
+  - 演员
+  - 歌手
+  completeness: 100
 - name: Leanna Decker
   reading: ''
   path: L/Leanna_Decker.md
   tags:
   - 模特
   - 美国
-  completeness: 75
+  - 1991年
+  completeness: 100
 - name: Leng Yein
   reading: ''
   path: L/Leng_Yein.md
   tags:
+  - 网红
   - 演员
   - 模特
-  - 柬埔寨
-  completeness: 75
+  - 马来西亚
+  - 1985年
+  - DJ
+  completeness: 100
 - name: Leona Mia
   reading: ''
   path: L/Leona_Mia.md
   tags:
   - 模特
-  - 国际
-  completeness: 75
+  - 俄罗斯
+  - 1996年
+  completeness: 100
 - name: Lucciana Beatriz Beynon
   reading: ''
   path: L/Lucciana_Beatriz_Beynon.md
@@ -1954,16 +1974,19 @@ entries:
   reading: ''
   path: R/Rocksy_Light.md
   tags:
+  - Coser
   - 模特
-  - 国际
-  completeness: 75
+  - 俄罗斯
+  - 网红
+  completeness: 90
 - name: Savanna Blade
   reading: ''
   path: S/Savanna_Blade.md
   tags:
   - 模特
   - 加拿大
-  completeness: 75
+  - 1999年
+  completeness: 100
 - name: Sophie Howard
   reading: ''
   path: S/Sophie_Howard.md
@@ -1985,6 +2008,7 @@ entries:
   tags:
   - 模特
   - 泰国
+  - 网红
   completeness: 90
 - name: Violet Summers
   reading: ''
@@ -1993,7 +2017,8 @@ entries:
   - 模特
   - 网红
   - 美国
-  completeness: 75
+  - 1999年
+  completeness: 100
 - name: Waterlynn
   reading: ''
   path: W/Waterlynn.md
