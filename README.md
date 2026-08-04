@@ -26,12 +26,14 @@
 - 标签可以有多个。首个标签仍用于资料表中的主分类，后续标签不分类型或数量。
 - 只添加正文或可靠资料明确支持的标签，不根据外貌、作品角色或相似账号推断人物属性。
 - 写真偶像通常以 `模特` 作为主分类，直播主播通常以 `网红` 作为主分类；这些规则不限制追加其他标签。
+- 标签页（`src/_tags/`）由 [mdbook-tagging](https://crates.io/crates/mdbook-tagging) 根据条目 frontmatter 的 `tags` 自动生成：每个标签一个页面列出对应条目，`index.md` 汇总标签及条目数；修改标签后需重新生成。
 
 ## 本地构建
 
 ```bash
+rm -rf src/_tags && mdbook-tagging generate .
 ruby scripts/audit-content.rb
 mdbook build
 ```
 
-内容审查脚本会检查资料文件与索引是否一致、核验字段是否齐全、完整度是否正确，以及是否存在异常换行或断裂表格。目录页（各分目录 `README.md`）和 `SUMMARY.md` 在部署时由 GitHub Action 自动生成；标签页（`src/_tags/`）为手动维护的简单标题页。
+内容审查脚本会检查资料文件与索引是否一致、核验字段是否齐全、完整度是否正确、标签页是否齐全，以及是否存在异常换行或断裂表格。目录页（各分目录 `README.md`）和 `SUMMARY.md` 在部署时由 GitHub Action 自动生成；标签页同样由 GitHub Action 在构建前自动生成。

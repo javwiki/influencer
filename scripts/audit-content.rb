@@ -92,6 +92,10 @@ profile_paths = Dir.glob(File.join(ROOT, "src/*/*.md"))
 (profile_paths - indexed_paths).each { |path| errors << "资料未加入索引：#{path}" }
 (indexed_paths - profile_paths).each { |path| errors << "索引包含非资料文件：#{path}" }
 
+tags_in_use = entries.flat_map { |entry| entry["tags"] }.uniq.sort
+missing_tag_pages = tags_in_use.reject { |tag| File.file?(File.join(ROOT, "src/_tags", "#{tag}.md")) }
+missing_tag_pages.each { |tag| errors << "标签页缺失：src/_tags/#{tag}.md（请先运行 mdbook-tagging generate）" }
+
 if errors.empty?
   puts "内容审查通过：#{entries.length} 个条目"
 else

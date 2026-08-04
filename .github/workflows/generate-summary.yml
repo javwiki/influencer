@@ -32,16 +32,21 @@ jobs:
           key: cargo-tools-${{ runner.os }}-${{ env.CARGO_CACHE_WEEK }}
           restore-keys: |
             cargo-tools-${{ runner.os }}-
-      - name: Install mdBook and mdbook-summarizer
+      - name: Install mdBook, mdbook-summarizer and mdbook-tagging
         run: |
           rustup update stable
-          for tool in mdbook mdbook-summarizer; do
+          for tool in mdbook mdbook-summarizer mdbook-tagging; do
             if command -v "$tool" &>/dev/null; then
               echo "$tool $( $tool --version ) cached, skipping install"
             else
               cargo install --locked "$tool"
             fi
           done
+      - name: Generate tag index pages with mdbook-tagging
+        run: |
+          rm -rf src/_tags
+          mdbook-tagging generate .
+          echo "Tag pages generated"
       - name: Generate SUMMARY.md with mdbook-summarizer
         run: |
           mdbook-summarizer --src src --auto-readme
