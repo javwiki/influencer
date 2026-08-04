@@ -3,9 +3,9 @@ entries:
   reading: ''
   path: S/sibyl是女巫.md
   tags:
-  - 演员
+  - 模特
   - 中国
-  completeness: 60
+  completeness: 90
 - name: 赤井沙希
   reading: あかい さき
   path: A/赤井沙希.md
@@ -481,16 +481,17 @@ entries:
   reading: ''
   path: L/丽莉Lily.md
   tags:
-  - 演员
+  - 模特
   - 中国
-  completeness: 60
+  - 1996年
+  completeness: 100
 - name: 亚辰
   reading: ''
   path: Y/亚辰.md
   tags:
   - 网红
   - 中国
-  completeness: 60
+  completeness: 90
 - name: 侯佩岑
   reading: ''
   path: H/侯佩岑.md
@@ -506,14 +507,16 @@ entries:
   tags:
   - 演员
   - 中国
-  completeness: 60
+  - 1982年
+  completeness: 100
 - name: 冰漪
   reading: ''
   path: B/冰漪.md
   tags:
   - 模特
   - 中国
-  completeness: 60
+  - 1986年
+  completeness: 100
 - name: 刘丹萌
   reading: ''
   path: L/刘丹萌.md
@@ -528,7 +531,7 @@ entries:
   tags:
   - 演员
   - 中国
-  completeness: 60
+  completeness: 75
 - name: 刘庭羽
   reading: ''
   path: L/刘庭羽.md
@@ -550,9 +553,9 @@ entries:
   reading: ''
   path: S/司灵.md
   tags:
-  - 演员
+  - 网红
   - 中国
-  completeness: 60
+  completeness: 100
 - name: 吴婷
   reading: ''
   path: W/吴婷.md
@@ -565,37 +568,43 @@ entries:
   reading: ''
   path: Z/周于希.md
   tags:
-  - 演员
+  - 模特
   - 中国
-  completeness: 60
+  - 1995年
+  completeness: 100
 - name: 周大萌
   reading: ''
   path: Z/周大萌.md
   tags:
   - 模特
   - 中国
-  completeness: 60
+  - Coser
+  completeness: 90
 - name: 周妍希
   reading: ''
   path: Z/周妍希.md
   tags:
   - 演员
   - 中国
-  completeness: 60
+  - 模特
+  completeness: 90
 - name: 周娇
   reading: ''
   path: Z/周娇.md
   tags:
   - 演员
   - 中国
-  completeness: 60
+  - 1988年
+  - 模特
+  completeness: 100
 - name: 周宜诺
   reading: ''
   path: Z/周宜诺.md
   tags:
-  - 演员
+  - 模特
   - 中国
-  completeness: 60
+  - 1990年
+  completeness: 100
 - name: 周晓涵
   reading: ''
   path: Z/周晓涵.md
@@ -620,7 +629,7 @@ entries:
   tags:
   - 网红
   - 中国
-  completeness: 60
+  completeness: 90
 - name: 娜露
   reading: ''
   path: N/娜露.md
@@ -636,14 +645,18 @@ entries:
   tags:
   - 演员
   - 中国
-  completeness: 60
+  - 模特
+  completeness: 100
 - name: 孟十朵
   reading: ''
   path: M/孟十朵.md
   tags:
   - 演员
   - 中国
-  completeness: 60
+  - 1995年
+  - 模特
+  - 歌手
+  completeness: 100
 - name: 孟衍竹
   reading: ''
   path: M/孟衍竹.md
@@ -673,21 +686,24 @@ entries:
   tags:
   - 网红
   - 中国
-  completeness: 60
+  completeness: 90
 - name: 常梦涵
   reading: ''
   path: C/常梦涵.md
   tags:
   - 演员
   - 中国
-  completeness: 60
+  completeness: 75
 - name: 张优
   reading: ''
   path: Z/张优.md
   tags:
   - 演员
   - 中国
-  completeness: 60
+  - 1991年
+  - 模特
+  - 歌手
+  completeness: 100
 - name: 张嘉倪
   reading: ''
   path: Z/张嘉倪.md
@@ -702,21 +718,23 @@ entries:
   tags:
   - 演员
   - 中国
-  completeness: 60
+  completeness: 75
 - name: 张宇婷
   reading: ''
   path: Z/张宇婷.md
   tags:
-  - 演员
+  - 网红
   - 中国
-  completeness: 60
+  completeness: 90
 - name: 张已桂
   reading: ''
   path: Z/张已桂.md
   tags:
   - 演员
   - 中国
-  completeness: 60
+  - 模特
+  - 歌手
+  completeness: 90
 - name: 张籽沐
   reading: ''
   path: Z/张籽沐.md
@@ -732,14 +750,17 @@ entries:
   tags:
   - 演员
   - 中国
-  completeness: 60
+  - 1990年
+  completeness: 100
 - name: 张语昕
   reading: ''
   path: Z/张语昕.md
   tags:
   - 演员
-  - 中国
-  completeness: 60
+  - 台湾
+  - 1995年
+  - 模特
+  completeness: 100
 - name: 文咏珊
   reading: ''
   path: W/文咏珊.md
@@ -755,7 +776,7 @@ entries:
   tags:
   - 网红
   - 中国
-  completeness: 60
+  completeness: 90
 - name: 春夏
   reading: ''
   path: C/春夏.md
@@ -771,7 +792,7 @@ entries:
   tags:
   - 演员
   - 中国
-  completeness: 60
+  completeness: 75
 - name: 曾之乔
   reading: ''
   path: C/曾之乔.md
@@ -810,7 +831,9 @@ entries:
   tags:
   - 演员
   - 中国
-  completeness: 60
+  - 1994年
+  - 模特
+  completeness: 100
 - name: 李一桐
   reading: ''
   path: L/李一桐.md
@@ -823,30 +846,31 @@ entries:
   reading: ''
   path: L/李丽莎.md
   tags:
-  - 演员
+  - 模特
   - 中国
-  completeness: 60
+  completeness: 90
 - name: 李凯莉
   reading: ''
   path: L/李凯莉.md
   tags:
   - 演员
-  - 中国
-  completeness: 60
+  - 台湾
+  completeness: 90
 - name: 李凯诗
   reading: ''
   path: L/李凯诗.md
   tags:
   - 演员
   - 中国
-  completeness: 60
+  - 1992年
+  completeness: 100
 - name: 李天宜
   reading: ''
   path: L/李天宜.md
   tags:
-  - 演员
+  - 网红
   - 中国
-  completeness: 60
+  completeness: 90
 - name: 李月仙
   reading: ''
   path: L/李月仙.md
@@ -869,9 +893,9 @@ entries:
   reading: ''
   path: L/李秋媛.md
   tags:
-  - 演员
-  - 中国
-  completeness: 60
+  - 主持人
+  - 加拿大（华裔）
+  completeness: 100
 - name: 李莉莉
   reading: ''
   path: L/李莉莉.md
@@ -887,14 +911,15 @@ entries:
   tags:
   - 演员
   - 中国
-  completeness: 60
+  completeness: 90
 - name: 杨上萱
   reading: ''
   path: Y/杨上萱.md
   tags:
-  - 演员
+  - 网红
   - 中国
-  completeness: 60
+  - 1995年
+  completeness: 100
 - name: 林书葶Una
   reading: ''
   path: L/林书葶Una.md
@@ -919,9 +944,10 @@ entries:
   reading: ''
   path: L/柳侑绮.md
   tags:
-  - 演员
+  - 模特
   - 中国
-  completeness: 60
+  - 1992年
+  completeness: 100
 - name: 柳岩
   reading: ''
   path: L/柳岩.md
@@ -946,7 +972,9 @@ entries:
   tags:
   - 演员
   - 中国
-  completeness: 60
+  - 1986年
+  - 模特
+  completeness: 100
 - name: 樁山民子
   reading: ''
   path: C/樁山民子.md
@@ -977,28 +1005,28 @@ entries:
   tags:
   - 网红
   - 中国
-  completeness: 60
+  completeness: 90
 - name: 沈可乐
   reading: ''
   path: S/沈可乐.md
   tags:
-  - 演员
+  - 模特
   - 中国
-  completeness: 60
+  completeness: 90
 - name: 沈蜜桃
   reading: ''
   path: S/沈蜜桃.md
   tags:
-  - 演员
+  - 模特
   - 中国
-  completeness: 60
+  completeness: 90
 - name: 浅浅
   reading: ''
   path: Q/浅浅.md
   tags:
   - 网红
   - 中国
-  completeness: 60
+  completeness: 90
 - name: 涂黎曼
   reading: ''
   path: T/涂黎曼.md
@@ -1019,23 +1047,25 @@ entries:
   reading: ''
   path: W/温心怡.md
   tags:
-  - 演员
+  - 网红
   - 中国
-  completeness: 60
+  - 模特
+  - 1995年
+  completeness: 100
 - name: 游娜
   reading: ''
   path: Y/游娜.md
   tags:
   - 演员
   - 中国
-  completeness: 60
+  completeness: 75
 - name: 潘娇娇
   reading: ''
   path: P/潘娇娇.md
   tags:
-  - 演员
+  - 模特
   - 中国
-  completeness: 60
+  completeness: 90
 - name: 潘春春
   reading: ''
   path: P/潘春春.md
@@ -1051,7 +1081,7 @@ entries:
   tags:
   - 网红
   - 中国
-  completeness: 60
+  completeness: 90
 - name: 炼乳
   reading: ''
   path: L/炼乳.md
@@ -1064,37 +1094,44 @@ entries:
   reading: ''
   path: M/猫九酱Sakura.md
   tags:
-  - 演员
+  - Coser
   - 中国
-  completeness: 60
+  - 网红
+  completeness: 90
 - name: 王一霏
   reading: ''
   path: W/王一霏.md
   tags:
   - 演员
   - 中国
-  completeness: 60
+  - 1999年
+  - 模特
+  - 歌手
+  completeness: 100
 - name: 王俪丁
   reading: ''
   path: W/王俪丁.md
   tags:
-  - 演员
+  - 网红
   - 中国
-  completeness: 60
+  completeness: 90
 - name: 王慕清
   reading: ''
   path: W/王慕清.md
   tags:
-  - 演员
+  - 网红
   - 中国
-  completeness: 60
+  - 1988年
+  completeness: 100
 - name: 王明明
   reading: ''
   path: W/王明明.md
   tags:
-  - 演员
+  - 模特
   - 中国
-  completeness: 60
+  - 1990年
+  - 演员
+  completeness: 100
 - name: 王洁曦
   reading: ''
   path: W/王洁曦.md
@@ -1118,9 +1155,11 @@ entries:
   reading: ''
   path: W/王蕙心.md
   tags:
-  - 演员
+  - 模特
   - 中国
-  completeness: 60
+  - 1988年
+  - 演员
+  completeness: 100
 - name: 王希蔓
   reading: ''
   path: W/王希蔓.md
@@ -1145,14 +1184,15 @@ entries:
   tags:
   - 演员
   - 中国
-  completeness: 60
+  completeness: 75
 - name: 糯美子
   reading: ''
   path: N/糯美子.md
   tags:
-  - 模特
+  - 演员
   - 中国
-  completeness: 60
+  - 2001年
+  completeness: 100
 - name: 缇娜美
   reading: ''
   path: T/缇娜美.md
@@ -1167,7 +1207,7 @@ entries:
   tags:
   - 模特
   - 中国
-  completeness: 60
+  completeness: 90
 - name: 菅韧姿
   reading: ''
   path: J/菅韧姿.md
@@ -1180,9 +1220,10 @@ entries:
   reading: ''
   path: M/萌琪琪.md
   tags:
-  - 演员
+  - 网红
   - 中国
-  completeness: 60
+  - 模特
+  completeness: 100
 - name: 蓝燕
   reading: ''
   path: L/蓝燕.md
@@ -1199,7 +1240,7 @@ entries:
   tags:
   - 演员
   - 中国
-  completeness: 60
+  completeness: 75
 - name: 袁冰妍
   reading: ''
   path: Y/袁冰妍.md
@@ -1237,9 +1278,9 @@ entries:
   reading: ''
   path: T/谭靓.md
   tags:
-  - 演员
+  - 模特
   - 中国
-  completeness: 60
+  completeness: 100
 - name: 赵奕欢
   reading: ''
   path: Z/赵奕欢.md
@@ -1254,23 +1295,25 @@ entries:
   reading: ''
   path: Z/赵妍欢.md
   tags:
-  - 演员
+  - 模特
   - 中国
-  completeness: 60
+  - 1987年
+  completeness: 100
 - name: 赵惟依
   reading: ''
   path: Z/赵惟依.md
   tags:
-  - 演员
+  - 模特
   - 中国
-  completeness: 60
+  completeness: 90
 - name: 赵舒淇
   reading: ''
   path: Z/赵舒淇.md
   tags:
   - 网红
   - 中国
-  completeness: 60
+  - 模特
+  completeness: 90
 - name: 路晨
   reading: ''
   path: L/路晨.md
@@ -1298,9 +1341,10 @@ entries:
   reading: ''
   path: L/陆瓷.md
   tags:
-  - 演员
+  - 模特
   - 中国
-  completeness: 60
+  - 1994年
+  completeness: 100
 - name: 陈小纭
   reading: ''
   path: C/陈小纭.md
@@ -1346,23 +1390,25 @@ entries:
   reading: ''
   path: M/马露儿.md
   tags:
-  - 演员
+  - 模特
   - 中国
-  completeness: 60
+  - 1986年
+  completeness: 100
 - name: 黄乔韵
   reading: ''
   path: H/黄乔韵.md
   tags:
   - 演员
-  - 中国
-  completeness: 60
+  - 台湾
+  - 1986年
+  completeness: 100
 - name: 黎梦恬
   reading: ''
   path: L/黎梦恬.md
   tags:
   - 演员
   - 中国
-  completeness: 60
+  completeness: 90
 - name: 鱼神
   reading: ''
   path: Y/鱼神.md
@@ -1424,7 +1470,7 @@ entries:
   tags:
   - 演员
   - 韩国
-  completeness: 60
+  completeness: 90
 - name: 동그란
   reading: 동그란
   path: D/동그란.md
@@ -1456,14 +1502,17 @@ entries:
   tags:
   - 演员
   - 韩国
-  completeness: 60
+  - 1996年
+  - 网红
+  completeness: 100
 - name: 朴秀妍
   reading: 박수연
   path: P/朴秀妍.md
   tags:
   - 演员
   - 韩国
-  completeness: 60
+  - 1991年
+  completeness: 100
 - name: 朴恩率
   reading: 박은솔
   path: P/朴恩率.md
@@ -1540,9 +1589,10 @@ entries:
   reading: 이수빈
   path: L/李秀彬.md
   tags:
-  - 演员
+  - 网红
   - 韩国
-  completeness: 60
+  - 1991年
+  completeness: 100
 - name: 이연우
   reading: 이연우
   path: L/이연우.md
@@ -1554,9 +1604,10 @@ entries:
   reading: 이연화
   path: L/李燕花.md
   tags:
-  - 演员
+  - 模特
   - 韩国
-  completeness: 60
+  - 1991年
+  completeness: 100
 - name: 李英恩
   reading: 이영은
   path: L/李英恩.md
@@ -1930,9 +1981,10 @@ entries:
   reading: ''
   path: P/Phasinee_Boonrod.md
   tags:
-  - 演员
+  - 模特
   - 泰国
-  completeness: 60
+  - 网红
+  completeness: 90
 - name: Pichana Yoosuk
   reading: ''
   path: P/Pichana_Yoosuk.md
@@ -1967,9 +2019,11 @@ entries:
   reading: ''
   path: R/Rky_Thitiworada.md
   tags:
-  - 演员
+  - 网红
   - 泰国
-  completeness: 60
+  - DJ
+  - 模特
+  completeness: 90
 - name: Rocksy Light
   reading: ''
   path: R/Rocksy_Light.md
