@@ -1,5 +1,5 @@
 ---
-tags: [グラビアアイドル, 日本]
+tags: [グラビアアイドル, 日本, 模特, 歌手, 1988年]
 verification: verified
 ---
 

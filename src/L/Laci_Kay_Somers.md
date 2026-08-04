@@ -7,7 +7,7 @@ verification: partial
 
 ## 简介
 
-美国网红、模特，通过Instagram等社交平台发布内容。
+美国网红、模特，主要在 Instagram 等社交平台发布内容；公开资料有限，身份信息待进一步核实。
 
 ## 基本信息
 

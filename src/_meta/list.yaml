@@ -1,4 +1,3 @@
----
 entries:
 - name: sibyl是女巫
   reading: ''
@@ -25,6 +24,7 @@ entries:
   - 偶像
   - 日本
   - 1999年
+  - 模特
   completeness: 100
 - name: 天木纯
   reading: あまき じゅん
@@ -50,6 +50,9 @@ entries:
   path: A/天野ちよ.md
   tags:
   - グラビアアイドル
+  - 模特
+  - 日本
+  - 1994年
   completeness: 100
 - name: 伊織いお
   reading: いおり いお
@@ -65,8 +68,11 @@ entries:
   path: I/池田依来沙.md
   tags:
   - 演员
+  - 模特
   - 日本
-  completeness: 60
+  - 1996年
+  - 歌手
+  completeness: 100
 - name: 今田美樱
   reading: いまだ みお
   path: I/今田美樱.md
@@ -99,6 +105,10 @@ entries:
   path: K/加藤玲菜.md
   tags:
   - グラビアアイドル
+  - 模特
+  - 偶像
+  - 日本
+  - 2006年
   completeness: 100
 - name: 菊地姫奈
   reading: きくち ひな
@@ -106,6 +116,10 @@ entries:
   tags:
   - グラビアアイドル
   - 日本
+  - 演员
+  - 模特
+  - 偶像
+  - 2004年
   completeness: 100
 - name: 仓科加奈
   reading: くらしな かな
@@ -119,9 +133,14 @@ entries:
   reading: くりた えみ
   path: K/栗田惠美.md
   tags:
-  - 演员
+  - グラビアアイドル
   - 日本
-  completeness: 60
+  - 1994年
+  - 演员
+  - 模特
+  - 偶像
+  - 网红
+  completeness: 100
 - name: 黑木明纱
   reading: くろき めいさ
   path: K/黑木明纱.md
@@ -136,15 +155,22 @@ entries:
   reading: くろき れいな
   path: K/黑木丽奈.md
   tags:
-  - 演员
+  - 模特
   - 日本
-  completeness: 60
+  - 2000年
+  - 演员
+  completeness: 100
 - name: 熊田曜子
   reading: くまだ ようこ
   path: K/熊田曜子.md
   tags:
   - グラビアアイドル
   - 日本
+  - 演员
+  - 模特
+  - 歌手
+  - 网红
+  - 1982年
   completeness: 100
 - name: 国分佐智子
   reading: こくぶ さちこ
@@ -152,7 +178,9 @@ entries:
   tags:
   - 演员
   - 日本
-  completeness: 60
+  - 1976年
+  - 偶像
+  completeness: 100
 - name: 小岛阳菜
   reading: こじま はるな
   path: K/小岛阳菜.md
@@ -177,6 +205,10 @@ entries:
   tags:
   - グラビアアイドル
   - 日本
+  - 演员
+  - 模特
+  - 偶像
+  - 1996年
   completeness: 100
 - name: 佐々野愛美
   reading: ささの あみ
@@ -184,6 +216,10 @@ entries:
   tags:
   - グラビアアイドル
   - 日本
+  - 演员
+  - 模特
+  - 声优
+  - 1998年
   completeness: 100
 - name: 沢地優佳
   reading: さわち ゆうか
@@ -199,12 +235,22 @@ entries:
   tags:
   - グラビアアイドル
   - 日本
+  - 模特
+  - 歌手
+  - 偶像
+  - 1997年
   completeness: 100
 - name: 东云海
   reading: しののめ うみ
   path: S/东云海.md
   tags:
   - グラビアアイドル
+  - 演员
+  - 模特
+  - 偶像
+  - 网红
+  - 日本
+  - 1996年
   completeness: 100
 - name: 杉原杏璃
   reading: すぎはら あんり
@@ -219,17 +265,20 @@ entries:
   reading: たきがわ まさみ
   path: T/泷川雅美.md
   tags:
-  - 演员
   - 主持人
   - 日本
-  completeness: 60
+  - 1977年
+  completeness: 100
 - name: 辰巳希娜
   reading: たつみ きな
   path: T/辰巳希娜.md
   tags:
-  - 演员
+  - グラビアアイドル
   - 日本
-  completeness: 60
+  - 1993年
+  - 演员
+  - 模特
+  completeness: 100
 - name: 田中理惠
   reading: たなか りえ
   path: T/田中理惠.md
@@ -247,7 +296,7 @@ entries:
   - 模特
   - 日本
   - 1997年
-  completeness: 85
+  completeness: 100
 - name: 户松遥
   reading: とまつ はるか
   path: T/户松遥.md
@@ -256,14 +305,17 @@ entries:
   - 歌手
   - 日本
   - 1990年
-  completeness: 85
+  - 演员
+  completeness: 100
 - name: 仲村星虹
-  reading: なかむら せいこう
+  reading: なかむら てぃな
   path: N/仲村星虹.md
   tags:
-  - 演员
+  - 偶像
   - 日本
-  completeness: 60
+  - 2004年
+  - 舞者
+  completeness: 100
 - name: 长泽茉里奈
   reading: ながさわ まりな
   path: N/长泽茉里奈.md
@@ -283,13 +335,15 @@ entries:
   - 模特
   - 日本
   - 1988年
-  completeness: 85
+  completeness: 100
 - name: 夏来唯
   reading: なつき ゆい
   path: N/夏来唯.md
   tags:
   - グラビアアイドル
   - 日本
+  - 模特
+  - 1994年
   completeness: 100
 - name: 拍羽想
   reading: はくは こころ
@@ -297,6 +351,9 @@ entries:
   tags:
   - グラビアアイドル
   - 日本
+  - 模特
+  - 偶像
+  - 1997年
   completeness: 100
 - name: 原つむぎ
   reading: はら つむぎ
@@ -304,6 +361,8 @@ entries:
   tags:
   - グラビアアイドル
   - 日本
+  - 模特
+  - 1998年
   completeness: 100
 - name: 桥本环奈
   reading: はしもと かんな
@@ -328,9 +387,12 @@ entries:
   reading: ほしの あき
   path: H/星野亚希.md
   tags:
-  - 演员
+  - グラビアアイドル
   - 日本
-  completeness: 60
+  - 1977年
+  - 演员
+  - 模特
+  completeness: 100
 - name: 松本若菜
   reading: まつもと わかな
   path: M/松本若菜.md
@@ -344,8 +406,11 @@ entries:
   path: M/真野惠里菜.md
   tags:
   - 演员
+  - 歌手
+  - 偶像
   - 日本
-  completeness: 60
+  - 1991年
+  completeness: 100
 - name: 水原希子
   reading: みずはら きこ
   path: M/水原希子.md
@@ -354,7 +419,7 @@ entries:
   - 模特
   - 日本
   - 1990年
-  completeness: 85
+  completeness: 100
 - name: 宮瀬いと
   reading: みやせ いと
   path: M/宮瀬いと.md
@@ -371,6 +436,11 @@ entries:
   tags:
   - グラビアアイドル
   - 日本
+  - 演员
+  - 模特
+  - 偶像
+  - 网红
+  - 1992年
   completeness: 100
 - name: 森下悠里
   reading: もりした ゆうり
@@ -396,12 +466,16 @@ entries:
   - 演员
   - 日本
   - 1945年
-  completeness: 85
+  - 歌手
+  completeness: 100
 - name: 令子
   reading: れいこ
   path: R/令子.md
   tags:
   - グラビアアイドル
+  - 模特
+  - 日本
+  - 1994年
   completeness: 100
 - name: 丽莉Lily
   reading: ''
@@ -421,11 +495,11 @@ entries:
   reading: ''
   path: H/侯佩岑.md
   tags:
-  - 演员
   - 主持人
+  - 演员
   - 台湾
-  - 1978年
-  completeness: 85
+  - 1977年
+  completeness: 100
 - name: 俞夏
   reading: ''
   path: Y/俞夏.md
@@ -444,9 +518,10 @@ entries:
   reading: ''
   path: L/刘丹萌.md
   tags:
-  - 演员
+  - 歌手
   - 中国
-  completeness: 60
+  - 1991年
+  completeness: 100
 - name: 刘安娜
   reading: ''
   path: L/刘安娜.md
@@ -460,15 +535,17 @@ entries:
   tags:
   - 演员
   - 中国
-  - 1982年
-  completeness: 85
+  - 1979年
+  completeness: 100
 - name: 叶梓萱
   reading: ''
   path: Y/叶梓萱.md
   tags:
   - 演员
+  - 模特
   - 中国
-  completeness: 60
+  - 1989年
+  completeness: 100
 - name: 司灵
   reading: ''
   path: S/司灵.md
@@ -482,7 +559,8 @@ entries:
   tags:
   - 演员
   - 中国
-  completeness: 60
+  - 1983年
+  completeness: 100
 - name: 周于希
   reading: ''
   path: Z/周于希.md
@@ -524,7 +602,9 @@ entries:
   tags:
   - 演员
   - 台湾
-  completeness: 60
+  - 1984年
+  - 偶像
+  completeness: 100
 - name: 周韦彤
   reading: ''
   path: Z/周韦彤.md
@@ -533,7 +613,7 @@ entries:
   - 模特
   - 中国
   - 1982年
-  completeness: 85
+  completeness: 100
 - name: 夏夏
   reading: ''
   path: X/夏夏.md
@@ -566,9 +646,10 @@ entries:
   reading: ''
   path: M/孟衍竹.md
   tags:
-  - 演员
+  - 模特
   - 中国
-  completeness: 60
+  - 1994年
+  completeness: 100
 - name: 宋熙媛
   reading: ''
   path: S/宋熙媛.md
@@ -583,7 +664,7 @@ entries:
   - 演员
   - 中国
   - 1989年
-  completeness: 85
+  completeness: 100
 - name: 小Annie
   reading: ''
   path: X/小Annie.md
@@ -612,7 +693,7 @@ entries:
   - 演员
   - 中国
   - 1987年
-  completeness: 85
+  completeness: 100
 - name: 张婉馨
   reading: ''
   path: Z/张婉馨.md
@@ -640,7 +721,9 @@ entries:
   tags:
   - 演员
   - 中国
-  completeness: 60
+  - 2008年
+  - 模特
+  completeness: 100
 - name: 张维娜
   reading: ''
   path: Z/张维娜.md
@@ -663,7 +746,7 @@ entries:
   - 模特
   - 香港
   - 1988年
-  completeness: 85
+  completeness: 100
 - name: 施施
   reading: ''
   path: S/施施.md
@@ -678,7 +761,8 @@ entries:
   - 演员
   - 中国
   - 1992年
-  completeness: 85
+  - 模特
+  completeness: 100
 - name: 景丽
   reading: ''
   path: J/景丽.md
@@ -704,14 +788,20 @@ entries:
   tags:
   - 演员
   - 台湾
-  completeness: 60
+  - 1989年
+  - 模特
+  - 主持人
+  - 舞者
+  completeness: 100
 - name: 木口亚矢
   reading: ''
   path: M/木口亚矢.md
   tags:
   - 演员
-  - 中国
-  completeness: 60
+  - 日本
+  - 1985年
+  - 模特
+  completeness: 100
 - name: 朱可儿
   reading: ''
   path: Z/朱可儿.md
@@ -760,8 +850,8 @@ entries:
   path: L/李月仙.md
   tags:
   - 演员
-  - 中国
-  completeness: 60
+  - 香港
+  completeness: 100
 - name: 李毓芬
   reading: ''
   path: L/李毓芬.md
@@ -770,7 +860,8 @@ entries:
   - 歌手
   - 台湾
   - 1985年
-  completeness: 85
+  - 模特
+  completeness: 100
 - name: 李秋媛
   reading: ''
   path: L/李秋媛.md
@@ -784,7 +875,9 @@ entries:
   tags:
   - 演员
   - 中国
-  completeness: 60
+  - 1970年
+  - 歌手
+  completeness: 100
 - name: 李雅
   reading: ''
   path: L/李雅.md
@@ -799,13 +892,16 @@ entries:
   - 演员
   - 中国
   completeness: 60
-- name: 林书亭Una
+- name: 林书葶Una
   reading: ''
-  path: L/林书亭Una.md
+  path: L/林书葶Una.md
   tags:
   - 演员
+  - 歌手
   - 台湾
-  completeness: 60
+  - 1994年
+  - 主持人
+  completeness: 100
 - name: 林志玲
   reading: ''
   path: L/林志玲.md
@@ -814,7 +910,8 @@ entries:
   - 演员
   - 台湾
   - 1974年
-  completeness: 85
+  - 主持人
+  completeness: 100
 - name: 柳侑绮
   reading: ''
   path: L/柳侑绮.md
@@ -830,7 +927,8 @@ entries:
   - 主持人
   - 中国
   - 1980年
-  completeness: 85
+  - 歌手
+  completeness: 100
 - name: 桂纶镁
   reading: ''
   path: G/桂纶镁.md
@@ -859,8 +957,9 @@ entries:
   tags:
   - 演员
   - 中国
-  - 1991年
-  completeness: 85
+  - 1994年
+  - 歌手
+  completeness: 100
 - name: 毛林林
   reading: ''
   path: M/毛林林.md
@@ -868,7 +967,7 @@ entries:
   - 演员
   - 中国
   - 1986年
-  completeness: 85
+  completeness: 100
 - name: 江小帆帆
   reading: ''
   path: J/江小帆帆.md
@@ -903,7 +1002,8 @@ entries:
   tags:
   - 演员
   - 中国
-  completeness: 60
+  - 1984年
+  completeness: 100
 - name: 温峥嵘
   reading: ''
   path: W/温峥嵘.md
@@ -939,7 +1039,9 @@ entries:
   tags:
   - 演员
   - 中国
-  completeness: 60
+  - 1990年
+  - 模特
+  completeness: 100
 - name: 火爆李老师
   reading: ''
   path: H/火爆李老师.md
@@ -995,14 +1097,19 @@ entries:
   tags:
   - 演员
   - 中国
-  completeness: 60
+  - 1989年
+  - 模特
+  - 主持人
+  completeness: 100
 - name: 王瑞儿
   reading: ''
   path: W/王瑞儿.md
   tags:
   - 模特
   - 中国
-  completeness: 75
+  - 1993年
+  - 演员
+  completeness: 100
 - name: 王蕙心
   reading: ''
   path: W/王蕙心.md
@@ -1025,7 +1132,9 @@ entries:
   - 模特
   - 演员
   - 台湾
-  completeness: 75
+  - 1985年
+  - 运动员
+  completeness: 100
 - name: 简言
   reading: ''
   path: J/简言.md
@@ -1046,8 +1155,7 @@ entries:
   tags:
   - 模特
   - 中国
-  - 1999年
-  completeness: 100
+  completeness: 90
 - name: 艾小青
   reading: ''
   path: A/艾小青.md
@@ -1062,7 +1170,7 @@ entries:
   - 演员
   - 中国
   - 1991年
-  completeness: 85
+  completeness: 100
 - name: 萌琪琪
   reading: ''
   path: M/萌琪琪.md
@@ -1076,8 +1184,10 @@ entries:
   tags:
   - 演员
   - 中国
-  - 1986年
-  completeness: 85
+  - 1990年
+  - 模特
+  - 歌手
+  completeness: 100
 - name: 蔡寅
   reading: ''
   path: C/蔡寅.md
@@ -1092,7 +1202,7 @@ entries:
   - 演员
   - 中国
   - 1992年
-  completeness: 85
+  completeness: 100
 - name: 袁洁莹
   reading: ''
   path: Y/袁洁莹.md
@@ -1106,9 +1216,10 @@ entries:
   reading: ''
   path: X/许路儿.md
   tags:
-  - 演员
+  - 网红
   - 台湾
-  completeness: 60
+  - 1975年
+  completeness: 100
 - name: 谢薇安
   reading: ''
   path: X/谢薇安.md
@@ -1131,7 +1242,9 @@ entries:
   - 演员
   - 中国
   - 1987年
-  completeness: 85
+  - 模特
+  - 歌手
+  completeness: 100
 - name: 赵妍欢
   reading: ''
   path: Z/赵妍欢.md
@@ -1159,7 +1272,8 @@ entries:
   tags:
   - 演员
   - 中国
-  completeness: 60
+  - 1987年
+  completeness: 100
 - name: 车模Glna
   reading: ''
   path: C/车模Glna.md
@@ -1174,7 +1288,7 @@ entries:
   - 演员
   - 香港
   - 1968年
-  completeness: 85
+  completeness: 100
 - name: 陆瓷
   reading: ''
   path: L/陆瓷.md
@@ -1204,7 +1318,9 @@ entries:
   tags:
   - 演员
   - 中国
-  completeness: 60
+  - 1991年
+  - 模特
+  completeness: 100
 - name: 顾欣怡
   reading: ''
   path: G/顾欣怡.md
@@ -1219,7 +1335,7 @@ entries:
   - 演员
   - 中国
   - 1978年
-  completeness: 85
+  completeness: 100
 - name: 马露儿
   reading: ''
   path: M/马露儿.md
@@ -1287,14 +1403,15 @@ entries:
   - 演员
   - 韩国
   - 1985年
-  completeness: 85
+  completeness: 100
 - name: 金宝拉
   reading: 김보라
   path: K/金宝拉.md
   tags:
   - 演员
   - 韩国
-  completeness: 75
+  - 1995年
+  completeness: 100
 - name: 金海燕
   reading: 김해연
   path: K/金海燕.md
@@ -1325,7 +1442,8 @@ entries:
   - 演员
   - 韩国
   - 1986年
-  completeness: 85
+  - 模特
+  completeness: 100
 - name: 朴素恩
   reading: 박소은
   path: P/朴素恩.md
@@ -1353,9 +1471,10 @@ entries:
   reading: 박초아
   path: P/朴草娥.md
   tags:
-  - 演员
+  - 歌手
   - 韩国
-  completeness: 60
+  - 1990年
+  completeness: 100
 - name: 보미
   reading: 보미
   path: B/보미.md
@@ -1387,9 +1506,10 @@ entries:
   reading: 송다혜
   path: S/宋多惠.md
   tags:
-  - 演员
+  - 歌手
   - 韩国
-  completeness: 60
+  - 1993年
+  completeness: 100
 - name: 쏘블리
   reading: 쏘블리
   path: S/쏘블리.md
@@ -1437,7 +1557,9 @@ entries:
   tags:
   - 演员
   - 韩国
-  completeness: 60
+  - 1982年
+  - 模特
+  completeness: 100
 - name: 李孝利
   reading: 이효리
   path: L/李孝利.md
@@ -1544,6 +1666,9 @@ entries:
   tags:
   - 模特
   - 巴西
+  - 网红
+  - 舞者
+  - 1988年
   completeness: 100
 - name: Ariana Grande
   reading: ''
@@ -1596,6 +1721,10 @@ entries:
   tags:
   - グラビアアイドル
   - 日本
+  - 模特
+  - 偶像
+  - Coser
+  - 2000年
   completeness: 100
 - name: Daiane Novais
   reading: ''
@@ -1650,7 +1779,10 @@ entries:
   tags:
   - Coser
   - 日本
-  completeness: 75
+  - 模特
+  - 网红
+  - 2019年
+  completeness: 100
 - name: Jessica Barton
   reading: ''
   path: J/Jessica_Barton.md
@@ -1713,6 +1845,7 @@ entries:
   - 模特
   - 演员
   - 澳大利亚
+  - 2001年
   completeness: 100
 - name: Lynn
   reading: ''
@@ -1729,7 +1862,8 @@ entries:
   - 模特
   - 德国
   - 1971年
-  completeness: 85
+  - 演员
+  completeness: 100
 - name: Narsha
   reading: ''
   path: N/Narsha.md
@@ -1748,20 +1882,25 @@ entries:
   - 演员
   - 美国
   - 1978年
-  completeness: 85
+  completeness: 100
 - name: Pat Napapa
   reading: ''
   path: P/Pat_Napapa.md
   tags:
   - 演员
   - 泰国
-  completeness: 60
+  - 1986年
+  - 主持人
+  completeness: 100
 - name: P酱
   reading: ピーちゃん
   path: P/P酱.md
   tags:
   - グラビアアイドル
   - 日本
+  - 模特
+  - 歌手
+  - 1988年
   completeness: 100
 - name: Phasinee Boonrod
   reading: ''
@@ -1776,7 +1915,8 @@ entries:
   tags:
   - 演员
   - 泰国
-  completeness: 60
+  - 模特
+  completeness: 90
 - name: Pishen Eva
   reading: ''
   path: P/Pishen_Eva.md
@@ -1795,9 +1935,10 @@ entries:
   reading: ''
   path: R/Reona.md
   tags:
-  - 演员
+  - 歌手
   - 日本
-  completeness: 60
+  - 1998年
+  completeness: 100
 - name: Rky Thitiworada
   reading: ''
   path: R/Rky_Thitiworada.md
@@ -1826,7 +1967,7 @@ entries:
   - 模特
   - 英国
   - 1983年
-  completeness: 85
+  completeness: 100
 - name: Stella
   reading: ''
   path: S/Stella.md
@@ -1838,9 +1979,9 @@ entries:
   reading: ''
   path: T/Thanyarat_Charoenpornkittada.md
   tags:
-  - 演员
+  - 模特
   - 泰国
-  completeness: 60
+  completeness: 90
 - name: Violet Summers
   reading: ''
   path: V/Violet_Summers.md

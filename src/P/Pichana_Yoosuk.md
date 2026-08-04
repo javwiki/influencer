@@ -1,13 +1,13 @@
 ---
-tags: [演员, 泰国]
-verification: pending
+tags: [演员, 泰国, 模特]
+verification: partial
 ---
 
 # Pichana Yoosuk
 
 ## 简介
 
-泰国演员；现有条目缺少足够可靠来源，具体职业经历待补充核实。
+泰国模特、演员，艺名 Mook（มุก）。以平面模特及出演泰国影视剧为主，其公开资料主要见于粉丝数据库及社交媒体，缺少百科级可靠来源，出生等个人信息待进一步核实。
 
 ## 基本信息
 
@@ -15,5 +15,9 @@ verification: pending
 |------|-----|
 | 分类 | 演员 |
 | 地区 | 泰国 |
-| 资料状态 | 待核验 |
+| 资料状态 | 部分核验 |
+| 艺名 | Mook（มุก） |
 
+## 参考资料
+
+- MyDramaList 人物页（线索，粉丝数据库）（核验日期：2026-08-04）：https://mydramalist.com/people/79547-mook-pichana-yoosuk
