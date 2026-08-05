@@ -110,6 +110,13 @@ entries:
   - 日本
   - 2006年
   completeness: 100
+- name: かほたん
+  reading: かほたん
+  path: K/かほたん.md
+  tags:
+  - 网红
+  - 日本
+  completeness: 100
 - name: 菊地姫奈
   reading: きくち ひな
   path: K/菊地姫奈.md
