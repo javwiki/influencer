@@ -261,6 +261,15 @@ entries:
   - 日本
   - 1982年
   completeness: 100
+- name: 鷹羽澪
+  reading: たかば みお
+  path: T/鷹羽澪.md
+  tags:
+  - グラビアアイドル
+  - 日本
+  - 1993年
+  - 模特
+  completeness: 100
 - name: 泷川雅美
   reading: たきがわ まさみ
   path: T/泷川雅美.md
