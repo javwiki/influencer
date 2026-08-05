@@ -5,7 +5,7 @@ entries:
   tags:
   - 模特
   - 中国
-  completeness: 90
+  completeness: 100
 - name: 赤井沙希
   reading: あかい さき
   path: A/赤井沙希.md
@@ -228,7 +228,7 @@ entries:
   - 模特
   - 演员
   - 日本
-  completeness: 90
+  completeness: 100
 - name: 瀬戸真凜
   reading: せと まりん
   path: S/瀬戸真凜.md
@@ -596,7 +596,7 @@ entries:
   - 演员
   - 中国
   - 模特
-  completeness: 90
+  completeness: 100
 - name: 周娇
   reading: ''
   path: Z/周娇.md
@@ -725,16 +725,16 @@ entries:
   reading: ''
   path: Z/张婉馨.md
   tags:
-  - 演员
+  - 模特
   - 中国
-  completeness: 75
+  completeness: 100
 - name: 张宇婷
   reading: ''
   path: Z/张宇婷.md
   tags:
   - 网红
-  - 中国
-  completeness: 90
+  - 台湾
+  completeness: 100
 - name: 张已桂
   reading: ''
   path: Z/张已桂.md
@@ -743,7 +743,7 @@ entries:
   - 中国
   - 模特
   - 歌手
-  completeness: 90
+  completeness: 100
 - name: 张籽沐
   reading: ''
   path: Z/张籽沐.md
@@ -857,7 +857,7 @@ entries:
   tags:
   - 模特
   - 中国
-  completeness: 90
+  completeness: 100
 - name: 李凯莉
   reading: ''
   path: L/李凯莉.md
@@ -1028,7 +1028,7 @@ entries:
   tags:
   - 模特
   - 中国
-  completeness: 90
+  completeness: 100
 - name: 浅浅
   reading: ''
   path: Q/浅浅.md
@@ -1106,7 +1106,7 @@ entries:
   - Coser
   - 中国
   - 网红
-  completeness: 90
+  completeness: 100
 - name: 王一霏
   reading: ''
   path: W/王一霏.md
@@ -1123,7 +1123,7 @@ entries:
   tags:
   - 网红
   - 中国
-  completeness: 90
+  completeness: 100
 - name: 王慕清
   reading: ''
   path: W/王慕清.md
@@ -1193,7 +1193,7 @@ entries:
   tags:
   - 演员
   - 中国
-  completeness: 75
+  completeness: 100
 - name: 糯美子
   reading: ''
   path: N/糯美子.md
@@ -1216,7 +1216,7 @@ entries:
   tags:
   - 模特
   - 中国
-  completeness: 90
+  completeness: 100
 - name: 菅韧姿
   reading: ''
   path: J/菅韧姿.md
@@ -1282,7 +1282,7 @@ entries:
   - 网红
   - 模特
   - 加拿大（华裔）
-  completeness: 90
+  completeness: 100
 - name: 谭靓
   reading: ''
   path: T/谭靓.md
@@ -1314,7 +1314,7 @@ entries:
   tags:
   - 模特
   - 中国
-  completeness: 90
+  completeness: 100
 - name: 赵舒淇
   reading: ''
   path: Z/赵舒淇.md
@@ -1417,7 +1417,7 @@ entries:
   tags:
   - 演员
   - 中国
-  completeness: 90
+  completeness: 100
 - name: 鱼神
   reading: ''
   path: Y/鱼神.md
@@ -1783,7 +1783,7 @@ entries:
   tags:
   - 网红
   - 马来西亚
-  completeness: 90
+  completeness: 100
 - name: 千歳吉野
   reading: ちとせ よしの
   path: C/千歳吉野.md
@@ -1993,7 +1993,7 @@ entries:
   - 模特
   - 泰国
   - 网红
-  completeness: 90
+  completeness: 100
 - name: Pichana Yoosuk
   reading: ''
   path: P/Pichana_Yoosuk.md
@@ -2001,7 +2001,7 @@ entries:
   - 演员
   - 泰国
   - 模特
-  completeness: 90
+  completeness: 100
 - name: Pishen Eva
   reading: ''
   path: P/Pishen_Eva.md
@@ -2065,7 +2065,7 @@ entries:
   - 模特
   - 泰国
   - 网红
-  completeness: 90
+  completeness: 100
 - name: Violet Summers
   reading: ''
   path: V/Violet_Summers.md
