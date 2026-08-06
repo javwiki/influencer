@@ -19,6 +19,14 @@ verification: verified
 | 出生日期 | 1971年3月19日 |
 | 出生地 | 德国柏林 |
 
+## 生涯概要
+
+- 1989年在柏林一家咖啡馆被发掘，签约巴黎 Karin 模特经纪公司。
+- 1991年转签 Elite 模特经纪公司，登上《Vogue》巴黎版并出演贝纳通（Benetton）广告。
+- 1994年9月同时登上《Vogue》与《Harper's Bazaar》封面；职业生涯累计登上全球 100 余本杂志封面，包括《Elle》《i-D》等。
+- 曾为普拉达、香奈儿、杜嘉班纳、爱马仕等品牌拍摄广告，1990年代末担任资生堂国际代言人。
+- 曾被吉尼斯世界纪录认证为拥有当时全球最长双腿的模特。
+
 ## 参考资料
 
 - English Wikipedia：Nadja Auermann（核验日期：2026-08-04）：https://en.wikipedia.org/wiki/Nadja_Auermann
