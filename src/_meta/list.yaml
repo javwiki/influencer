@@ -1,3 +1,4 @@
+---
 entries:
 - name: sibyl是女巫
   reading: ''
@@ -1021,14 +1022,14 @@ entries:
   tags:
   - 网红
   - 中国
-  completeness: 90
+  completeness: 100
 - name: 沈可乐
   reading: ''
   path: S/沈可乐.md
   tags:
   - 模特
   - 中国
-  completeness: 90
+  completeness: 100
 - name: 沈蜜桃
   reading: ''
   path: S/沈蜜桃.md
@@ -1563,7 +1564,7 @@ entries:
   - 歌手
   - 舞者
   - 韩国
-  completeness: 90
+  completeness: 100
 - name: 서리나
   reading: 서리나
   path: S/서리나.md
@@ -1714,7 +1715,7 @@ entries:
   tags:
   - 网红
   - 韩国
-  completeness: 90
+  completeness: 100
 - name: Emma Kusunoki (楠エマ)
   reading: ''
   path: E/emma_kusunoki.md

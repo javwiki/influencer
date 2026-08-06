@@ -18,7 +18,7 @@ verification: verified
 | 资料状态 | 已核验 |
 | 艺名 | Shasa (샤사) |
 | 本名 | 전시내 (Jeon Si Nae) |
-| 出生 | 1993-09-07 |
+| 出生 | 1993年9月7日 |
 | 星座 | Virgo |
 | 身高 | 166cm |
 | 体重 | 48kg |

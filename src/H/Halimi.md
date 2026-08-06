@@ -17,7 +17,7 @@ verification: verified
 | 地区 | 韩国 |
 | 资料状态 | 已核验 |
 | 本名 | 이하림 (Lee Halim, 李河林) |
-| 出生 | 1991-08-26 |
+| 出生 | 1991年8月26日 |
 | 出身 | 부산광역시 |
 | SOOP | ♥HLM♥ |
 | YouTube | HALIMI 하리미 (1.45万) |
