@@ -1,5 +1,5 @@
 ---
-tags: [模特, 英国]
+tags: [模特, 英国, 歌手, 网红]
 verification: pending
 ---
 

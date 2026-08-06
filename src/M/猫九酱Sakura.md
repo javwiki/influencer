@@ -1,5 +1,5 @@
 ---
-tags: [Coser, 中国, 网红]
+tags: [Coser, 中国, 网红, 偶像, 1995年]
 verification: partial
 ---
 

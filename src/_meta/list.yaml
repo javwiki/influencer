@@ -6,6 +6,7 @@ entries:
   tags:
   - 模特
   - 中国
+  - 1993年
   completeness: 100
 - name: 赤井沙希
   reading: あかい さき
@@ -236,6 +237,7 @@ entries:
   - 模特
   - 演员
   - 日本
+  - 1975年
   completeness: 100
 - name: 瀬戸真凜
   reading: せと まりん
@@ -389,6 +391,16 @@ entries:
   - 偶像
   - 日本
   - 1999年
+  completeness: 100
+- name: 葉月くれあ
+  reading: はづき くれあ
+  path: H/葉月くれあ.md
+  tags:
+  - グラビアアイドル
+  - 日本
+  - 模特
+  - 网红
+  - 2003年
   completeness: 100
 - name: 風吹ケイ
   reading: ふぶき けい
@@ -572,6 +584,7 @@ entries:
   tags:
   - 网红
   - 中国
+  - 演员
   completeness: 100
 - name: 吴婷
   reading: ''
@@ -604,6 +617,7 @@ entries:
   - 演员
   - 中国
   - 模特
+  - 1988年
   completeness: 100
 - name: 周娇
   reading: ''
@@ -710,6 +724,7 @@ entries:
   tags:
   - 模特
   - 中国
+  - 1988年
   completeness: 100
 - name: 张优
   reading: ''
@@ -735,6 +750,8 @@ entries:
   tags:
   - 模特
   - 中国
+  - 演员
+  - 1990年
   completeness: 100
 - name: 张宇婷
   reading: ''
@@ -742,6 +759,8 @@ entries:
   tags:
   - 网红
   - 台湾
+  - 模特
+  - 1991年
   completeness: 100
 - name: 张已桂
   reading: ''
@@ -751,6 +770,7 @@ entries:
   - 中国
   - 模特
   - 歌手
+  - 1992年
   completeness: 100
 - name: 张籽沐
   reading: ''
@@ -809,6 +829,8 @@ entries:
   tags:
   - 演员
   - 中国
+  - 模特
+  - 歌手
   completeness: 75
 - name: 曾之乔
   reading: ''
@@ -865,6 +887,7 @@ entries:
   tags:
   - 模特
   - 中国
+  - 1993年
   completeness: 100
 - name: 李凯莉
   reading: ''
@@ -1036,6 +1059,7 @@ entries:
   tags:
   - 模特
   - 中国
+  - 1995年
   completeness: 100
 - name: 浅浅
   reading: ''
@@ -1114,6 +1138,8 @@ entries:
   - Coser
   - 中国
   - 网红
+  - 偶像
+  - 1995年
   completeness: 100
 - name: 王一霏
   reading: ''
@@ -1131,6 +1157,8 @@ entries:
   tags:
   - 网红
   - 中国
+  - 模特
+  - 1997年
   completeness: 100
 - name: 王慕清
   reading: ''
@@ -1139,6 +1167,7 @@ entries:
   - 网红
   - 中国
   - 1988年
+  - 演员
   completeness: 100
 - name: 王明明
   reading: ''
@@ -1201,6 +1230,8 @@ entries:
   tags:
   - 主播
   - 中国
+  - 演员
+  - 1996年
   completeness: 100
 - name: 糯美子
   reading: ''
@@ -1224,6 +1255,7 @@ entries:
   tags:
   - 模特
   - 中国
+  - 1993年
   completeness: 100
 - name: 菅韧姿
   reading: ''
@@ -1257,6 +1289,7 @@ entries:
   tags:
   - 模特
   - 中国
+  - 主持人
   completeness: 100
 - name: 袁冰妍
   reading: ''
@@ -1290,6 +1323,7 @@ entries:
   - 网红
   - 模特
   - 加拿大（华裔）
+  - 1994年
   completeness: 100
 - name: 谭靓
   reading: ''
@@ -1322,6 +1356,7 @@ entries:
   tags:
   - 模特
   - 中国
+  - 1990年
   completeness: 100
 - name: 赵舒淇
   reading: ''
@@ -1394,6 +1429,7 @@ entries:
   - 模特
   - 中国
   - 1992年
+  - 演员
   completeness: 100
 - name: 颜丹晨
   reading: ''
@@ -1425,6 +1461,7 @@ entries:
   tags:
   - 演员
   - 中国
+  - 1992年
   completeness: 100
 - name: 鱼神
   reading: ''
@@ -1776,6 +1813,8 @@ entries:
   tags:
   - 模特
   - 英国
+  - 歌手
+  - 网红
   completeness: 90
 - name: Celine Farach
   reading: ''
@@ -1791,6 +1830,7 @@ entries:
   tags:
   - 网红
   - 马来西亚
+  - 1993年
   completeness: 100
 - name: 千歳吉野
   reading: ちとせ よしの
@@ -2001,6 +2041,7 @@ entries:
   - 模特
   - 泰国
   - 网红
+  - 1991年
   completeness: 100
 - name: Pichana Yoosuk
   reading: ''
@@ -2009,6 +2050,7 @@ entries:
   - 演员
   - 泰国
   - 模特
+  - 1996年
   completeness: 100
 - name: Pishen Eva
   reading: ''
@@ -2073,6 +2115,7 @@ entries:
   - 模特
   - 泰国
   - 网红
+  - 1993年
   completeness: 100
 - name: Violet Summers
   reading: ''
