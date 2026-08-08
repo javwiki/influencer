@@ -346,6 +346,15 @@ entries:
   - 日本
   - 1995年
   completeness: 100
+- name: 夏季
+  reading: なつき
+  path: N/夏季.md
+  tags:
+  - 模特
+  - 日本
+  - グラビアアイドル
+  - 网红
+  completeness: 100
 - name: 菜菜绪
   reading: ななお
   path: N/菜菜绪.md
