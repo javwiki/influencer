@@ -1648,6 +1648,16 @@ entries:
   - 韩国
   - 1992年
   completeness: 100
+- name: 야살
+  reading: 야살
+  path: Y/야살.md
+  tags:
+  - Coser
+  - 模特
+  - 网红
+  - 韩国
+  - 1999年
+  completeness: 100
 - name: 李秀彬
   reading: 이수빈
   path: L/李秀彬.md
@@ -1860,6 +1870,15 @@ entries:
   - 巴西
   - 网红
   completeness: 90
+- name: DJ Soda
+  reading: ''
+  path: D/DJ_Soda.md
+  tags:
+  - DJ
+  - 模特
+  - 韩国
+  - 1988年
+  completeness: 100
 - name: Dita Von Teese
   reading: ''
   path: D/Dita_Von_Teese.md
