@@ -105,7 +105,7 @@ verification: pending
   - 地区
   - YYYY年
   - 其他可核验标签
-  completeness: 60  # 按实际字段和来源计算，规则见 CONTENT_POLICY.md
+  completeness: 60  # 按实际字段和来源计算，规则见 README「本地构建」下方说明
 ```
 
 > **注意**：必须插入到正确的音序位置，保持列表有序。
