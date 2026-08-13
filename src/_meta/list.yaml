@@ -1593,6 +1593,14 @@ entries:
   - 韩国
   - 1990年
   completeness: 100
+- name: 배라소니
+  reading: 배라소니
+  path: B/배라소니.md
+  tags:
+  - 网红
+  - 韩国
+  - 1995年
+  completeness: 100
 - name: 보미
   reading: 보미
   path: B/보미.md
