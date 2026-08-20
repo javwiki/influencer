@@ -1,5 +1,5 @@
 ---
-tags: [模特, 网红, Coser, 英国, 1996年]
+tags: [模特, 网红, Coser, 英国]
 verification: verified
 ---
 

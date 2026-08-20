@@ -30,15 +30,9 @@ metadata.fetch("entries").each do |entry|
   description = content[/## 简介\n\n(.+?)(?=\n\n## |\z)/m, 1].to_s
   region = content[/^\| 地区 \| ([^|]+) \|$/, 1]&.strip
   region = "中国" if region == "大陆"
-  birth_year = content[/^\| 出生(?:日期|年份|年月|日) \| [^|]*?([12][0-9]{3})年/, 1]
-  birth_year ||= description[/出生于?([12][0-9]{3})年/, 1]
-  birth_year ||= description[/[（(][^）)]*?([12][0-9]{3})年/, 1]
-  birth_year ||= description[/([12][0-9]{3})年[^。，；]{0,8}?出生于/, 1]
-
   tags = current
   tags += identity_rules.filter_map { |tag, pattern| tag if description.match?(pattern) }
   tags << region if region
-  tags << "#{birth_year}年" if birth_year
   tags = tags.uniq
 
   next if tags == current && !content[%r{^tags:\s*\[}]

@@ -1,5 +1,5 @@
 ---
-tags: [模特, 乌克兰, 1993年]
+tags: [模特, 乌克兰]
 verification: partial
 ---
 

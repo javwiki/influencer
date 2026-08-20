@@ -1,5 +1,5 @@
 ---
-tags: [模特, 作家, 美国, 1972年]
+tags: [模特, 作家, 美国]
 verification: verified
 ---
 

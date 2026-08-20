@@ -1,5 +1,5 @@
 ---
-tags: [模特, 演员, 美国, 1992年]
+tags: [模特, 演员, 美国]
 verification: verified
 ---
 

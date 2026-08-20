@@ -1,5 +1,5 @@
 ---
-tags: [网红, 演员, 模特, 马来西亚, 1985年, DJ]
+tags: [网红, 演员, 模特, 马来西亚, DJ]
 verification: verified
 ---
 

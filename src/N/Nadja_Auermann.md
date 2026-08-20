@@ -1,5 +1,5 @@
 ---
-tags: [模特, 德国, 1971年, 演员]
+tags: [模特, 德国, 演员]
 verification: verified
 ---
 

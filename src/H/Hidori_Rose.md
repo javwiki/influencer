@@ -1,5 +1,5 @@
 ---
-tags: [Coser, 日本, 模特, 网红, 2019年]
+tags: [Coser, 日本, 模特, 网红]
 verification: verified
 ---
 

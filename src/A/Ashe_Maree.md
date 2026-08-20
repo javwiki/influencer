@@ -1,5 +1,5 @@
 ---
-tags: [模特, 美国, 1993年, 网红]
+tags: [模特, 美国, 网红]
 verification: partial
 ---
 

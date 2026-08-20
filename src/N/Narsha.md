@@ -1,5 +1,5 @@
 ---
-tags: [歌手, 演员, 主持人, 韩国, 1981年]
+tags: [歌手, 演员, 主持人, 韩国]
 verification: verified
 ---
 

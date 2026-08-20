@@ -1,5 +1,5 @@
 ---
-tags: [DJ, 模特, 韩国, 1988年]
+tags: [DJ, 模特, 韩国]
 verification: verified
 ---
 

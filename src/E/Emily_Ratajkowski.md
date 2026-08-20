@@ -1,5 +1,5 @@
 ---
-tags: [模特, 演员, 作家, 美国, 1991年]
+tags: [模特, 演员, 作家, 美国]
 verification: verified
 ---
 

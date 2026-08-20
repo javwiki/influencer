@@ -1,5 +1,5 @@
 ---
-tags: [演员, 歌手, 台湾, 1994年, 主持人]
+tags: [演员, 歌手, 台湾, 主持人]
 verification: verified
 ---
 

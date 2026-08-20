@@ -1,5 +1,5 @@
 ---
-tags: [演员, 泰国, 模特, 1996年]
+tags: [演员, 泰国, 模特]
 verification: partial
 ---
 

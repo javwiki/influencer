@@ -1,5 +1,5 @@
 ---
-tags: [模特, 网红, 美国, 1999年]
+tags: [模特, 网红, 美国]
 verification: partial
 ---
 

@@ -1,5 +1,5 @@
 ---
-tags: [模特, 巴西, 网红, 舞者, 1988年]
+tags: [模特, 巴西, 网红, 舞者]
 verification: verified
 ---
 

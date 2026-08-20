@@ -1,5 +1,5 @@
 ---
-tags: [模特, 美国, 1997年]
+tags: [模特, 美国]
 verification: partial
 ---
 

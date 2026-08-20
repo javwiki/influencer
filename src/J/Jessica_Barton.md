@@ -1,5 +1,5 @@
 ---
-tags: [模特, 美国, 1984年]
+tags: [模特, 美国]
 verification: verified
 ---
 

@@ -1,5 +1,5 @@
 ---
-tags: [模特, 中国, 1993年]
+tags: [模特, 中国]
 verification: partial
 ---
 

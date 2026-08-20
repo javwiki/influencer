@@ -1,5 +1,5 @@
 ---
-tags: [网红, 马来西亚, 1993年]
+tags: [网红, 马来西亚]
 verification: verified
 ---
 

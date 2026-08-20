@@ -1,5 +1,5 @@
 ---
-tags: [演员, 泰国, 1986年, 主持人]
+tags: [演员, 泰国, 主持人]
 verification: verified
 ---
 

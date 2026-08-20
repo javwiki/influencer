@@ -1,5 +1,5 @@
 ---
-tags: [歌手, 日本, 1998年]
+tags: [歌手, 日本]
 verification: verified
 ---
 

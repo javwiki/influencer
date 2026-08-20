@@ -1,5 +1,5 @@
 ---
-tags: [歌手, 演员, 美国, 1978年]
+tags: [歌手, 演员, 美国]
 verification: verified
 ---
 

@@ -1,5 +1,5 @@
 ---
-tags: [模特, 泰国, 网红, 1993年]
+tags: [模特, 泰国, 网红]
 verification: partial
 ---
 

@@ -1,5 +1,5 @@
 ---
-tags: [模特, 网红, 美国, 1991年, 演员, 歌手]
+tags: [模特, 网红, 美国, 演员, 歌手]
 verification: verified
 ---
 

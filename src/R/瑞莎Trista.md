@@ -1,5 +1,5 @@
 ---
-tags: [模特, 演员, 台湾, 1985年, 运动员]
+tags: [模特, 演员, 台湾, 运动员]
 verification: verified
 ---
 
