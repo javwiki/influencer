@@ -876,10 +876,6 @@ entries:
   reading: ''
   path: D/Daiane_Novais.md
   completeness: 90
-- name: Devin Lee
-  reading: ''
-  path: D/Devin_Lee.md
-  completeness: 100
 - name: DJ Soda
   reading: ''
   path: D/DJ_Soda.md
@@ -908,10 +904,6 @@ entries:
   reading: ''
   path: H/Hidori_Rose.md
   completeness: 100
-- name: Jade Venus
-  reading: ''
-  path: J/Jade_Venus.md
-  completeness: 100
 - name: Jessica Barton
   reading: ''
   path: J/Jessica_Barton.md
@@ -923,10 +915,6 @@ entries:
 - name: Kate Upton
   reading: ''
   path: K/Kate_Upton.md
-  completeness: 100
-- name: Korra Del Rio
-  reading: ''
-  path: K/Korra_Del_Rio.md
   completeness: 100
 - name: Laci Kay Somers
   reading: ''
@@ -944,17 +932,9 @@ entries:
   reading: ''
   path: L/Leona_Mia.md
   completeness: 100
-- name: Lily Lou
-  reading: ''
-  path: L/Lily_Lou.md
-  completeness: 100
 - name: Lucciana Beatriz Beynon
   reading: ''
   path: L/Lucciana_Beatriz_Beynon.md
-  completeness: 100
-- name: Lucie Wilde
-  reading: ''
-  path: L/Lucie_Wilde.md
   completeness: 100
 - name: Lynn
   reading: ''
