@@ -16,6 +16,7 @@ errors = []
 metadata = YAML.load_file(LIST_PATH)
 entries = metadata.fetch("entries")
 seen_paths = {}
+profile_tags = {}
 
 entries.each do |entry|
   relative_path = entry.fetch("path")
@@ -37,6 +38,7 @@ entries.each do |entry|
   errors << "#{relative_path} 包含 CR/CRLF 换行" if content.include?("\r")
 
   tags = content[/^tags:\s*\[([^\]]+)\]/, 1]&.split(",")&.map(&:strip)
+  profile_tags[relative_path] = tags || []
   category = content[/^\| 分类 \| ([^|]+) \|$/, 1]
   verification = content[/^verification:\s*(pending|partial|verified)$/, 1]
   region = content[/^\| 地区 \| ([^|]+) \|$/, 1]
@@ -49,7 +51,6 @@ entries.each do |entry|
 
   errors << "#{relative_path} 缺少或错误的 tags" unless tags&.any?
   errors << "#{relative_path} 包含重复标签" if tags && tags.uniq != tags
-  errors << "#{relative_path} 的标签与索引不一致" unless entry["tags"] == tags
   errors << "#{relative_path} 的主标签与资料表分类不一致" unless category == tags&.first
   errors << "#{relative_path} 缺少 verification" unless verification
   errors << "#{relative_path} 缺少地区字段" unless region
@@ -92,7 +93,7 @@ profile_paths = Dir.glob(File.join(ROOT, "src/*/*.md"))
 (profile_paths - indexed_paths).each { |path| errors << "资料未加入索引：#{path}" }
 (indexed_paths - profile_paths).each { |path| errors << "索引包含非资料文件：#{path}" }
 
-tags_in_use = entries.flat_map { |entry| entry["tags"] }.uniq.sort
+tags_in_use = profile_tags.values.flatten.uniq.sort
 missing_tag_pages = tags_in_use.reject { |tag| File.file?(File.join(ROOT, "src/_tags", "#{tag}.md")) }
 missing_tag_pages.each { |tag| errors << "标签页缺失：src/_tags/#{tag}.md（请先运行 mdbook-tagging generate）" }
 

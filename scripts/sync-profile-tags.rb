@@ -3,8 +3,7 @@
 require "yaml"
 
 ROOT = File.expand_path("..", __dir__)
-LIST_PATH = File.join(ROOT, "src/_meta/list.yaml")
-metadata = YAML.load_file(LIST_PATH)
+metadata = YAML.load_file(File.join(ROOT, "src/_meta/list.yaml"))
 
 identity_rules = [
   ["演员", /演员|影视表演|舞台表演/],
@@ -46,7 +45,4 @@ metadata.fetch("entries").each do |entry|
 
   content = content.sub(/^tags:\s*\[[^\]]*\]$/, "tags: [#{tags.join(', ')}]")
   File.write(path, content)
-  entry["tags"] = tags
 end
-
-File.write(LIST_PATH, YAML.dump(metadata))
