@@ -1773,6 +1773,14 @@ entries:
   - 韩国
   - 1978年
   completeness: 100
+- name: 崔雪华
+  reading: 최설화
+  path: C/崔雪华.md
+  tags:
+  - 模特
+  - 韩国
+  - 1993年
+  completeness: 100
 - name: Halimi
   reading: 하리미
   path: H/Halimi.md
