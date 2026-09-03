@@ -104,9 +104,17 @@ entries:
   reading: さいとう やすよ
   path: S/斎藤恭代.md
   completeness: 100
+- name: 紗綾
+  reading: さあや
+  path: S/紗綾.md
+  completeness: 100
 - name: 佐々野愛美
   reading: ささの あみ
   path: S/佐々野愛美.md
+  completeness: 100
+- name: 真田まこと
+  reading: さなだ まこと
+  path: S/真田まこと.md
   completeness: 100
 - name: 沢地優佳
   reading: さわち ゆうか
@@ -135,6 +143,10 @@ entries:
 - name: 泷川雅美
   reading: たきがわ まさみ
   path: T/泷川雅美.md
+  completeness: 100
+- name: 滝沢乃南
+  reading: たきざわ のなみ
+  path: T/滝沢乃南.md
   completeness: 100
 - name: 辰巳希娜
   reading: たつみ きな
@@ -188,6 +200,10 @@ entries:
   reading: はづき くれあ
   path: H/葉月くれあ.md
   completeness: 100
+- name: 馬場ふみか
+  reading: ばば ふみか
+  path: B/馬場ふみか.md
+  completeness: 100
 - name: 風吹ケイ
   reading: ふぶき けい
   path: F/風吹ケイ.md
@@ -216,6 +232,10 @@ entries:
   reading: みやせ いと
   path: M/宮瀬いと.md
   completeness: 100
+- name: 桃月なしこ
+  reading: ももつき なしこ
+  path: M/桃月なしこ.md
+  completeness: 100
 - name: 森咲智美
   reading: もりさき ともみ
   path: M/森咲智美.md
@@ -227,6 +247,10 @@ entries:
 - name: 柳瀬さき
   reading: やなせ さき
   path: Y/柳瀬さき.md
+  completeness: 100
+- name: 雪平莉左
+  reading: ゆきひら りさ
+  path: Y/雪平莉左.md
   completeness: 100
 - name: 吉永小百合
   reading: よしなが さゆり
