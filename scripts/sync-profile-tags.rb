@@ -3,7 +3,7 @@
 require "yaml"
 
 ROOT = File.expand_path("..", __dir__)
-metadata = YAML.load_file(File.join(ROOT, "src/_meta/list.yaml"))
+metadata = YAML.load_file(File.join(ROOT, "docs/_meta/list.yaml"))
 
 identity_rules = [
   ["演员", /演员|影视表演|舞台表演/],
@@ -20,7 +20,7 @@ identity_rules = [
 ].freeze
 
 metadata.fetch("entries").each do |entry|
-  path = File.join(ROOT, "src", entry.fetch("path"))
+  path = File.join(ROOT, "docs", entry.fetch("path"))
   unless File.file?(path)
     warn "跳过缺失资料文件：#{entry.fetch('path')}"
     next

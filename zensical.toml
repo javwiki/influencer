@@ -1,0 +1,22 @@
+[project]
+site_name = "influencer"
+site_url = "https://javwiki.github.io/influencer/"
+site_description = "社交媒体创作者与公众人物资料索引。"
+site_author = "Mark Chen"
+repo_url = "https://github.com/javwiki/influencer"
+repo_name = "javwiki/influencer"
+edit_uri = "edit/main/docs/"
+use_directory_urls = true
+
+[project.theme]
+variant = "classic"
+language = "zh"
+features = [
+  "navigation.instant",
+  "navigation.path",
+  "navigation.sections",
+  "navigation.top",
+  "search.highlight",
+]
+
+[project.plugins.tags]

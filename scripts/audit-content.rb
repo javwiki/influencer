@@ -3,7 +3,7 @@
 require "yaml"
 
 ROOT = File.expand_path("..", __dir__)
-LIST_PATH = File.join(ROOT, "src/_meta/list.yaml")
+LIST_PATH = File.join(ROOT, "docs/_meta/list.yaml")
 PLACEHOLDER_PATTERNS = [
   /活跃于影视圈/,
   /活跃于韩剧圈/,
@@ -16,11 +16,11 @@ errors = []
 metadata = YAML.load_file(LIST_PATH)
 entries = metadata.fetch("entries")
 seen_paths = {}
-profile_tags = {}
+profiletags = {}
 
 entries.each do |entry|
   relative_path = entry.fetch("path")
-  profile_path = File.join(ROOT, "src", relative_path)
+  profile_path = File.join(ROOT, "docs", relative_path)
 
   if seen_paths.key?(relative_path)
     errors << "重复索引路径：#{relative_path}"
@@ -38,7 +38,7 @@ entries.each do |entry|
   errors << "#{relative_path} 包含 CR/CRLF 换行" if content.include?("\r")
 
   tags = content[/^tags:\s*\[([^\]]+)\]/, 1]&.split(",")&.map(&:strip)
-  profile_tags[relative_path] = tags || []
+  profiletags[relative_path] = tags || []
   category = content[/^\| 分类 \| ([^|]+) \|$/, 1]
   verification = content[/^verification:\s*(pending|partial|verified)$/, 1]
   region = content[/^\| 地区 \| ([^|]+) \|$/, 1]
@@ -85,17 +85,13 @@ entries.each do |entry|
 end
 
 indexed_paths = seen_paths.keys.sort
-profile_paths = Dir.glob(File.join(ROOT, "src/*/*.md"))
-                   .reject { |path| path.include?("/_meta/") || path.include?("/_tags/") || File.basename(path) == "README.md" }
-                   .map { |path| path.delete_prefix(File.join(ROOT, "src/")) }
+profile_paths = Dir.glob(File.join(ROOT, "docs/*/*.md"))
+                   .reject { |path| path.include?("/_meta/") || path.include?("/tags/") || File.basename(path) == "index.md" }
+                   .map { |path| path.delete_prefix(File.join(ROOT, "docs/")) }
                    .sort
 
 (profile_paths - indexed_paths).each { |path| errors << "资料未加入索引：#{path}" }
 (indexed_paths - profile_paths).each { |path| errors << "索引包含非资料文件：#{path}" }
-
-tags_in_use = profile_tags.values.flatten.uniq.sort
-missing_tag_pages = tags_in_use.reject { |tag| File.file?(File.join(ROOT, "src/_tags", "#{tag}.md")) }
-missing_tag_pages.each { |tag| errors << "标签页缺失：src/_tags/#{tag}.md（请先运行 mdbook-tagging generate）" }
 
 if errors.empty?
   puts "内容审查通过：#{entries.length} 个条目"

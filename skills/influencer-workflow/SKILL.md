@@ -1,19 +1,19 @@
 ---
 name: influencer-workflow
-description: Influencer book 项目完整工作流 — 新增/修改条目、开放多标签、更新索引、内容审查、构建验证和推送 main 的端到端流程
+description: Influencer site 项目完整工作流 — 新增/修改条目、开放多标签、更新索引、内容审查、构建验证和推送 main 的端到端流程
 ---
 
 # Skill: 完整工作流 — Influencer Book 项目
 
-本 Skill 定义了在本项目（influencer book — mdbook 知识库）中的**完整端到端工作流**。处理任何任务时，按以下阶段依次执行，不要跳过。
+本 Skill 定义了在本项目（influencer site — Zensical 知识库）中的**完整端到端工作流**。处理任何任务时，按以下阶段依次执行，不要跳过。
 
 ---
 
 ## 第 1 阶段：需求分析与探索
 
 1. **明确任务**：搞清楚要做什么——新增条目、修改现有条目、批量操作、还是其他。
-2. **查阅现有条目**：在 `src/{首字母}/` 下找同名文件确认是否已存在。
-3. **查阅 `src/_meta/list.yaml`**：确认条目是否已在索引中。
+2. **查阅现有条目**：在 `docs/{首字母}/` 下找同名文件确认是否已存在。
+3. **查阅 `docs/_meta/list.yaml`**：确认条目是否已在索引中。
 4. **查阅同类条目**：找到与目标人物同分类/同标签的现有条目，参考其格式与字段。
 5. **身份验证（重要）**：用户提供的社交账号（如 `ig@xxx`、`x@xxx`），必须从**该平台本身**获取真实身份信息。
    - **严禁**：仅凭相似用户名就跨平台推定是同一人（如 `ig@babbyang.g` ≠ `x@babbyangg`）
@@ -46,7 +46,7 @@ description: Influencer book 项目完整工作流 — 新增/修改条目、开
 - **日文名**：取平假名读音首字母作为目录（如 沢地優佳（さわち）→ S/）
 - **韩文名**：取韩文读音首字母作为目录（如 李孝利（이효리）→ L/）
 - **英文名**：取首字母作为目录（如 Ariana Grande → A/）
-- 文件路径：`src/{首字母}/{人物名}.md`
+- 文件路径：`docs/{首字母}/{人物名}.md`
 - 同名人物加区分后缀。
 
 ### 文件格式模板
@@ -87,7 +87,7 @@ verification: pending
 - **动态信息**：团体、所属机构、粉丝数及平台状态等必须注明核验日期。
 - **禁止占位描述**：不得使用“活跃于影视圈”“受到广泛关注”等无法核实且没有信息量的模板句。
 
-## 第 3 阶段：更新索引 `src/_meta/list.yaml`
+## 第 3 阶段：更新索引 `docs/_meta/list.yaml`
 
 在 `list.yaml` 的 `entries` 列表中按**语言对应的音序**插入新的条目记录（各语言按自身音序排列，跨语言时按首字母/音整体排序）：
 
@@ -109,7 +109,7 @@ verification: pending
 
 ## 第 4 阶段：构建验证
 
-`src/SUMMARY.md`、各字母目录的 `README.md` 和 `src/_meta/README.md` 均由 `mdbook-summarizer` 自动生成并已忽略，不应加入版本控制。
+各字母目录的 `index.md` 和 `docs/_meta/index.md` 是导航源文件，应随内容一起维护；Zensical 按目录结构自动生成导航。
 
 修改标签后，运行同步脚本。该脚本保留人工标签，并从正文中同步明确职业和地区：
 
@@ -121,11 +121,10 @@ ruby scripts/sync-profile-tags.rb
 
 ```bash
 ruby scripts/audit-content.rb
-mdbook-summarizer --src src --auto-readme
-mdbook build
+uvx --from zensical==0.0.62 zensical build --clean --strict
 ```
 
-`audit-content.rb` 会检查标签非空、无重复、正文与索引完全一致，以及第一个标签与资料表“分类”一致。检查并修复所有错误或警告。验证完成后删除本地生成的 `src/SUMMARY.md`，保持工作区符合项目约定。
+`audit-content.rb` 会检查标签非空、无重复、正文与索引完全一致，以及第一个标签与资料表“分类”一致。检查并修复所有错误或警告。
 
 ## 第 5 阶段：提交与推送
 
