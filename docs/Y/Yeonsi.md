@@ -33,4 +33,3 @@ verification: verified
 
 - namu.wiki: https://namu.wiki/w/연시(인터넷 방송인)
 - Instagram: https://instagram.com/yonsicute33
-- 福利吧: https://fuliba.net/sexytage777.html
