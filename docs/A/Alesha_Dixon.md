@@ -17,6 +17,7 @@ verification: verified
 | 地区 | 英国 |
 | 资料状态 | 已核验 |
 | 出生日期 | 1978年10月7日 |
+| 出生地 | 韦林花园城 |
 | 主要组合 | Mis-Teeq |
 | 主要领域 | 音乐、舞蹈、电视节目 |
 
@@ -31,3 +32,4 @@ verification: verified
 
 - Wikipedia：Alesha Dixon（核验日期：2026-07-28）：https://en.wikipedia.org/wiki/Alesha_Dixon
 - National Baton Twirling Association 人物介绍（核验日期：2026-07-28）：https://www.nbta-uk.org.uk/team-member/alesha-dixon/
+- Wikidata：Q19182（核验日期：2026-10-23）：https://www.wikidata.org/wiki/Q19182

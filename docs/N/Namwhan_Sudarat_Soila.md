@@ -1,6 +1,6 @@
 ---
 tags: [网红, 泰国]
-verification: verified
+verification: partial
 ---
 
 # Namwhan Sudarat Soila
@@ -15,7 +15,7 @@ Sudarat Soila（สุดารัตน์ สร้อยลา，昵称 Namwh
 |------|-----|
 | 分类 | 网红 |
 | 地区 | 泰国 |
-| 资料状态 | 已核验 |
+| 资料状态 | 部分核验 |
 | 泰文名 | สุดารัตน์ สร้อยลา |
 | TikTok 显示名 | น้ำหวานที่ผิวขาวๆ |
 | TikTok | @namwan.namwhan（粉丝约140万，核验日期：2026-08-24） |

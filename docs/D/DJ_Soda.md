@@ -17,6 +17,7 @@ DJ Soda（本名 Hwang So-hee，韩文：황소희，1988年4月7日—），韩
 | 地区 | 韩国 |
 | 资料状态 | 已核验 |
 | 出生日期 | 1988年4月7日 |
+| 出生地 | 首尔 |
 | 本名 | Hwang So-hee（황소희） |
 | 身份 | DJ / 模特 |
 | 所属厂牌 | Highline Entertainment / Warner Music Group |

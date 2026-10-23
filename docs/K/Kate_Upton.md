@@ -15,7 +15,9 @@ verification: verified
 |------|-----|
 | 分类 | 模特 |
 | 地区 | 美国 |
-| 出生年份 | 1992年 |
+| 出生日期 | 1992年6月10日 |
+| 出生地 | 密歇根州 |
+| 身高 | 178 cm |
 | 主要身份 | 模特、演员 |
 | 资料状态 | 已核验 |
 | 备注 | 多次登上《体育画报》泳装特刊封面 |
@@ -31,3 +33,4 @@ verification: verified
 
 - [Kate Upton - Wikipedia](https://en.wikipedia.org/wiki/Kate_Upton)（核验日期：2026-07-28）
 - [Kate Upton - IMDb](https://www.imdb.com/name/nm4478322/)（核验日期：2026-07-28）
+- Wikidata：Q231536（核验日期：2026-10-23）：https://www.wikidata.org/wiki/Q231536

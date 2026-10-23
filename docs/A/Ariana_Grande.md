@@ -15,7 +15,9 @@ verification: verified
 |------|-----|
 | 分类 | 歌手 |
 | 地区 | 美国 |
-| 出生年份 | 1993年 |
+| 出生日期 | 1993年6月26日 |
+| 出生地 | 佛罗里达州博卡拉顿 |
+| 身高 | 153 cm |
 | 主要身份 | 歌手、词曲作者、演员 |
 | 资料状态 | 已核验 |
 | 备注 | 格莱美奖获奖歌手 |
@@ -31,3 +33,4 @@ verification: verified
 
 - [Ariana Grande - Wikipedia](https://en.wikipedia.org/wiki/Ariana_Grande)（核验日期：2026-07-28）
 - [Ariana Grande - Grammy Awards](https://www.grammy.com/artists/ariana-grande/18441/)（核验日期：2026-07-28）
+- Wikidata：Q151892（核验日期：2026-10-23）：https://www.wikidata.org/wiki/Q151892

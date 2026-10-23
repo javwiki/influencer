@@ -18,6 +18,7 @@ verification: verified
 | 资料状态 | 已核验 |
 | 出生日期 | 1971年3月19日 |
 | 出生地 | 德国柏林 |
+| 身高 | 180 cm |
 
 ## 生涯概要
 
@@ -30,3 +31,4 @@ verification: verified
 ## 参考资料
 
 - English Wikipedia：Nadja Auermann（核验日期：2026-08-04）：https://en.wikipedia.org/wiki/Nadja_Auermann
+- Wikidata：Q76665（核验日期：2026-10-23）：https://www.wikidata.org/wiki/Q76665

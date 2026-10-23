@@ -15,7 +15,9 @@ verification: verified
 |------|-----|
 | 分类 | 模特 |
 | 地区 | 德国 |
-| 出生年份 | 1986年 |
+| 出生日期 | 1986年1月30日 |
+| 出生地 | 莱茵兰-普法尔茨州特里尔 |
+| 身高 | 168 cm |
 | 主要身份 | 模特、演员 |
 | 资料状态 | 已核验 |
 | 备注 | 主要在美国开展职业活动 |
@@ -31,3 +33,4 @@ verification: verified
 
 - [Jordan Carver - Wikipedia](https://en.wikipedia.org/wiki/Jordan_Carver)（核验日期：2026-07-28）
 - [Jordan Carver - Wikidata](https://www.wikidata.org/wiki/Q125590)（核验日期：2026-07-28）
+- Wikidata：Q125590（核验日期：2026-10-23）：https://www.wikidata.org/wiki/Q125590

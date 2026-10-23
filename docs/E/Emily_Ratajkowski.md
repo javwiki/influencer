@@ -15,7 +15,9 @@ verification: verified
 |------|-----|
 | 分类 | 模特 |
 | 地区 | 美国 |
-| 出生年份 | 1991年 |
+| 出生日期 | 1991年6月7日 |
+| 出生地 | 英国伦敦 |
+| 身高 | 170 cm |
 | 主要身份 | 模特、演员、作家 |
 | 资料状态 | 已核验 |
 | 备注 | 参演电影《消失的爱人》 |
@@ -31,3 +33,4 @@ verification: verified
 
 - [Emily Ratajkowski - Wikipedia](https://en.wikipedia.org/wiki/Emily_Ratajkowski)（核验日期：2026-07-28）
 - [Emily Ratajkowski - Rotten Tomatoes](https://www.rottentomatoes.com/celebrity/emily_ratajkowski)（核验日期：2026-07-28）
+- Wikidata：Q5372335（核验日期：2026-10-23）：https://www.wikidata.org/wiki/Q5372335

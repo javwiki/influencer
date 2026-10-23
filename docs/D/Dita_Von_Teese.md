@@ -15,7 +15,8 @@ verification: verified
 |------|-----|
 | 分类 | 模特 |
 | 地区 | 美国 |
-| 出生年份 | 1972年 |
+| 出生日期 | 1972年9月28日 |
+| 出生地 | 密歇根州 |
 | 主要身份 | 滑稽歌舞表演者、模特、设计师 |
 | 资料状态 | 已核验 |
 | 备注 | 以复古舞台美学著称 |
@@ -31,3 +32,4 @@ verification: verified
 
 - [Dita Von Teese - Wikipedia](https://en.wikipedia.org/wiki/Dita_Von_Teese)（核验日期：2026-07-28）
 - [Dita Von Teese 官方网站](https://dita.net/)（核验日期：2026-07-28）
+- Wikidata：Q244214（核验日期：2026-10-23）：https://www.wikidata.org/wiki/Q244214

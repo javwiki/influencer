@@ -17,6 +17,7 @@ verification: verified
 | 地区 | 泰国 |
 | 资料状态 | 已核验 |
 | 出生日期 | 1986年7月16日 |
+| 出生地 | 然那华县 |
 | 泰语名 | ณปภา ตันตระกูล |
 
 ## 生涯概要
@@ -29,3 +30,4 @@ verification: verified
 ## 参考资料
 
 - 泰文 Wikipedia：ณปภา ตันตระกูล（核验日期：2026-08-04）：https://th.wikipedia.org/wiki/ณปภา_ตันตระกูล
+- Wikidata：Q13014708（核验日期：2026-10-23）：https://www.wikidata.org/wiki/Q13014708

@@ -15,7 +15,8 @@ verification: verified
 |------|-----|
 | 分类 | 歌手 |
 | 地区 | 韩国 |
-| 出生年份 | 1981年 |
+| 出生日期 | 1981年12月28日 |
+| 出生地 | 首尔 |
 | 主要身份 | 歌手、演员 |
 | 资料状态 | 已核验 |
 | 备注 | Brown Eyed Girls成员 |
@@ -31,3 +32,4 @@ verification: verified
 
 - [Narsha - Wikipedia](https://en.wikipedia.org/wiki/Narsha)（核验日期：2026-07-28）
 - [Brown Eyed Girls - Wikipedia](https://en.wikipedia.org/wiki/Brown_Eyed_Girls)（核验日期：2026-07-28）
+- Wikidata：Q491278（核验日期：2026-10-23）：https://www.wikidata.org/wiki/Q491278

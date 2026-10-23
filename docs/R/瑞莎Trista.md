@@ -15,7 +15,8 @@ verification: verified
 |------|-----|
 | 分类 | 模特 |
 | 地区 | 台湾 |
-| 出生年份 | 1985年 |
+| 出生日期 | 1985年2月21日 |
+| 出生地 | 敖德萨 |
 | 主要身份 | 模特儿、演员、韵律体操运动员 |
 | 资料状态 | 已核验 |
 
@@ -31,3 +32,4 @@ verification: verified
 
 - [瑞莎 - 维基百科](https://zh.wikipedia.org/wiki/瑞莎)（核验日期：2026-08-04）
 - [Larisa Bakurova - Wikipedia](https://en.wikipedia.org/wiki/Larisa_Bakurova)（核验日期：2026-08-04）
+- Wikidata：Q9317341（核验日期：2026-10-23）：https://www.wikidata.org/wiki/Q9317341
