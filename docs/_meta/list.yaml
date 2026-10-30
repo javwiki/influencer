@@ -607,7 +607,7 @@ entries:
 - name: 王希蔓
   reading: ''
   path: W/王希蔓.md
-  completeness: 90
+  completeness: 100
 - name: 瑞莎Trista
   reading: ''
   path: R/瑞莎Trista.md
@@ -691,7 +691,7 @@ entries:
 - name: 车模Glna
   reading: ''
   path: C/车模Glna.md
-  completeness: 75
+  completeness: 85
 - name: 邱淑贞
   reading: ''
   path: Q/邱淑贞.md
@@ -735,7 +735,7 @@ entries:
 - name: 鱼神
   reading: ''
   path: Y/鱼神.md
-  completeness: 90
+  completeness: 100
 - name: 姜敏京
   reading: 강민경
   path: K/姜敏京.md
@@ -747,7 +747,7 @@ entries:
 - name: Gyeowudi
   reading: 겨우디
   path: G/Gyeowudi.md
-  completeness: 90
+  completeness: 100
 - name: 고라니율
   reading: 고라니율
   path: G/고라니율.md
@@ -771,7 +771,7 @@ entries:
 - name: Mihye
   reading: 미혜
   path: M/Mihye.md
-  completeness: 90
+  completeness: 100
 - name: 朴敏英
   reading: 박민영
   path: P/朴敏英.md
@@ -799,7 +799,7 @@ entries:
 - name: 보미
   reading: 보미
   path: B/보미.md
-  completeness: 90
+  completeness: 100
 - name: Shasa
   reading: 샤사
   path: S/Shasa.md
@@ -831,7 +831,7 @@ entries:
 - name: 이연우
   reading: 이연우
   path: L/이연우.md
-  completeness: 90
+  completeness: 100
 - name: 李燕花
   reading: 이연화
   path: L/李燕花.md
@@ -847,11 +847,11 @@ entries:
 - name: 홍리
   reading: 홍리
   path: H/홍리.md
-  completeness: 90
+  completeness: 100
 - name: Yeonsi
   reading: 연시
   path: Y/Yeonsi.md
-  completeness: 90
+  completeness: 100
 - name: 장지민
   reading: 장지민
   path: J/장지민.md
@@ -871,7 +871,7 @@ entries:
 - name: mllnjx
   reading: 쩡
   path: M/mllnjx.md
-  completeness: 90
+  completeness: 100
 - name: 蔡妍
   reading: 채연
   path: C/蔡妍.md
@@ -907,7 +907,7 @@ entries:
 - name: Babbyang
   reading: ''
   path: B/Babbyang.md
-  completeness: 90
+  completeness: 100
 - name: Cara Rose
   reading: ''
   path: C/Cara_Rose.md
@@ -1027,11 +1027,11 @@ entries:
 - name: Pishen Eva
   reading: ''
   path: P/Pishen_Eva.md
-  completeness: 90
+  completeness: 100
 - name: Qiaoniu
   reading: ''
   path: Q/Qiaoniu.md
-  completeness: 90
+  completeness: 100
 - name: Reona
   reading: ''
   path: R/Reona.md
@@ -1063,4 +1063,4 @@ entries:
 - name: Waterlynn
   reading: ''
   path: W/Waterlynn.md
-  completeness: 90
+  completeness: 100
