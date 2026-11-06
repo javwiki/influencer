@@ -11,6 +11,7 @@ use_directory_urls = true
 [project.theme]
 variant = "classic"
 language = "zh"
+font = false
 # 首字母目录使用 navigation.indexes：字母 index.md 作为该字母的目录节点，
 # 条目作为其子级缩进显示（不再与目录页平级）。
 features = [
