@@ -121,7 +121,7 @@ ruby scripts/sync-profile-tags.rb
 
 ```bash
 ruby scripts/audit-content.rb
-uvx --from zensical==0.0.62 zensical build --clean --strict
+uvx --from zensical==0.1.0 zensical build --clean --strict
 ```
 
 `audit-content.rb` 会检查标签非空、无重复、正文与索引完全一致，以及第一个标签与资料表“分类”一致。检查并修复所有错误或警告。

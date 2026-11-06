@@ -30,7 +30,7 @@
 
 ```bash
 ruby scripts/audit-content.rb
-uvx --from zensical==0.0.62 zensical build --clean --strict
+uvx --from zensical==0.1.0 zensical build --clean --strict
 ```
 
 内容审查脚本会检查资料文件与索引是否一致、核验字段是否齐全、完整度是否正确，以及是否存在异常换行或断裂表格。Zensical 按 `index.md` 和目录结构自动生成导航。
